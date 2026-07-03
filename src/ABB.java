@@ -60,11 +60,10 @@ public class ABB<K, V> implements IMapeamento<K, V>{
      * @param funcaoChave a função que irá extrair a nova chave de cada item para a nova árvore.
      */
     public ABB(ABB<?,V> original, Function<V,K> funcaoChave, Comparator<K> comparador) {
-        ABB<K,V> nova = new ABB<>();
-        nova = copiarArvore(original.raiz, funcaoChave, nova);
-        this.raiz = nova.raiz;
+        this.raiz = null;
+        this.tamanho = 0;
         this.comparador = comparador;
-    
+        copiarArvore(original.raiz, funcaoChave, this);
     }
     
     /**
@@ -231,9 +230,13 @@ public class ABB<K, V> implements IMapeamento<K, V>{
      * @return o valor associado ao item removido.
 	 */
 	public V remover(K chave) {
+        comparacoes = 0;
+        LocalDateTime inicio = LocalDateTime.now();
 		V elemento = pesquisar(raiz, chave);
-        //marcar tempo e comparações
         raiz = remover(raiz, chave);
+        tamanho--;
+        LocalDateTime fim = LocalDateTime.now();
+        tempo = Duration.between(inicio, fim).toNanos();
 
 		return elemento;
 	}
