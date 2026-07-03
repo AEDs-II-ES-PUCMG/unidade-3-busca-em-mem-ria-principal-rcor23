@@ -123,6 +123,8 @@ public class App {
     static Produto localizarProdutoID(ABB<Integer, Produto> produtosCadastrados) {
 
         Integer codigo = lerOpcao("Digite o código do produto: ", Integer.class);
+    	if (codigo == null)
+    		return null;
     	return localizarProduto(produtosCadastrados, codigo);
     }
 
@@ -159,6 +161,8 @@ public class App {
      *  Em caso de não encontrar o produto, retorna null */
     static Produto removerProdutoId(ABB<Integer, Produto> produtosCadastrados) {
     	Integer codigo = lerOpcao("Digite o código do produto: ", Integer.class);
+    	if (codigo == null)
+    		return null;
     	return removerProduto(produtosCadastrados, codigo);
     }
 
@@ -195,6 +199,11 @@ public class App {
     private static void recortarProdutosId(ABB<Integer, Produto> produtosCadastrados) {
     	Integer deOnde = lerOpcao("Digite o código inicial do intervalo: ", Integer.class);
     	Integer ateOnde = lerOpcao("Digite o código final do intervalo: ", Integer.class);
+    	if (deOnde == null || ateOnde == null) {
+    		cabecalho();
+    		System.out.println("Código inválido.");
+    		return;
+    	}
     	recortarProduto(produtosCadastrados, deOnde, ateOnde);
     }
     
