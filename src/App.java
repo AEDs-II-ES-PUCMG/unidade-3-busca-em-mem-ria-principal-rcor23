@@ -180,7 +180,16 @@ public class App {
     }
 
     private static void inserirNaTabela(Produto produto, Pedido pedido) {
-        // TODO
+        Lista<Pedido> pedidosDoProduto;
+
+        try {
+            pedidosDoProduto = pedidosPorProduto.pesquisar(produto);
+        } catch (NoSuchElementException excecao) {
+            pedidosDoProduto = new Lista<>();
+            pedidosPorProduto.inserir(produto, pedidosDoProduto);
+        }
+
+        pedidosDoProduto.inserir(pedido);
     }
 
     private static void recortarArvore(ABB<String, Produto> arvore) {
