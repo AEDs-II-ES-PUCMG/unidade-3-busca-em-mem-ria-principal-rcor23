@@ -110,25 +110,29 @@ public class App {
     }
     
     static <K> Produto localizarProduto(ABB<K, Produto> produtosCadastrados, K procurado) {
-    	
-    	// TODO
-    	return null;
+
+    	try {
+    		return produtosCadastrados.pesquisar(procurado);
+    	} catch (NoSuchElementException excecao) {
+    		return null;
+    	}
     }
-    
-    /** Localiza um produto na árvore de produtos organizados por id, a partir do código de produto informado pelo usuário, e o retorna. 
+
+    /** Localiza um produto na árvore de produtos organizados por id, a partir do código de produto informado pelo usuário, e o retorna.
      *  Em caso de não encontrar o produto, retorna null */
     static Produto localizarProdutoID(ABB<Integer, Produto> produtosCadastrados) {
-        
-        //TODO
-    	return null;
+
+        Integer codigo = lerOpcao("Digite o código do produto: ", Integer.class);
+    	return localizarProduto(produtosCadastrados, codigo);
     }
-    
-    /** Localiza um produto na árvore de produtos organizados por nome, a partir do nome de produto informado pelo usuário, e o retorna. 
+
+    /** Localiza um produto na árvore de produtos organizados por nome, a partir do nome de produto informado pelo usuário, e o retorna.
      *  A busca não é sensível ao caso. Em caso de não encontrar o produto, retorna null */
     static Produto localizarProdutoNome(ABB<String, Produto> produtosCadastrados) {
-        
-    	//TODO
-    	return null;
+
+    	System.out.println("Digite o nome do produto: ");
+    	String nome = teclado.nextLine().toLowerCase();
+    	return localizarProduto(produtosCadastrados, nome);
     }
     
     private static void mostrarProduto(Produto produto) {
