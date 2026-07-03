@@ -179,15 +179,23 @@ public class App {
     }
     
     private static <K> void recortarProduto(ABB<K, Produto> produtosCadastrados, K deOnde, K ateOnde) {
-    	//TODO
+    	Lista<Produto> produtos = produtosCadastrados.recortar(deOnde, ateOnde);
+    	cabecalho();
+    	System.out.println(produtos);
     }
-    
+
     private static void recortarProdutosNome(ABB<String, Produto> produtosCadastrados) {
-    	//TODO
+    	System.out.println("Digite o nome inicial do intervalo: ");
+    	String deOnde = teclado.nextLine().toLowerCase();
+    	System.out.println("Digite o nome final do intervalo: ");
+    	String ateOnde = teclado.nextLine().toLowerCase();
+    	recortarProduto(produtosCadastrados, deOnde, ateOnde);
     }
-     
+
     private static void recortarProdutosId(ABB<Integer, Produto> produtosCadastrados) {
-    	//TODO
+    	Integer deOnde = lerOpcao("Digite o código inicial do intervalo: ", Integer.class);
+    	Integer ateOnde = lerOpcao("Digite o código final do intervalo: ", Integer.class);
+    	recortarProduto(produtosCadastrados, deOnde, ateOnde);
     }
     
     public static void main(String[] args) {
