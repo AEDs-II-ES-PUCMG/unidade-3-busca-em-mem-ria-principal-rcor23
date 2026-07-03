@@ -256,10 +256,30 @@ public class ABB<K, V> implements IMapeamento<K, V>{
 
     
     public Lista<V> recortar(K chaveDeOnde, K chaveAteOnde) {
-		
-    	// TODO
-		return null;
+    	Lista<V> itens = new Lista<>();
+    	recortar(raiz, chaveDeOnde, chaveAteOnde, itens);
+		return itens;
 	}
+
+    private void recortar(No<K, V> raizArvore, K chaveDeOnde, K chaveAteOnde, Lista<V> itens) {
+    	if (raizArvore == null)
+    		return;
+
+    	int comparacaoInicio = comparador.compare(raizArvore.getChave(), chaveDeOnde);
+    	int comparacaoFim = comparador.compare(raizArvore.getChave(), chaveAteOnde);
+
+    	if (comparacaoInicio > 0)
+    		/// Só há chance de existir item no intervalo à esquerda se a chave atual for maior que o início do intervalo.
+    		recortar(raizArvore.getEsquerda(), chaveDeOnde, chaveAteOnde, itens);
+
+    	if (comparacaoInicio >= 0 && comparacaoFim <= 0)
+    		/// A chave do nó atual está dentro do intervalo pedido.
+    		itens.inserir(raizArvore.getItem());
+
+    	if (comparacaoFim < 0)
+    		/// Só há chance de existir item no intervalo à direita se a chave atual for menor que o fim do intervalo.
+    		recortar(raizArvore.getDireita(), chaveDeOnde, chaveAteOnde, itens);
+    }
 
 	@Override
 	public int tamanho() {
