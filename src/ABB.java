@@ -135,8 +135,36 @@ public class ABB<K, V> implements IMapeamento<K, V>{
      * @return o tamanho atualizado da árvore após a execução da operação de inserção.
      */
     public int inserir(K chave, V item) {
-    	// TODO
+    	comparacoes = 0;
+    	inicio = System.nanoTime();
+    	raiz = inserir(raiz, chave, item);
+    	tamanho++;
+    	termino = System.nanoTime();
     	return tamanho;
+    }
+
+    private No<K, V> inserir(No<K, V> raizArvore, K chave, V item) {
+
+    	if (raizArvore == null)
+    		/// Se a raiz da árvore ou sub-árvore for null, a árvore/sub-árvore está vazia e então um novo item é inserido.
+    		return new No<>(chave, item);
+
+    	comparacoes++;
+    	int comparacao = comparador.compare(chave, raizArvore.getChave());
+
+    	if (comparacao < 0)
+    		/// Se a chave do item a inserir for menor do que a chave do item armazenado na raiz da árvore:
+    		/// insira esse item na sub-árvore esquerda e atualize a referência para a sub-árvore esquerda.
+    		raizArvore.setEsquerda(inserir(raizArvore.getEsquerda(), chave, item));
+    	else if (comparacao > 0)
+    		/// Se a chave do item a inserir for maior do que a chave do item armazenado na raiz da árvore:
+    		/// insira esse item na sub-árvore direita e atualize a referência para a sub-árvore direita.
+    		raizArvore.setDireita(inserir(raizArvore.getDireita(), chave, item));
+    	else
+    		/// Já existe um item com essa chave na árvore.
+    		throw new IllegalArgumentException("O item já foi inserido anteriormente na árvore.");
+
+    	return raizArvore;
     }
 
     @Override 
@@ -146,8 +174,18 @@ public class ABB<K, V> implements IMapeamento<K, V>{
 
     @Override
     public String percorrer() {
-    	// TODO
-    	return null;
+    	return caminhamentoEmOrdem(raiz);
+    }
+
+    private String caminhamentoEmOrdem(No<K, V> raizArvore) {
+    	if (raizArvore == null)
+    		return "";
+
+    	String resposta = caminhamentoEmOrdem(raizArvore.getEsquerda());
+    	resposta += raizArvore.getItem() + "\n";
+    	resposta += caminhamentoEmOrdem(raizArvore.getDireita());
+
+    	return resposta;
     }
 
     @Override
@@ -157,8 +195,63 @@ public class ABB<K, V> implements IMapeamento<K, V>{
      * @return o valor associado ao item removido.
      */
     public V remover(K chave) {
-    	// TODO
-    	return null;
+    	V removido = pesquisar(chave);
+
+    	comparacoes = 0;
+    	inicio = System.nanoTime();
+    	raiz = remover(raiz, chave);
+    	tamanho--;
+    	termino = System.nanoTime();
+
+    	return removido;
+    }
+
+    private No<K, V> remover(No<K, V> raizArvore, K chaveRemover) {
+
+    	comparacoes++;
+    	int comparacao = comparador.compare(chaveRemover, raizArvore.getChave());
+
+    	if (comparacao == 0) {
+    		/// O item armazenado na raiz da árvore é o item que deve ser retirado.
+    		if (raizArvore.getDireita() == null)
+    			/// Não há descendente à direita: a sub-árvore esquerda assume o lugar do nó removido.
+    			return raizArvore.getEsquerda();
+    		else if (raizArvore.getEsquerda() == null)
+    			/// Não há descendente à esquerda: a sub-árvore direita assume o lugar do nó removido.
+    			return raizArvore.getDireita();
+    		else
+    			/// O nó tem os dois descendentes: localiza-se o antecessor na sub-árvore esquerda
+    			/// e ele passa a ocupar o lugar do nó removido.
+    			raizArvore.setEsquerda(removerAntecessor(raizArvore, raizArvore.getEsquerda()));
+    	} else if (comparacao < 0)
+    		/// A chave a remover é menor: procure e remova na sub-árvore esquerda.
+    		raizArvore.setEsquerda(remover(raizArvore.getEsquerda(), chaveRemover));
+    	else
+    		/// A chave a remover é maior: procure e remova na sub-árvore direita.
+    		raizArvore.setDireita(remover(raizArvore.getDireita(), chaveRemover));
+
+    	return raizArvore;
+    }
+
+    /**
+     * Localiza, na sub-árvore informada, o antecessor do nó a ser removido (a maior chave
+     * dentre as menores que a dele), transfere seus dados para o nó removido e o retira da árvore.
+     * @param itemRetirar nó cujo conteúdo será substituído pelo do antecessor.
+     * @param raizArvore raiz da sub-árvore em que o antecessor deve ser localizado.
+     * @return a raiz atualizada da sub-árvore, após a remoção do antecessor.
+     */
+    private No<K, V> removerAntecessor(No<K, V> itemRetirar, No<K, V> raizArvore) {
+    	if (raizArvore.getDireita() != null) {
+    		/// O antecessor ainda não foi encontrado: continue procurando na sub-árvore direita.
+    		raizArvore.setDireita(removerAntecessor(itemRetirar, raizArvore.getDireita()));
+    		return raizArvore;
+    	}
+
+    	/// O antecessor foi encontrado: seus dados substituem os do nó a ser removido,
+    	/// e sua sub-árvore esquerda assume o seu lugar.
+    	itemRetirar.setChave(raizArvore.getChave());
+    	itemRetirar.setItem(raizArvore.getItem());
+    	return raizArvore.getEsquerda();
     }
 
     
