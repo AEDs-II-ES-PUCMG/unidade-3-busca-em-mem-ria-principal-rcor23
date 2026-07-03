@@ -3,7 +3,7 @@
 1;Envelope Laranja;7,00;0,39
 1;Transferidor Laranja claro;1,90;0,61
 1;Cola Azul marinho;2,67;0,51
-1;Papel cartao Ouro;7,75;0,60
+1;Papel cartao Ouro ;7,75;0,60
 1;Transferidor Verde bandeira;4,46;0,30
 1;Pasta de plastico Rosa choque;2,63;0,21
 1;Grampeador Turquesa media;3,96;0,53
@@ -22,10 +22,10 @@
 1;Tachinha Azul cobalto;2,47;0,23
 1;Papel quadriculado Carmesim;7,20;0,61
 1;Peso de papel Roxo;6,66;0,39
-1;Post-its Quartzo rosa;5,08;0,34
+1;Post-its Quartzo rosa ;5,08;0,34
 1;Elastico Malva;3,07;0,46
 1;Lapis de cor Verde escuro;4,13;0,24
-1;Cartolina Fucsia;7,05;0,59
+1;Cartolina Fucsia ;7,05;0,59
 1;Folha laminada Salmao escuro;7,42;0,38
 1;Lapiseira Cereja;3,24;0,21
 1;Bloco com pauta Prata;2,62;0,32
@@ -45,10 +45,10 @@
 1;Compasso Carmim;6,56;0,41
 1;Clipe Branco floral;7,56;0,33
 1;Prancheta Cinza ardosia;4,47;0,31
-1;Papel colorido Bronze;6,47;0,61
+1;Papel colorido Bronze ;6,47;0,61
 1;Apagador Escarlate;3,30;0,52
 1;Lapiseira Marrom;4,89;0,54
-1;Fita de correcao Fucsia;6,63;0,38
+1;Fita de correcao Fucsia ;6,63;0,38
 1;Apagador Agua-marinha;4,16;0,60
 1;Grampeador Preto;6,49;0,64
 1;Bloco de notas Azul petroleo;4,87;0,48
@@ -73,7 +73,7 @@
 1;Papel reciclado Magenta;5,42;0,37
 1;Tesoura Salmao;7,50;0,65
 1;Protetor de folhas Marrom;2,48;0,36
-1;Clipe Uva;3,85;0,45
+1;Clipe uva;3,85;0,45
 1;Envelope Azul medio;5,28;0,32
 1;Fita adesiva Oliva parda;7,39;0,23
 1;Etiqueta pequena Violeta escuro;3,98;0,37
@@ -84,7 +84,7 @@
 1;Papel colorido Vermelho;6,00;0,37
 1;Cartolina Vermelho indiano;5,81;0,53
 1;Clipe Dourado escuro;7,05;0,48
-1;Post-its Linho;1,50;0,27
+1;Post-its Linho ;1,50;0,27
 1;Transferidor Orquidea escura;7,24;0,54
 1;Apagador Bege;4,29;0,45
 1;Papel cartao Rubro;2,47;0,61
@@ -100,7 +100,7 @@
 1;Cola em bastao Azul cobalto;4,14;0,37
 1;Cartolina Ametista;1,80;0,57
 1;Cola em bastao Verde;6,41;0,49
-1;Etiqueta grande Mostarda;4,99;0,39
+1;Etiqueta grande Mostarda ;4,99;0,39
 1;Caneta marcador Acafrao;6,98;0,21
 1;Bloco com pauta Kiwi;2,20;0,25
 1;Bloco de notas Oliva;5,90;0,44
@@ -113,7 +113,7 @@
 1;Post-its Jade;7,25;0,47
 1;Bloco com pauta Turquesa;5,21;0,51
 1;Bloco com pauta Pessego;5,57;0,46
-1;Pasta de plastico Linho;3,80;0,59
+1;Pasta de plastico Linho ;3,80;0,59
 1;Papel colorido Ametista;2,02;0,53
 1;Lapis Azul marinho;3,83;0,51
 1;Grampeador Bordo;5,63;0,62
@@ -140,7 +140,7 @@
 1;Caderno Purpura;5,31;0,36
 1;Lapis Bege;6,67;0,51
 1;Organizador Laranja escuro;1,96;0,60
-1;Cartucho de tinta Jasmine;7,16;0,51
+1;Cartucho de tinta Jasmine ;7,16;0,51
 1;Cartolina Turquesa media;6,55;0,44
 1;Protetor de folhas Violeta escuro;4,13;0,62
 1;Tachinha Cinza escuro;6,11;0,27
@@ -172,7 +172,7 @@
 1;Compasso Caramelo;7,28;0,31
 1;Elastico Jambo;4,09;0,62
 1;Papel reciclado Ameixa;2,53;0,41
-1;Pasta de papel Jasmine;4,06;0,61
+1;Pasta de papel Jasmine ;4,06;0,61
 1;Calculadora Cobre;1,58;0,24
 1;Pasta de plastico Mocassim;6,54;0,50
 1;Caneta-tinteiro Bege;3,70;0,55
@@ -181,8 +181,8 @@
 1;Papel quadriculado Agua-marinha;7,00;0,42
 1;Caderno Verde oliva;3,06;0,61
 1;Elastico Coral;3,14;0,29
-1;Papel para impressora Bronze;2,67;0,59
-1;Organizador Fucsia;6,62;0,62
+1;Papel para impressora Bronze ;2,67;0,59
+1;Organizador Fucsia ;6,62;0,62
 1;Fita de correcao Azul;7,43;0,23
 1;Clipe Azul bebe;5,59;0,28
 1;Calculadora Malva;3,25;0,52
@@ -202,15 +202,15 @@
 1;Tesoura Borgonha;5,13;0,26
 1;Furador Borgonha;6,19;0,33
 1;Calculadora Marrom;6,66;0,40
-1;Lapis Quartzo rosa;4,43;0,45
+1;Lapis Quartzo rosa ;4,43;0,45
 1;Organizador Cinza medio;1,97;0,51
-1;Folha laminada Mostarda;6,96;0,57
+1;Folha laminada Mostarda ;6,96;0,57
 1;Papel colorido Urucum;6,62;0,54
 1;Papel quadriculado Azul celeste;6,95;0,29
 1;Liquido de correcao Borgonha;6,46;0,61
 1;Cartucho de tinta Azul cobalto;1,50;0,38
 1;Clipe Branco fantasma;3,77;0,36
-1;Apontador Bronze;3,13;0,41
+1;Apontador Bronze ;3,13;0,41
 1;Tachinha Urucum;4,47;0,56
 1;Giz de cera Vermelho;2,31;0,62
 1;Cola em bastao Azul profundo;1,52;0,35
@@ -247,10 +247,10 @@
 1;Fita adesiva Terracota;4,62;0,59
 1;Papel colorido Cinza fosco;7,91;0,52
 1;Organizador Cinza escuro;4,51;0,53
-1;Cola em bastao Violeta claro;5,90;0,23
+1;Cola em bastao Violeta claro ;5,90;0,23
 1;Cola Azul ardosia;2,61;0,31
 1;Fita de correcao Azul profundo;6,19;0,43
-1;Papel colorido Verde mar;3,49;0,30
+1;Papel colorido Verde mar ;3,49;0,30
 1;Compasso Azul turquesa;1,52;0,41
 1;Cola em bastao Cinza fosco;7,21;0,61
 1;Apagador Dourado escuro;5,89;0,56
@@ -273,7 +273,7 @@
 1;Lapis de cor Oliva escura;1,52;0,49
 1;Regua Oliva;5,00;0,44
 1;Liquido de correcao Azul marinho;4,71;0,28
-1;Prancheta Bronze;7,68;0,60
+1;Prancheta Bronze ;7,68;0,60
 1;Papel para impressora Branco;4,38;0,52
 1;Tachinha Marrom escuro;2,95;0,61
 1;Caderno Amarelo claro;5,11;0,30
@@ -284,7 +284,7 @@
 1;Pasta de plastico Oliva parda;4,62;0,60
 1;Caneta marcador Amarelo claro;3,81;0,41
 1;Clipe Azul marinho;5,31;0,35
-1;Papel colorido Mostarda;6,51;0,33
+1;Papel colorido Mostarda ;6,51;0,33
 1;Folha laminada Salmao claro;2,37;0,43
 1;Caneta-tinteiro Lima;2,94;0,54
 1;Transferidor Carmesim;3,21;0,39
@@ -296,15 +296,15 @@
 1;Apontador Pessego;2,12;0,27
 1;Papel reciclado Verde oliva;4,46;0,29
 1;Cola Malva;2,34;0,39
-1;Cartao de papel Violeta claro;7,92;0,22
+1;Cartao de papel Violeta claro ;7,92;0,22
 1;Papel colorido Dourado;2,72;0,24
 1;Bloco com pauta Orquidea;6,31;0,29
 1;Papel cartao Azul petroleo;4,25;0,27
 1;Envelope Amendoa;1,91;0,41
 1;Papel cartao Caqui;1,85;0,29
-1;Prancheta Verde mar;6,90;0,36
+1;Prancheta Verde mar ;6,90;0,36
 1;Cartucho de tinta Orquidea clara;6,82;0,46
-1;Papel reciclado Jasmine;4,36;0,44
+1;Papel reciclado Jasmine ;4,36;0,44
 1;Bloco com pauta Tangerina;5,44;0,43
 1;Tesoura Vermelho;7,94;0,51
 1;Post-its Laranja claro;1,62;0,44
@@ -315,11 +315,11 @@
 1;Caderno Azul cadete;6,95;0,28
 1;Alfinete Azul cadete;5,63;0,37
 1;Apontador Verde bandeira;4,18;0,48
-1;Tachinha Ouro;1,93;0,43
+1;Tachinha Ouro ;1,93;0,43
 1;Grampeador Branco floral;2,16;0,38
 1;Pasta de papel Tomate;4,09;0,28
 1;Lapis de cor Coral;5,36;0,40
-1;Folha laminada Linho;3,60;0,45
+1;Folha laminada Linho ;3,60;0,45
 1;Bloco de notas Caqui;3,57;0,35
 1;Caderno Gris;4,68;0,28
 1;Cola em bastao Oliva;4,91;0,62
@@ -329,16 +329,16 @@
 1;Lapiseira Verde;5,57;0,26
 1;Cartao de papel Purpura;5,86;0,51
 1;Papel reciclado Azul turquesa;7,32;0,25
-1;Compasso Ouro;7,74;0,49
+1;Compasso Ouro ;7,74;0,49
 1;Papel quadriculado Azul petroleo;6,61;0,58
 1;Compasso Orquidea;1,96;0,35
-1;Cola Linho;5,95;0,58
+1;Cola Linho ;5,95;0,58
 1;Lapis de cor Azul cadete;2,16;0,59
 1;Giz de cera Pessego;3,26;0,64
 1;Clipe Vermelho claro;7,43;0,40
 1;Giz de cera Violeta escuro;6,06;0,33
 1;Bloco com pauta Amarelo claro;2,39;0,31
-1;Lapis de cor Violeta claro;5,27;0,65
+1;Lapis de cor Violeta claro ;5,27;0,65
 1;Lapis de cor Azul;2,65;0,28
 1;Papel quadriculado Ametista;4,96;0,29
 1;Cartolina Castanho claro;6,57;0,20
@@ -351,7 +351,7 @@
 1;Liquido de correcao Amendoa;3,09;0,57
 1;Organizador Caqui;5,80;0,42
 1;Peso de papel Amendoa;2,38;0,26
-1;Pasta de plastico Quartzo rosa;5,86;0,64
+1;Pasta de plastico Quartzo rosa ;5,86;0,64
 1;Papel quadriculado Rosa claro;1,77;0,23
 1;Etiqueta pequena Pardo;6,95;0,22
 1;Alfinete Laranja claro;7,00;0,35
@@ -360,7 +360,7 @@
 1;Protetor de folhas Ocre;4,50;0,61
 1;Compasso Azul ardosia;6,64;0,54
 1;Tachinha Agua-marinha;6,46;0,30
-1;Papel para impressora Gengibre;6,37;0,24
+1;Papel para impressora Gengibre ;6,37;0,24
 1;Etiqueta pequena Azul cobalto;5,83;0,63
 1;Calculadora Oliva;3,40;0,25
 1;Caneta-tinteiro Bordo;6,07;0,33
@@ -374,7 +374,7 @@
 1;Pasta de papel Goiaba;6,03;0,47
 1;Cola em bastao Azul bebe;3,95;0,39
 1;Calculadora Preto;6,18;0,42
-1;Lapis de cor Fucsia;5,87;0,55
+1;Lapis de cor Fucsia ;5,87;0,55
 1;Grampeador Cobre;3,88;0,47
 1;Papel para impressora Violeta;2,83;0,47
 1;Organizador Creme;1,79;0,38
@@ -421,7 +421,7 @@
 1;Apagador Caramelo;6,30;0,43
 1;Papel quadriculado Castanho;3,82;0,48
 1;Cola em bastao Cinza;3,05;0,53
-1;Cartucho de tinta Turquesa clara;1,87;0,60
+1;Cartucho de tinta Turquesa clara ;1,87;0,60
 1;Clipe Amendoa;3,91;0,60
 1;Cola Azul petroleo;1,79;0,60
 1;Giz de cera Azul ardosia;5,95;0,62
@@ -438,7 +438,7 @@
 1;Liquido de correcao Verde lima;5,69;0,37
 1;Etiqueta grande Acafrao;6,64;0,23
 1;Furador Branco antigo;4,84;0,46
-1;Bloco de notas Turquesa clara;4,41;0,65
+1;Bloco de notas Turquesa clara ;4,41;0,65
 1;Lapiseira Orquidea clara;5,64;0,53
 1;Cartucho de tinta Urucum;7,12;0,42
 1;Cola em bastao Papaia;2,50;0,60
@@ -451,17 +451,17 @@
 1;Papel reciclado Ciano;5,26;0,50
 1;Bloco com pauta Creme;6,91;0,46
 1;Etiqueta pequena Amendoa;5,64;0,43
-1;Ficheiro Ouro;2,33;0,25
+1;Ficheiro Ouro ;2,33;0,25
 1;Giz de cera Escarlate;6,81;0,38
 1;Cola em bastao Cinza claro;5,12;0,41
 1;Organizador Verde grama;4,69;0,26
 1;Grampo Agua-marinha;3,58;0,33
-1;Pasta de papel Bronze;6,72;0,49
+1;Pasta de papel Bronze ;6,72;0,49
 1;Fita adesiva Cinza ardosia;1,91;0,46
 1;Prancheta Mocassim;6,61;0,61
 1;Apagador Oliva;3,19;0,54
 1;Liquido de correcao Jambo;4,98;0,55
-1;Papel para impressora Mostarda;2,87;0,51
+1;Papel para impressora Mostarda ;2,87;0,51
 1;Cartucho de tinta Amarelo creme;5,01;0,63
 1;Furador Grena;5,01;0,56
 1;Pasta de plastico Amarelo;4,88;0,33
@@ -483,7 +483,7 @@
 1;Cola Azul topazio;5,61;0,30
 1;Grampeador Azul cobalto;7,88;0,51
 1;Cartucho de tinta Tomate;4,75;0,33
-1;Etiqueta pequena Fucsia;3,18;0,40
+1;Etiqueta pequena Fucsia ;3,18;0,40
 1;Alfinete Lilas;5,41;0,27
 1;Etiqueta pequena Cinza medio;4,47;0,38
 1;Grampeador Ametista;3,18;0,42
@@ -497,15 +497,15 @@
 1;Furador Anil;5,22;0,30
 1;Etiqueta grande Limao;1,55;0,42
 1;Prancheta Magenta escuro;2,70;0,22
-1;Papel reciclado Violeta claro;2,08;0,29
+1;Papel reciclado Violeta claro ;2,08;0,29
 1;Caneta esferografica Marrom claro;7,01;0,63
-1;Clipe Mostarda;4,20;0,48
+1;Clipe Mostarda ;4,20;0,48
 1;Caderno Ameixa;7,27;0,53
 1;Grampeador Fuligem;7,76;0,52
 1;Folha laminada Lavanda;6,73;0,25
 1;Cola Coral claro;2,44;0,32
 1;Elastico Azul brasilis;1,94;0,31
-1;Envelope Uva;4,73;0,42
+1;Envelope uva;4,73;0,42
 1;Pasta de papel Branco fantasma;5,15;0,56
 1;Caneta marcador Escarlate;3,27;0,61
 1;Compasso Azul brasilis;5,13;0,51
@@ -534,7 +534,7 @@
 1;Pasta de plastico Naval;2,30;0,57
 1;Caneta marcador Caqui escuro;7,87;0,44
 1;Fita adesiva Marfim;3,62;0,57
-1;Tesoura Verde mar;2,14;0,27
+1;Tesoura Verde mar ;2,14;0,27
 1;Caneta esferografica Cinza claro;4,96;0,29
 1;Papel colorido Cereja;3,40;0,39
 1;Cartolina Ambar;7,50;0,28
@@ -545,7 +545,7 @@
 1;Grampeador Prata;7,35;0,41
 1;Caderno Rosa;7,36;0,53
 1;Caderno Cinza;2,71;0,46
-1;Caderno Ouro;1,80;0,39
+1;Caderno Ouro ;1,80;0,39
 1;Furador Verde claro;1,85;0,56
 1;Protetor de folhas Salmao claro;2,61;0,53
 1;Papel para impressora Lavanda;2,06;0,63
@@ -557,7 +557,7 @@
 1;Caneta-tinteiro Pessego;6,85;0,43
 1;Cartucho de tinta Turquesa;6,57;0,65
 1;Lapis Tomate;5,19;0,58
-1;Lapis de cor Turquesa clara;7,77;0,62
+1;Lapis de cor Turquesa clara ;7,77;0,62
 1;Apagador Anil;5,49;0,52
 1;Etiqueta grande Laranja claro;7,29;0,50
 1;Ficheiro Azul claro;5,98;0,38
@@ -565,12 +565,12 @@
 1;Cartolina Verde escuro;2,27;0,59
 1;Pasta de plastico Azul turquesa;5,66;0,60
 1;Alfinete Limao;4,86;0,52
-1;Bloco de notas Mostarda;3,79;0,65
+1;Bloco de notas Mostarda ;3,79;0,65
 1;Furador Verde agua;7,31;0,57
 1;Envelope Azul profundo;3,67;0,46
 1;Cartolina Couro;7,51;0,56
 1;Compasso Azul medio;2,69;0,32
-1;Apagador Uva;4,12;0,40
+1;Apagador uva;4,12;0,40
 1;Furador Orquidea escura;3,77;0,21
 1;Folha laminada Carmim;5,68;0,41
 1;Caderno Azul petroleo;1,68;0,50
@@ -603,7 +603,7 @@
 1;Papel colorido Verde menta;3,23;0,59
 1;Transferidor Azul medio;6,58;0,48
 1;Etiqueta pequena Branco;7,09;0,33
-1;Cola em bastao Turquesa clara;6,61;0,62
+1;Cola em bastao Turquesa clara ;6,61;0,62
 1;Lapiseira Jade;6,60;0,51
 1;Calculadora Ocre;5,58;0,21
 1;Papel quadriculado Prata;3,95;0,58
@@ -618,8 +618,8 @@
 1;Etiqueta grande Azul cadete;7,33;0,45
 1;Caneta-tinteiro Magenta escuro;6,14;0,61
 1;Etiqueta pequena Tomate;2,75;0,24
-1;Apontador Uva;3,37;0,48
-1;Furador Bronze;5,98;0,44
+1;Apontador uva;3,37;0,48
+1;Furador Bronze ;5,98;0,44
 1;Papel para impressora Tangerina;3,05;0,58
 1;Giz de cera Castanho;4,30;0,56
 1;Lapis de cor Dourado escuro;7,67;0,55
@@ -633,7 +633,7 @@
 1;Lapis de cor Azul bebe;6,37;0,36
 1;Folha laminada Lilas;3,89;0,32
 1;Papel reciclado Amarelo claro;4,48;0,32
-1;Caderno Uva;1,74;0,22
+1;Caderno uva;1,74;0,22
 1;Etiqueta pequena Oliva escura;3,51;0,63
 1;Cartolina Dourado escuro;2,09;0,40
 1;Clipe Azul medio;3,51;0,60
@@ -680,12 +680,12 @@
 1;Ficheiro Oliva parda;5,95;0,36
 1;Elastico Branco floral;4,14;0,42
 1;Grampeador Vermelho claro;4,25;0,31
-1;Cartolina Linho;7,11;0,37
+1;Cartolina Linho ;7,11;0,37
 1;Post-its Laranja;5,16;0,50
 1;Clipe Caqui escuro;7,52;0,52
 1;Folha laminada Gris;4,98;0,63
 1;Apontador Marrom claro;4,16;0,43
-1;Bloco com pauta Verde mar;1,98;0,57
+1;Bloco com pauta Verde mar ;1,98;0,57
 1;Papel colorido Vermelho escuro;4,60;0,42
 1;Caderno Azul bebe;3,27;0,57
 1;Papel para impressora Castanho;6,35;0,24
@@ -702,7 +702,7 @@
 1;Apagador Preto;1,67;0,42
 1;Cartolina Magenta escuro;2,75;0,59
 1;Regua Verde menta;5,20;0,57
-1;Regua Verde mar;7,37;0,47
+1;Regua Verde mar ;7,37;0,47
 1;Caneta-tinteiro Rosa claro;7,83;0,40
 1;Tachinha Azul topazio;7,56;0,62
 1;Calculadora Pessego;7,83;0,61
@@ -724,16 +724,16 @@
 1;Liquido de correcao Lilas;6,68;0,63
 1;Envelope Kiwi;3,78;0,35
 1;Fita adesiva Verde claro;5,90;0,63
-1;Lapis Violeta claro;6,27;0,42
+1;Lapis Violeta claro ;6,27;0,42
 1;Compasso Lilas;2,11;0,62
 1;Calculadora Dourado;7,60;0,24
-1;Prancheta Violeta claro;3,97;0,48
+1;Prancheta Violeta claro ;3,97;0,48
 1;Lapis de cor Azul medio;4,16;0,38
 1;Alfinete Rosa profundo;4,80;0,63
 1;Caneta marcador Salmao claro;4,24;0,35
 1;Cartolina Bege;4,23;0,48
 1;Compasso Castanho claro;7,20;0,49
-1;Tesoura Linho;7,00;0,58
+1;Tesoura Linho ;7,00;0,58
 1;Lapis de cor Castanho claro;2,24;0,53
 1;Transferidor Cenoura;3,59;0,40
 1;Giz de cera Oliva parda;4,32;0,49
@@ -744,7 +744,7 @@
 1;Fita de correcao Esmeralda;5,29;0,29
 1;Pasta de papel Lavanda;7,58;0,31
 1;Lapiseira Acafrao;1,72;0,62
-1;Apagador Linho;3,87;0,44
+1;Apagador Linho ;3,87;0,44
 1;Tesoura Branco antigo;4,10;0,53
 1;Envelope Azul claro;6,50;0,57
 1;Papel reciclado Cinza;3,35;0,28
@@ -772,7 +772,7 @@
 1;Alfinete Verde escuro;1,95;0,25
 1;Clipe Branco antigo;6,88;0,30
 1;Etiqueta grande Gris;7,61;0,65
-1;Prancheta Linho;7,34;0,28
+1;Prancheta Linho ;7,34;0,28
 1;Bloco com pauta Coral claro;3,62;0,64
 1;Cartolina Terracota;3,35;0,56
 1;Giz de cera Turquesa;4,52;0,21
@@ -781,7 +781,7 @@
 1;Cartao de papel Branco;2,71;0,34
 1;Etiqueta grande Marrom rosado;3,77;0,24
 1;Elastico Ocre;5,71;0,40
-1;Fita adesiva Gengibre;2,41;0,50
+1;Fita adesiva Gengibre ;2,41;0,50
 1;Papel quadriculado Madeira;4,80;0,57
 1;Fita adesiva Jambo;5,74;0,59
 1;Alfinete Laranja escuro;7,33;0,39
@@ -801,7 +801,7 @@
 1;Grampeador Verde grama;2,61;0,27
 1;Pasta de plastico Rubro;3,77;0,41
 1;Fita adesiva Turquesa;1,69;0,48
-1;Caneta marcador Violeta claro;2,71;0,46
+1;Caneta marcador Violeta claro ;2,71;0,46
 1;Bloco com pauta Azul celeste;1,66;0,51
 1;Apontador Borgonha;4,49;0,63
 1;Tachinha Indigo;2,92;0,62
@@ -812,7 +812,7 @@
 1;Bloco com pauta Fuligem;4,64;0,29
 1;Caneta esferografica Anil;2,03;0,56
 1;Bloco de notas Borgonha;4,72;0,31
-1;Papel cartao Verde mar;6,32;0,35
+1;Papel cartao Verde mar ;6,32;0,35
 1;Organizador Turquesa;7,64;0,25
 1;Cola Verde oliva;4,19;0,37
 1;Fita adesiva Roxo;2,25;0,58
@@ -820,17 +820,17 @@
 1;Grampo Bordo;1,97;0,30
 1;Post-its Cinza medio;4,29;0,46
 1;Organizador Verde escuro;6,72;0,56
-1;Apontador Gengibre;1,77;0,48
-1;Clipe Bronze;1,58;0,31
+1;Apontador Gengibre ;1,77;0,48
+1;Clipe Bronze ;1,58;0,31
 1;Papel cartao Azul claro;6,88;0,43
 1;Papel quadriculado Lavanda;4,50;0,29
 1;Transferidor Branco antigo;4,85;0,43
 1;Caneta esferografica Verde claro;7,60;0,37
-1;Alfinete Ouro;4,49;0,35
+1;Alfinete Ouro ;4,49;0,35
 1;Esquadro Verde lima;2,02;0,27
 1;Apontador Amarelo canario;3,32;0,46
 1;Fita adesiva Limao;3,02;0,49
-1;Papel quadriculado Violeta claro;5,22;0,22
+1;Papel quadriculado Violeta claro ;5,22;0,22
 1;Bloco com pauta Azul brasilis;7,08;0,47
 1;Etiqueta pequena Cinza ardosia;3,19;0,27
 1;Apagador Malva;2,41;0,44
@@ -847,7 +847,7 @@
 1;Papel colorido Azul ardosia;1,70;0,24
 1;Cartao de papel Neve;5,33;0,38
 1;Bloco com pauta Vermelho indiano;6,02;0,57
-1;Fita adesiva Ouro;6,05;0,41
+1;Fita adesiva Ouro ;6,05;0,41
 1;Lapiseira Marrom claro;7,92;0,55
 1;Fita adesiva Rosa profundo;6,57;0,55
 1;Caderno Kiwi;5,14;0,33
@@ -858,13 +858,13 @@
 1;Envelope Cinza medio;5,41;0,42
 1;Tachinha Cinza;5,00;0,49
 1;Pasta de papel Turquesa media;7,99;0,62
-1;Cola em bastao Jasmine;7,26;0,26
+1;Cola em bastao Jasmine ;7,26;0,26
 1;Prancheta Ferrugem;1,87;0,33
 1;Caneta-tinteiro Cinza escuro;2,17;0,30
 1;Cartao de papel Cobre;6,15;0,53
 1;Cola Ferrugem;2,58;0,36
 1;Transferidor Amarelo;3,52;0,52
-1;Bloco com pauta Turquesa clara;5,55;0,45
+1;Bloco com pauta Turquesa clara ;5,55;0,45
 1;Grampo Marrom escuro;4,95;0,51
 1;Caneta-tinteiro Azul cadete;2,49;0,57
 1;Regua Azul celeste;4,43;0,61
@@ -874,7 +874,7 @@
 1;Tachinha Marrom;2,97;0,52
 1;Etiqueta pequena Agua-marinha;7,56;0,37
 1;Protetor de folhas Amarelo escuro;2,06;0,47
-1;Transferidor Mostarda;7,02;0,58
+1;Transferidor Mostarda ;7,02;0,58
 1;Etiqueta grande Verde;3,30;0,59
 1;Transferidor Vermelho indiano;6,13;0,29
 1;Transferidor Oliva escura;3,11;0,35
@@ -885,7 +885,7 @@
 1;Cartao de papel Cinza;6,17;0,45
 1;Folha laminada Cinza claro;7,92;0,26
 1;Cola em bastao Dourado;4,63;0,61
-1;Cartao de papel Verde mar;6,10;0,55
+1;Cartao de papel Verde mar ;6,10;0,55
 1;Regua Urucum;3,81;0,56
 1;Pasta de papel Purpura;7,53;0,44
 1;Post-its Azul marinho;6,18;0,59
@@ -921,19 +921,19 @@
 1;Apagador Azul petroleo;5,76;0,29
 1;Envelope Verde lima;5,54;0,32
 1;Caneta marcador Jade;3,19;0,37
-1;Transferidor Turquesa clara;2,18;0,45
+1;Transferidor Turquesa clara ;2,18;0,45
 1;Caderno Lima;2,55;0,33
 1;Transferidor Turquesa;1,61;0,28
 1;Ficheiro Violeta;2,39;0,31
 1;Organizador Ameixa;2,10;0,40
 1;Bloco de notas Ameixa;2,33;0,60
-1;Furador Quartzo rosa;7,40;0,31
-1;Envelope Linho;6,75;0,44
+1;Furador Quartzo rosa ;7,40;0,31
+1;Envelope Linho ;6,75;0,44
 1;Compasso Marrom;4,04;0,27
 1;Bloco com pauta Rosa escuro;4,85;0,39
 1;Clipe Turquesa escura;3,47;0,63
 1;Cola Goiaba;4,79;0,61
-1;Ficheiro Turquesa clara;4,73;0,41
+1;Ficheiro Turquesa clara ;4,73;0,41
 1;Bloco com pauta Couro;6,19;0,65
 1;Grampeador Acafrao;2,48;0,45
 1;Etiqueta pequena Naval;3,40;0,34
@@ -950,14 +950,14 @@
 1;Papel reciclado Marrom escuro;2,21;0,50
 1;Papel para impressora Lilas;1,64;0,44
 1;Etiqueta pequena Verde lima;4,13;0,35
-1;Caderno Linho;7,46;0,49
+1;Caderno Linho ;7,46;0,49
 1;Tesoura Anil;1,86;0,21
 1;Cola Esmeralda;7,23;0,51
 1;Lapiseira Azul celeste;6,46;0,38
 1;Cartao de papel Marfim;5,36;0,35
 1;Liquido de correcao Verde claro;6,24;0,39
 1;Pasta de plastico Cereja;3,65;0,33
-1;Lapiseira Turquesa clara;4,85;0,45
+1;Lapiseira Turquesa clara ;4,85;0,45
 1;Papel para impressora Turquesa;2,50;0,37
 1;Cartao de papel Ameixa;1,91;0,23
 1;Prancheta Oliva;2,29;0,51
@@ -989,7 +989,7 @@
 1;Apontador Caramelo;3,95;0,21
 1;Protetor de folhas Mocassim;2,05;0,51
 1;Grampo Amendoa;1,91;0,44
-1;Furador Mostarda;6,50;0,34
+1;Furador Mostarda ;6,50;0,34
 1;Regua Amarelo;7,53;0,22
 1;Organizador Azul topazio;6,49;0,58
 1;Alfinete Rosa bebe;5,32;0,27
@@ -1002,7 +1002,7 @@
 1;Caneta esferografica Caramelo;5,29;0,43
 1;Protetor de folhas Papaia;3,38;0,58
 1;Papel colorido Preto;7,03;0,32
-1;Prancheta Fucsia;6,63;0,65
+1;Prancheta Fucsia ;6,63;0,65
 1;Papel reciclado Esmeralda;6,13;0,55
 1;Grampo Preto;3,05;0,48
 1;Clipe Azul escuro;4,96;0,37
@@ -1018,7 +1018,7 @@
 1;Alfinete Amarelo;5,82;0,61
 1;Etiqueta grande Purpura;5,10;0,34
 1;Liquido de correcao Turquesa media;3,97;0,27
-1;Papel cartao Uva;5,13;0,55
+1;Papel cartao uva;5,13;0,55
 1;Grampo Azul medio;3,56;0,65
 1;Tesoura Branco fantasma;3,75;0,44
 1;Papel cartao Azul real;4,04;0,62
@@ -1053,19 +1053,19 @@
 1;Papel cartao Terracota;6,60;0,63
 1;Caneta esferografica Azul celeste;5,33;0,49
 1;Lapis Oliva;2,44;0,55
-1;Regua Jasmine;7,16;0,34
+1;Regua Jasmine ;7,16;0,34
 1;Lapis de cor Kiwi;1,78;0,47
 1;Alfinete Castanho;7,34;0,37
-1;Apontador Fucsia;3,04;0,62
-1;Prancheta Gengibre;6,90;0,30
+1;Apontador Fucsia ;3,04;0,62
+1;Prancheta Gengibre ;6,90;0,30
 1;Grampeador Lilas;1,61;0,55
 1;Caneta esferografica Limao;7,54;0,50
 1;Organizador Preto;3,34;0,53
 1;Caneta marcador Azul real;3,57;0,56
 1;Fita adesiva Madeira;3,36;0,26
 1;Grampo Violeta;5,89;0,30
-1;Apontador Quartzo rosa;2,12;0,40
-1;Cola Turquesa clara;6,61;0,47
+1;Apontador Quartzo rosa ;2,12;0,40
+1;Cola Turquesa clara ;6,61;0,47
 1;Apontador Tangerina;6,02;0,61
 1;Papel cartao Fuligem;3,08;0,64
 1;Caneta-tinteiro Madeira;2,85;0,28
@@ -1085,17 +1085,17 @@
 1;Caneta-tinteiro Dourado escuro;4,43;0,40
 1;Envelope Violeta;6,63;0,40
 1;Cartao de papel Verde menta;3,90;0,20
-1;Folha laminada Verde mar;2,71;0,35
+1;Folha laminada Verde mar ;2,71;0,35
 1;Elastico Esmeralda;3,75;0,42
 1;Cartucho de tinta Laranja;1,93;0,42
-1;Fita adesiva Mostarda;2,31;0,47
+1;Fita adesiva Mostarda ;2,31;0,47
 1;Pasta de papel Sepia;5,68;0,36
 1;Pasta de papel Vermelho escuro;2,70;0,35
 1;Caderno Grena;2,46;0,32
 1;Papel para impressora Amarelo escuro;7,47;0,27
 1;Pasta de papel Cenoura;1,99;0,28
 1;Cartolina Creme;4,52;0,56
-1;Caneta-tinteiro Uva;3,10;0,57
+1;Caneta-tinteiro uva;3,10;0,57
 1;Pasta de plastico Tangerina;2,05;0,62
 1;Papel cartao Anil;2,44;0,63
 1;Apagador Oliva escura;3,78;0,32
@@ -1103,38 +1103,38 @@
 1;Papel colorido Magenta;5,85;0,35
 1;Tesoura Ambar;2,32;0,27
 1;Etiqueta grande Vermelho;7,20;0,23
-1;Protetor de folhas Quartzo rosa;6,54;0,55
+1;Protetor de folhas Quartzo rosa ;6,54;0,55
 1;Protetor de folhas Coral;7,88;0,65
 1;Caneta-tinteiro Ambar;2,73;0,30
 1;Alfinete Verde claro;1,88;0,38
 1;Cartao de papel Verde;2,63;0,51
 1;Ficheiro Limao;6,44;0,42
-1;Giz de cera Linho;4,25;0,63
+1;Giz de cera Linho ;4,25;0,63
 1;Pasta de papel Laranja claro;3,72;0,27
 1;Caneta-tinteiro Verde oliva;4,51;0,29
-1;Caneta esferografica Quartzo rosa;1,98;0,36
+1;Caneta esferografica Quartzo rosa ;1,98;0,36
 1;Papel cartao Azul ardosia;1,68;0,59
 1;Giz de cera Bordo;2,68;0,57
 1;Papel cartao Verde agua;7,70;0,29
 1;Ficheiro Ameixa;5,77;0,32
 1;Calculadora Indigo;7,54;0,57
 1;Bloco de notas Vermelho escuro;2,78;0,52
-1;Furador Verde mar;7,20;0,32
+1;Furador Verde mar ;7,20;0,32
 1;Fita adesiva Magenta;4,62;0,27
 1;Calculadora Azul cobalto;2,30;0,22
-1;Papel quadriculado Turquesa clara;2,07;0,62
+1;Papel quadriculado Turquesa clara ;2,07;0,62
 1;Liquido de correcao Marrom;7,23;0,35
 1;Clipe Amarelo canario;6,53;0,50
 1;Regua Rosa escuro;3,37;0,49
 1;Lapis de cor Goiaba;5,43;0,38
 1;Peso de papel Caramelo;6,26;0,21
 1;Fita de correcao Creme;3,19;0,55
-1;Bloco com pauta Gengibre;3,73;0,52
+1;Bloco com pauta Gengibre ;3,73;0,52
 1;Pasta de plastico Carmim;5,21;0,50
 1;Post-its Caqui;2,89;0,30
-1;Cartao de papel Mostarda;5,27;0,57
+1;Cartao de papel Mostarda ;5,27;0,57
 1;Bloco de notas Turquesa media;1,69;0,37
-1;Calculadora Ouro;5,54;0,50
+1;Calculadora Ouro ;5,54;0,50
 1;Calculadora Azul medio;7,64;0,62
 1;Grampeador Amarelo;2,10;0,47
 1;Caneta marcador Rosa brilhante;7,58;0,59
@@ -1157,7 +1157,7 @@
 1;Grampeador Verde lima;4,30;0,34
 1;Organizador Azul escuro;7,88;0,32
 1;Papel cartao Azul;2,46;0,63
-1;Grampeador Jasmine;6,62;0,61
+1;Grampeador Jasmine ;6,62;0,61
 1;Alfinete Pessego;3,21;0,27
 1;Cartao de papel Azul real;7,55;0,61
 1;Regua Orquidea escura;4,06;0,45
@@ -1166,7 +1166,7 @@
 1;Caneta esferografica Azul petroleo;6,18;0,65
 1;Etiqueta pequena Malva;7,98;0,37
 1;Caderno Azul;3,49;0,23
-1;Caneta esferografica Turquesa clara;6,14;0,63
+1;Caneta esferografica Turquesa clara ;6,14;0,63
 1;Caderno Verde grama;4,58;0,58
 1;Bloco com pauta Escarlate;3,14;0,24
 1;Elastico Magenta escuro;4,38;0,36
@@ -1200,11 +1200,11 @@
 1;Folha laminada Verde oliva;1,93;0,26
 1;Caneta marcador Orquidea;6,33;0,49
 1;Caderno Vermelho claro;7,80;0,46
-1;Fita de correcao Ouro;1,67;0,22
+1;Fita de correcao Ouro ;1,67;0,22
 1;Pasta de papel Azul ardosia;5,60;0,40
 1;Furador Prata;5,57;0,22
 1;Apontador Azul celeste;6,91;0,64
-1;Clipe Ouro;1,59;0,57
+1;Clipe Ouro ;1,59;0,57
 1;Compasso Tangerina;7,29;0,59
 1;Clipe Magenta escuro;3,73;0,27
 1;Furador Coral;5,54;0,53
@@ -1219,7 +1219,7 @@
 1;Apontador Cinza fosco;5,21;0,42
 1;Papel cartao Tangerina;3,27;0,61
 1;Lapis Azul topazio;5,45;0,37
-1;Peso de papel Uva;3,37;0,46
+1;Peso de papel uva;3,37;0,46
 1;Clipe Azul;2,21;0,51
 1;Papel cartao Ametista;3,11;0,56
 1;Lapiseira Verde pastel;3,54;0,28
@@ -1249,7 +1249,7 @@
 1;Caneta-tinteiro Oliva escura;5,10;0,34
 1;Caneta marcador Laranja claro;1,64;0,53
 1;Bloco de notas Jambo;3,91;0,60
-1;Cola em bastao Uva;3,02;0,43
+1;Cola em bastao uva;3,02;0,43
 1;Bloco de notas Papaia;4,02;0,21
 1;Esquadro Caqui escuro;7,95;0,51
 1;Pasta de plastico Cinza ardosia;7,23;0,47
@@ -1299,7 +1299,7 @@
 1;Papel cartao Marrom escuro;6,50;0,51
 1;Bloco de notas Ambar;6,44;0,40
 1;Tachinha Amarelo creme;6,96;0,49
-1;Papel quadriculado Gengibre;2,05;0,42
+1;Papel quadriculado Gengibre ;2,05;0,42
 1;Protetor de folhas Oliva parda;7,56;0,41
 1;Papel cartao Verde claro;2,17;0,29
 1;Papel colorido Malva;5,97;0,45
@@ -1314,7 +1314,7 @@
 1;Grampeador Marrom claro;4,72;0,24
 1;Giz de cera Caqui;7,20;0,55
 1;Peso de papel Ocre;3,93;0,40
-1;Grampo Linho;2,96;0,46
+1;Grampo Linho ;2,96;0,46
 1;Fita de correcao Castanho claro;3,41;0,60
 1;Lapis de cor Cinza ardosia;4,18;0,47
 1;Cartucho de tinta Jambo;6,25;0,22
@@ -1324,7 +1324,7 @@
 1;Papel colorido Kiwi;4,15;0,61
 1;Liquido de correcao Agua-marinha;4,23;0,41
 1;Etiqueta pequena Turquesa;2,93;0,28
-1;Caderno Fucsia;4,53;0,31
+1;Caderno Fucsia ;4,53;0,31
 1;Alfinete Azul claro;4,54;0,57
 1;Ficheiro Azul escuro;5,96;0,22
 1;Caderno Azul cobalto;7,18;0,42
@@ -1348,7 +1348,7 @@
 1;Pasta de papel Cinza ardosia;1,74;0,42
 1;Grampeador Ameixa;5,88;0,64
 1;Prancheta Rosa brilhante;6,80;0,48
-1;Etiqueta grande Linho;7,40;0,56
+1;Etiqueta grande Linho ;7,40;0,56
 1;Cartao de papel Turquesa;3,18;0,51
 1;Alfinete Marfim;4,32;0,45
 1;Bloco de notas Branco fantasma;2,32;0,29
@@ -1375,11 +1375,11 @@
 1;Apagador Azul bebe;5,54;0,60
 1;Etiqueta grande Ferrugem;5,06;0,60
 1;Compasso Agua-marinha;3,61;0,27
-1;Apontador Violeta claro;2,54;0,59
+1;Apontador Violeta claro ;2,54;0,59
 1;Etiqueta grande Cinza escuro;6,18;0,42
 1;Envelope Verde;5,17;0,23
 1;Etiqueta pequena Azul cadete;4,48;0,36
-1;Furador Turquesa clara;6,68;0,48
+1;Furador Turquesa clara ;6,68;0,48
 1;Lapis Azul brasilis;1,77;0,43
 1;Pasta de papel Salmao escuro;3,48;0,63
 1;Peso de papel Laranja escuro;6,81;0,45
@@ -1396,10 +1396,10 @@
 1;Caneta esferografica Azul cobalto;4,66;0,54
 1;Alfinete Sepia;6,21;0,50
 1;Caneta-tinteiro Orquidea escura;2,59;0,41
-1;Cola em bastao Mostarda;7,63;0,41
+1;Cola em bastao Mostarda ;7,63;0,41
 1;Esquadro Naval;5,70;0,26
 1;Folha laminada Pardo;2,09;0,25
-1;Papel cartao Linho;4,01;0,55
+1;Papel cartao Linho ;4,01;0,55
 1;Apontador Cobre;5,90;0,59
 1;Organizador Urucum;4,50;0,30
 1;Alfinete Ambar;2,65;0,47
@@ -1422,7 +1422,7 @@
 1;Tesoura Azul claro;4,97;0,20
 1;Grampo Rosa bebe;7,59;0,23
 1;Cola Amarelo canario;4,91;0,35
-1;Bloco de notas Verde mar;4,23;0,31
+1;Bloco de notas Verde mar ;4,23;0,31
 1;Fita adesiva Fuligem;2,02;0,30
 1;Envelope Pessego;3,98;0,32
 1;Tachinha Amendoa;4,03;0,42
@@ -1450,11 +1450,11 @@
 1;Fita de correcao Rosa claro;5,63;0,64
 1;Regua Esmeralda;2,63;0,37
 1;Caneta-tinteiro Rosa brilhante;4,64;0,29
-1;Fita de correcao Verde mar;4,43;0,65
+1;Fita de correcao Verde mar ;4,43;0,65
 1;Grampo Esmeralda;3,66;0,32
 1;Tachinha Ebano;7,18;0,57
 1;Grampo Orquidea clara;2,79;0,47
-1;Liquido de correcao Uva;7,59;0,63
+1;Liquido de correcao uva;7,59;0,63
 1;Cartao de papel Vermelho;7,22;0,58
 1;Papel cartao Coral;3,72;0,30
 1;Pasta de papel Branco floral;2,05;0,42
@@ -1465,7 +1465,7 @@
 1;Lapis Verde lima;5,77;0,30
 1;Pasta de papel Carmim;4,32;0,61
 1;Lapiseira Cobre;6,43;0,59
-1;Compasso Jasmine;2,35;0,62
+1;Compasso Jasmine ;2,35;0,62
 1;Cola Rosa claro;7,23;0,21
 1;Clipe Tangerina;7,82;0,37
 1;Apontador Esmeralda;6,11;0,58
@@ -1477,7 +1477,7 @@
 1;Lapiseira Verde escuro;5,97;0,48
 1;Alfinete Turquesa;4,92;0,39
 1;Elastico Azul profundo;3,85;0,46
-1;Papel reciclado Mostarda;2,11;0,54
+1;Papel reciclado Mostarda ;2,11;0,54
 1;Tachinha Oliva;2,75;0,49
 1;Cartucho de tinta Vermelho indiano;3,49;0,57
 1;Pasta de papel Verde;6,13;0,64
@@ -1531,7 +1531,7 @@
 1;Caneta esferografica Rosa bebe;6,98;0,41
 1;Cola em bastao Marrom rosado;6,82;0,44
 1;Cartolina Ciano;1,66;0,35
-1;Cola em bastao Linho;2,25;0,62
+1;Cola em bastao Linho ;2,25;0,62
 1;Lapis de cor Cinza;3,80;0,44
 1;Papel quadriculado Sepia;6,68;0,56
 1;Pasta de plastico Limao;7,29;0,42
@@ -1544,14 +1544,14 @@
 1;Post-its Vermelho;1,90;0,24
 1;Bloco com pauta Ameixa;5,59;0,50
 1;Caneta marcador Tangerina;2,45;0,29
-1;Caneta-tinteiro Linho;3,41;0,50
-1;Cola Quartzo rosa;6,72;0,64
+1;Caneta-tinteiro Linho ;3,41;0,50
+1;Cola Quartzo rosa ;6,72;0,64
 1;Fita adesiva Azul topazio;1,57;0,45
 1;Calculadora Azul escuro;3,20;0,53
 1;Pasta de plastico Violeta;3,97;0,21
 1;Esquadro Laranja;7,46;0,56
 1;Caderno Azul anil;3,80;0,59
-1;Tesoura Violeta claro;5,87;0,29
+1;Tesoura Violeta claro ;5,87;0,29
 1;Protetor de folhas Gris;6,19;0,48
 1;Fita de correcao Branco floral;7,25;0,52
 1;Etiqueta grande Verde fluorescente;7,94;0,35
@@ -1567,7 +1567,7 @@
 1;Elastico Fuligem;6,35;0,60
 1;Transferidor Papaia;4,03;0,35
 1;Caneta-tinteiro Verde lima;2,52;0,44
-1;Ficheiro Bronze;6,63;0,56
+1;Ficheiro Bronze ;6,63;0,56
 1;Fita adesiva Cobre;3,89;0,39
 1;Etiqueta pequena Azul escuro;6,03;0,36
 1;Transferidor Rosa claro;6,34;0,46
@@ -1582,7 +1582,7 @@
 1;Esquadro Branco antigo;6,14;0,55
 1;Etiqueta grande Marfim;5,28;0,54
 1;Tachinha Carmesim;5,89;0,65
-1;Bloco com pauta Quartzo rosa;5,10;0,64
+1;Bloco com pauta Quartzo rosa ;5,10;0,64
 1;Apontador Verde oliva;5,36;0,26
 1;Pasta de plastico Rosa profundo;5,06;0,31
 1;Bloco de notas Salmao claro;4,75;0,63
@@ -1594,9 +1594,9 @@
 1;Grampo Oliva escura;6,96;0,61
 1;Liquido de correcao Azul ardosia;5,90;0,33
 1;Grampeador Orquidea;5,08;0,56
-1;Post-its Bronze;3,72;0,53
+1;Post-its Bronze ;3,72;0,53
 1;Ficheiro Rosa brilhante;5,85;0,63
-1;Post-its Gengibre;7,40;0,49
+1;Post-its Gengibre ;7,40;0,49
 1;Lapis Verde bandeira;6,24;0,51
 1;Cola em bastao Esmeralda;2,82;0,53
 1;Etiqueta grande Terracota;6,81;0,30
@@ -1615,17 +1615,17 @@
 1;Envelope Amarelo;4,45;0,47
 1;Regua Cenoura;7,12;0,26
 1;Giz de cera Jade;3,97;0,31
-1;Etiqueta pequena Violeta claro;1,67;0,38
+1;Etiqueta pequena Violeta claro ;1,67;0,38
 1;Post-its Azul cobalto;7,29;0,35
 1;Cartucho de tinta Verde grama;4,14;0,29
 1;Bloco de notas Azul cobalto;7,96;0,41
 1;Liquido de correcao Verde bandeira;5,17;0,61
 1;Papel colorido Orquidea escura;4,78;0,54
 1;Grampeador Caramelo;4,73;0,28
-1;Papel para impressora Turquesa clara;5,58;0,29
+1;Papel para impressora Turquesa clara ;5,58;0,29
 1;Prancheta Acafrao;7,85;0,35
-1;Papel reciclado Quartzo rosa;2,25;0,27
-1;Cartolina Mostarda;5,55;0,45
+1;Papel reciclado Quartzo rosa ;2,25;0,27
+1;Cartolina Mostarda ;5,55;0,45
 1;Elastico Vermelho escuro;4,84;0,45
 1;Papel cartao Ebano;4,54;0,51
 1;Alfinete Azul petroleo;4,23;0,48
@@ -1643,7 +1643,7 @@
 1;Furador Cinza claro;7,34;0,36
 1;Apontador Ferrugem;3,28;0,26
 1;Lapiseira Azul real;3,24;0,62
-1;Peso de papel Gengibre;5,51;0,64
+1;Peso de papel Gengibre ;5,51;0,64
 1;Pasta de papel Azul real;5,47;0,35
 1;Papel cartao Cereja;6,53;0,40
 1;Lapis de cor Verde;4,80;0,22
@@ -1660,13 +1660,13 @@
 1;Lapiseira Carmesim;7,28;0,23
 1;Calculadora Fuligem;1,80;0,37
 1;Pasta de papel Rosa choque;2,17;0,45
-1;Regua Fucsia;4,63;0,43
+1;Regua Fucsia ;4,63;0,43
 1;Caneta marcador Couro;5,08;0,50
 1;Esquadro Rosa brilhante;2,59;0,46
 1;Esquadro Magenta escuro;5,52;0,48
 1;Furador Lilas;4,22;0,21
 1;Lapis de cor Orquidea escura;4,95;0,29
-1;Caderno Quartzo rosa;5,45;0,29
+1;Caderno Quartzo rosa ;5,45;0,29
 1;Papel colorido Fuligem;2,98;0,30
 1;Caneta marcador Lima;4,41;0,43
 1;Ficheiro Orquidea clara;5,06;0,20
@@ -1691,7 +1691,7 @@
 1;Caneta esferografica Mocassim;4,16;0,39
 1;Cola em bastao Rosa;2,40;0,40
 1;Etiqueta grande Dourado escuro;6,12;0,35
-1;Caneta-tinteiro Verde mar;6,60;0,43
+1;Caneta-tinteiro Verde mar ;6,60;0,43
 1;Giz de cera Cinza ardosia;1,91;0,39
 1;Regua Violeta;6,28;0,36
 1;Cartao de papel Turquesa media;4,94;0,50
@@ -1701,9 +1701,9 @@
 1;Furador Magenta escuro;4,19;0,28
 1;Compasso Sepia;5,89;0,27
 1;Etiqueta pequena Amarelo claro;6,42;0,26
-1;Giz de cera Verde mar;5,26;0,26
+1;Giz de cera Verde mar ;5,26;0,26
 1;Ficheiro Amarelo claro;3,20;0,42
-1;Peso de papel Violeta claro;3,91;0,27
+1;Peso de papel Violeta claro ;3,91;0,27
 1;Etiqueta pequena Vermelho indiano;6,53;0,43
 1;Prancheta Azul topazio;2,87;0,40
 1;Pasta de plastico Vermelho claro;3,59;0,53
@@ -1721,7 +1721,7 @@
 1;Cartolina Salmao claro;5,16;0,25
 1;Cartucho de tinta Cinza;6,43;0,29
 1;Lapiseira Castanho;2,99;0,31
-1;Tesoura Fucsia;2,17;0,46
+1;Tesoura Fucsia ;2,17;0,46
 1;Ficheiro Salmao;6,49;0,21
 1;Protetor de folhas Urucum;6,60;0,58
 1;Caneta-tinteiro Verde fluorescente;7,62;0,57
@@ -1763,7 +1763,7 @@
 1;Liquido de correcao Cenoura;4,51;0,28
 1;Protetor de folhas Vermelho indiano;5,95;0,23
 1;Caneta esferografica Cinza ardosia;5,12;0,32
-1;Regua Violeta claro;5,89;0,51
+1;Regua Violeta claro ;5,89;0,51
 1;Elastico Cinza escuro;5,18;0,30
 1;Compasso Laranja;4,60;0,25
 1;Lapiseira Anil;4,77;0,43
@@ -1771,10 +1771,10 @@
 1;Tachinha Creme;4,71;0,33
 1;Lapis de cor Madeira;3,93;0,41
 1;Cartucho de tinta Borgonha;7,59;0,22
-1;Giz de cera Turquesa clara;5,02;0,23
+1;Giz de cera Turquesa clara ;5,02;0,23
 1;Lapiseira Amarelo claro;3,51;0,32
 1;Lapis Verde claro;1,55;0,58
-1;Esquadro Gengibre;4,37;0,49
+1;Esquadro Gengibre ;4,37;0,49
 1;Esquadro Branco fantasma;1,90;0,64
 1;Protetor de folhas Jambo;6,78;0,35
 1;Cartolina Carmim;3,53;0,25
@@ -1819,9 +1819,9 @@
 1;Compasso Limao;2,69;0,22
 1;Apontador Azul anil;3,55;0,30
 1;Organizador Azul celeste;2,07;0,60
-1;Peso de papel Bronze;3,28;0,52
+1;Peso de papel Bronze ;3,28;0,52
 1;Bloco com pauta Terracota;3,26;0,45
-1;Transferidor Quartzo rosa;5,02;0,27
+1;Transferidor Quartzo rosa ;5,02;0,27
 1;Prancheta Carmesim;5,27;0,21
 1;Pasta de plastico Madeira;7,72;0,40
 1;Prancheta Verde menta;6,55;0,45
@@ -1869,7 +1869,7 @@
 1;Clipe Cobre;3,00;0,29
 1;Bloco com pauta Castanho claro;4,28;0,45
 1;Tachinha Borgonha;5,62;0,48
-1;Esquadro Bronze;4,22;0,36
+1;Esquadro Bronze ;4,22;0,36
 1;Protetor de folhas Tomate;4,54;0,41
 1;Clipe Purpura;4,73;0,43
 1;Giz de cera Rosa escuro;7,78;0,28
@@ -1880,7 +1880,7 @@
 1;Caneta marcador Azul bebe;4,96;0,55
 1;Calculadora Rosa bebe;3,93;0,46
 1;Post-its Anil;5,09;0,23
-1;Tachinha Turquesa clara;1,78;0,55
+1;Tachinha Turquesa clara ;1,78;0,55
 1;Cartucho de tinta Amarelo canario;5,32;0,62
 1;Regua Azul cadete;3,28;0,46
 1;Fita adesiva Ameixa;3,09;0,43
@@ -1890,7 +1890,7 @@
 1;Papel quadriculado Purpura;6,49;0,64
 1;Pasta de plastico Oliva;1,81;0,39
 1;Bloco com pauta Azul piscina;6,23;0,36
-1;Etiqueta grande Fucsia;6,77;0,45
+1;Etiqueta grande Fucsia ;6,77;0,45
 1;Bloco com pauta Verde grama;4,90;0,62
 1;Tachinha Laranja;4,87;0,33
 1;Lapis Sepia;3,42;0,37
@@ -1927,7 +1927,7 @@
 1;Fita de correcao Jade;3,28;0,56
 1;Cartucho de tinta Cereja;4,16;0,26
 1;Papel reciclado Azul cadete;5,65;0,62
-1;Alfinete Mostarda;5,48;0,46
+1;Alfinete Mostarda ;5,48;0,46
 1;Caderno Acafrao;5,46;0,60
 1;Post-its Vermelho indiano;7,89;0,39
 1;Bloco com pauta Amarelo;4,95;0,26
@@ -1936,7 +1936,7 @@
 1;Bloco de notas Azul bebe;3,18;0,30
 1;Bloco com pauta Marrom rosado;7,33;0,38
 1;Protetor de folhas Prata;7,80;0,26
-1;Cartao de papel Quartzo rosa;4,17;0,57
+1;Cartao de papel Quartzo rosa ;4,17;0,57
 1;Papel reciclado Coral claro;5,34;0,23
 1;Etiqueta grande Agua-marinha;7,51;0,29
 1;Cartucho de tinta Mocassim;3,38;0,60
@@ -1946,7 +1946,7 @@
 1;Post-its Dourado;4,01;0,21
 1;Elastico Amarelo;3,50;0,63
 1;Grampo Lima;7,50;0,44
-1;Prancheta Uva;2,61;0,65
+1;Prancheta uva;2,61;0,65
 1;Caneta marcador Marrom escuro;6,79;0,56
 1;Caneta esferografica Ciano;4,80;0,59
 1;Etiqueta pequena Salmao claro;4,39;0,57
@@ -1961,7 +1961,7 @@
 1;Caneta marcador Goiaba;7,58;0,24
 1;Tachinha Terracota;2,42;0,62
 1;Papel reciclado Amendoa;3,97;0,64
-1;Caneta marcador Quartzo rosa;7,81;0,37
+1;Caneta marcador Quartzo rosa ;7,81;0,37
 1;Liquido de correcao Marfim;2,11;0,44
 1;Furador Escarlate;5,68;0,20
 1;Elastico Agua-marinha;7,84;0,49
@@ -1972,18 +1972,18 @@
 1;Organizador Azul;6,06;0,58
 1;Etiqueta pequena Azul real;5,27;0,60
 1;Grampeador Laranja;2,50;0,48
-1;Papel para impressora Ouro;3,03;0,50
+1;Papel para impressora Ouro ;3,03;0,50
 1;Etiqueta pequena Ameixa;3,16;0,51
 1;Fita de correcao Carmesim;4,01;0,62
 1;Compasso Turquesa media;2,85;0,58
 1;Etiqueta pequena Salmao;6,78;0,51
-1;Cartucho de tinta Verde mar;5,86;0,58
+1;Cartucho de tinta Verde mar ;5,86;0,58
 1;Folha laminada Amarelo creme;7,44;0,56
 1;Furador Oliva escura;3,93;0,55
-1;Liquido de correcao Jasmine;4,88;0,63
+1;Liquido de correcao Jasmine ;4,88;0,63
 1;Caderno Madeira;7,77;0,54
 1;Tesoura Azul ardosia;1,55;0,32
-1;Papel reciclado Gengibre;4,22;0,37
+1;Papel reciclado Gengibre ;4,22;0,37
 1;Grampo Bege;7,43;0,55
 1;Lapis de cor Prata;6,48;0,21
 1;Protetor de folhas Carmim;2,26;0,37
@@ -2031,14 +2031,14 @@
 1;Papel reciclado Verde agua;5,38;0,29
 1;Caneta-tinteiro Cobre;5,31;0,29
 1;Post-its Verde menta;1,94;0,38
-1;Grampeador Gengibre;6,37;0,55
+1;Grampeador Gengibre ;6,37;0,55
 1;Cola em bastao Ametista;4,20;0,48
 1;Tachinha Couro;5,85;0,25
 1;Post-its Branco antigo;2,39;0,61
 1;Papel para impressora Papaia;6,11;0,61
 1;Liquido de correcao Azul cadete;2,70;0,45
-1;Cartao de papel Jasmine;3,53;0,34
-1;Giz de cera Bronze;1,85;0,32
+1;Cartao de papel Jasmine ;3,53;0,34
+1;Giz de cera Bronze ;1,85;0,32
 1;Alfinete Magenta;3,90;0,43
 1;Papel colorido Branco fantasma;3,19;0,53
 1;Ficheiro Jambo;2,80;0,45
@@ -2049,18 +2049,18 @@
 1;Cartao de papel Orquidea clara;5,37;0,28
 1;Organizador Verde menta;7,60;0,57
 1;Caderno Ambar;2,71;0,40
-1;Caneta esferografica Fucsia;1,93;0,40
+1;Caneta esferografica Fucsia ;1,93;0,40
 1;Transferidor Urucum;6,32;0,35
 1;Caneta-tinteiro Orquidea clara;3,15;0,61
 1;Liquido de correcao Azul;3,30;0,39
 1;Etiqueta pequena Rosa;5,60;0,51
 1;Caneta esferografica Rosa brilhante;7,47;0,59
 1;Cola em bastao Azul ardosia;5,49;0,64
-1;Papel cartao Violeta claro;1,88;0,27
+1;Papel cartao Violeta claro ;1,88;0,27
 1;Giz de cera Rubro;4,54;0,60
 1;Bloco com pauta Ciano;3,83;0,54
 1;Clipe Branco;7,79;0,52
-1;Tachinha Bronze;2,39;0,51
+1;Tachinha Bronze ;2,39;0,51
 1;Compasso Marrom claro;5,67;0,49
 1;Cola em bastao Malva;2,14;0,61
 1;Esquadro Lavanda;6,60;0,49
@@ -2078,7 +2078,7 @@
 1;Giz de cera Marrom rosado;3,56;0,49
 1;Lapis Creme;4,08;0,55
 1;Apagador Cinza;7,62;0,58
-1;Lapiseira Jasmine;5,92;0,47
+1;Lapiseira Jasmine ;5,92;0,47
 1;Tachinha Prata;5,27;0,31
 1;Caderno Azul real;3,99;0,50
 1;Elastico Laranja;2,75;0,46
@@ -2087,7 +2087,7 @@
 1;Bloco de notas Marrom escuro;2,82;0,25
 1;Lapiseira Cinza fosco;6,50;0,48
 1;Pasta de papel Cinza escuro;4,66;0,48
-1;Etiqueta grande Turquesa clara;2,69;0,37
+1;Etiqueta grande Turquesa clara ;2,69;0,37
 1;Caneta marcador Grena;6,57;0,51
 1;Etiqueta pequena Terracota;1,56;0,20
 1;Cola Couro;7,94;0,44
@@ -2124,7 +2124,7 @@
 1;Etiqueta pequena Rosa bebe;7,82;0,57
 1;Post-its Oliva escura;5,14;0,53
 1;Cartucho de tinta Rubro;6,23;0,47
-1;Papel quadriculado Ouro;3,56;0,33
+1;Papel quadriculado Ouro ;3,56;0,33
 1;Caneta-tinteiro Dourado;2,22;0,42
 1;Grampeador Pardo;5,16;0,51
 1;Lapis Azul celeste;6,60;0,50
@@ -2142,11 +2142,11 @@
 1;Regua Bordo;3,50;0,59
 1;Lapis Preto;3,80;0,44
 1;Papel para impressora Verde;7,79;0,30
-1;Grampo Jasmine;3,82;0,38
+1;Grampo Jasmine ;3,82;0,38
 1;Grampo Marfim;7,27;0,37
-1;Giz de cera Gengibre;2,78;0,34
-1;Grampeador Quartzo rosa;4,36;0,24
-1;Cola Fucsia;6,59;0,38
+1;Giz de cera Gengibre ;2,78;0,34
+1;Grampeador Quartzo rosa ;4,36;0,24
+1;Cola Fucsia ;6,59;0,38
 1;Folha laminada Amarelo claro;2,32;0,55
 1;Caneta marcador Cinza medio;2,99;0,36
 1;Cola Amarelo creme;6,03;0,61
@@ -2158,7 +2158,7 @@
 1;Papel para impressora Azul bebe;4,60;0,50
 1;Fita de correcao Rosa choque;7,05;0,55
 1;Etiqueta grande Ambar;1,83;0,20
-1;Caneta-tinteiro Violeta claro;4,37;0,30
+1;Caneta-tinteiro Violeta claro ;4,37;0,30
 1;Cartao de papel Azul bebe;4,41;0,55
 1;Liquido de correcao Tomate;3,96;0,55
 1;Alfinete Fuligem;6,53;0,37
@@ -2169,7 +2169,7 @@
 1;Tesoura Lavanda;3,73;0,24
 1;Etiqueta pequena Jambo;4,33;0,36
 1;Cola Tomate;3,55;0,53
-1;Papel quadriculado Mostarda;4,36;0,41
+1;Papel quadriculado Mostarda ;4,36;0,41
 1;Envelope Vermelho;2,23;0,42
 1;Tachinha Vermelho claro;7,65;0,43
 1;Grampeador Carmesim;5,09;0,26
@@ -2185,7 +2185,7 @@
 1;Cartao de papel Kiwi;2,46;0,38
 1;Liquido de correcao Branco fantasma;5,43;0,34
 1;Papel quadriculado Caqui;4,20;0,47
-1;Papel quadriculado Bronze;6,13;0,23
+1;Papel quadriculado Bronze ;6,13;0,23
 1;Lapis de cor Escarlate;4,94;0,63
 1;Bloco com pauta Orquidea clara;7,12;0,53
 1;Apontador Verde agua;6,10;0,63
@@ -2194,7 +2194,7 @@
 1;Prancheta Pessego;4,77;0,56
 1;Cartolina Kiwi;2,10;0,35
 1;Tachinha Turquesa escura;6,10;0,26
-1;Caneta esferografica Gengibre;6,63;0,39
+1;Caneta esferografica Gengibre ;6,63;0,39
 1;Etiqueta pequena Azul celeste;4,08;0,54
 1;Apagador Pessego;6,31;0,37
 1;Clipe Marrom escuro;7,26;0,26
@@ -2205,7 +2205,7 @@
 1;Cartolina Laranja;6,71;0,39
 1;Papel para impressora Azul cadete;5,47;0,21
 1;Ficheiro Gris;3,33;0,21
-1;Alfinete Turquesa clara;7,18;0,36
+1;Alfinete Turquesa clara ;7,18;0,36
 1;Fita de correcao Orquidea;1,77;0,48
 1;Papel cartao Lima;1,67;0,64
 1;Cola Ametista;7,47;0,29
@@ -2226,9 +2226,9 @@
 1;Papel reciclado Oliva parda;7,86;0,25
 1;Etiqueta grande Anil;7,96;0,45
 1;Prancheta Verde;3,50;0,59
-1;Lapis de cor Linho;1,79;0,38
-1;Bloco de notas Fucsia;3,95;0,51
-1;Caneta-tinteiro Turquesa clara;1,84;0,33
+1;Lapis de cor Linho ;1,79;0,38
+1;Bloco de notas Fucsia ;3,95;0,51
+1;Caneta-tinteiro Turquesa clara ;1,84;0,33
 1;Cartucho de tinta Azul anil;3,87;0,53
 1;Grampeador Rosa brilhante;2,06;0,49
 1;Lapis Lima;7,29;0,33
@@ -2238,10 +2238,10 @@
 1;Regua Neve;2,78;0,60
 1;Caneta esferografica Verde bandeira;7,27;0,31
 1;Grampo Salmao claro;7,45;0,57
-1;Tachinha Jasmine;2,03;0,40
+1;Tachinha Jasmine ;2,03;0,40
 1;Tesoura Laranja claro;7,29;0,47
-1;Bloco com pauta Mostarda;4,79;0,41
-1;Liquido de correcao Violeta claro;5,00;0,31
+1;Bloco com pauta Mostarda ;4,79;0,41
+1;Liquido de correcao Violeta claro ;5,00;0,31
 1;Caneta-tinteiro Caramelo;6,24;0,49
 1;Elastico Purpura;3,93;0,58
 1;Prancheta Gris;5,80;0,61
@@ -2262,11 +2262,11 @@
 1;Alfinete Bege;6,03;0,61
 1;Envelope Caramelo;4,29;0,20
 1;Tesoura Verde;4,57;0,51
-1;Elastico Uva;4,52;0,43
+1;Elastico uva;4,52;0,43
 1;Compasso Cinza medio;2,21;0,20
-1;Pasta de papel Ouro;2,50;0,57
+1;Pasta de papel Ouro ;2,50;0,57
 1;Fita de correcao Dourado;2,16;0,55
-1;Post-its Fucsia;4,97;0,32
+1;Post-its Fucsia ;4,97;0,32
 1;Bloco de notas Lavanda;4,93;0,35
 1;Papel cartao Branco floral;6,60;0,56
 1;Clipe Oliva escura;7,02;0,20
@@ -2275,7 +2275,7 @@
 1;Protetor de folhas Castanho claro;4,35;0,57
 1;Grampo Verde claro;5,20;0,59
 1;Grampo Salmao escuro;3,37;0,62
-1;Esquadro Turquesa clara;5,77;0,47
+1;Esquadro Turquesa clara ;5,77;0,47
 1;Grampo Azul escuro;6,97;0,20
 1;Compasso Verde grama;2,31;0,32
 1;Liquido de correcao Branco floral;4,66;0,23
@@ -2300,9 +2300,9 @@
 1;Papel colorido Anil;6,91;0,48
 1;Caneta marcador Oliva parda;4,98;0,56
 1;Papel para impressora Verde bandeira;2,88;0,46
-1;Elastico Turquesa clara;6,83;0,58
+1;Elastico Turquesa clara ;6,83;0,58
 1;Giz de cera Azul real;2,36;0,21
-1;Fita adesiva Jasmine;3,97;0,63
+1;Fita adesiva Jasmine ;3,97;0,63
 1;Bloco de notas Branco antigo;2,71;0,30
 1;Lapis Caqui escuro;2,27;0,57
 1;Etiqueta grande Amendoa;4,43;0,35
@@ -2363,7 +2363,7 @@
 1;Esquadro Cinza escuro;4,67;0,57
 1;Peso de papel Fuligem;5,01;0,27
 1;Esquadro Oliva parda;2,87;0,61
-1;Lapiseira Verde mar;5,95;0,42
+1;Lapiseira Verde mar ;5,95;0,42
 1;Caneta marcador Bege;7,52;0,58
 1;Elastico Verde grama;6,44;0,60
 1;Papel para impressora Preto;3,45;0,34
@@ -2385,11 +2385,11 @@
 1;Protetor de folhas Preto;5,96;0,42
 1;Bloco de notas Goiaba;5,49;0,24
 1;Lapis de cor Encarnado;4,53;0,42
-1;Pasta de plastico Jasmine;2,63;0,42
-1;Compasso Gengibre;3,19;0,62
+1;Pasta de plastico Jasmine ;2,63;0,42
+1;Compasso Gengibre ;3,19;0,62
 1;Caneta marcador Castanho claro;7,88;0,63
 1;Papel reciclado Cinza ardosia;4,12;0,21
-1;Giz de cera Violeta claro;2,88;0,39
+1;Giz de cera Violeta claro ;2,88;0,39
 1;Compasso Goiaba;6,71;0,45
 1;Liquido de correcao Mocassim;7,40;0,43
 1;Caneta esferografica Rosa profundo;2,76;0,53
@@ -2406,7 +2406,7 @@
 1;Pasta de papel Rubro;4,69;0,50
 1;Tesoura Ciano;5,91;0,38
 1;Pasta de plastico Jade;4,97;0,40
-1;Fita de correcao Gengibre;6,65;0,62
+1;Fita de correcao Gengibre ;6,65;0,62
 1;Grampo Oliva;3,32;0,64
 1;Etiqueta pequena Magenta escuro;4,76;0,32
 1;Giz de cera Verde oliva;6,85;0,52
@@ -2415,7 +2415,7 @@
 1;Lapiseira Papaia;7,58;0,44
 1;Etiqueta pequena Cinza fosco;4,31;0,55
 1;Papel quadriculado Magenta;4,21;0,40
-1;Cola em bastao Verde mar;6,10;0,53
+1;Cola em bastao Verde mar ;6,10;0,53
 1;Peso de papel Azul;7,07;0,36
 1;Fita adesiva Cinza claro;2,32;0,58
 1;Lapis Violeta;4,64;0,34
@@ -2429,21 +2429,21 @@
 1;Papel cartao Naval;3,93;0,49
 1;Elastico Turquesa;4,20;0,34
 1;Bloco com pauta Caramelo;2,40;0,62
-1;Papel cartao Mostarda;2,78;0,29
+1;Papel cartao Mostarda ;2,78;0,29
 1;Cartucho de tinta Papaia;3,65;0,63
 1;Grampeador Marfim;4,84;0,46
 1;Bloco com pauta Marrom;2,69;0,30
-1;Fita de correcao Turquesa clara;3,08;0,40
+1;Fita de correcao Turquesa clara ;3,08;0,40
 1;Post-its Magenta;7,82;0,33
 1;Cola Acafrao;5,20;0,32
 1;Tesoura Cinza escuro;4,99;0,58
-1;Cola em bastao Ouro;2,97;0,56
+1;Cola em bastao Ouro ;2,97;0,56
 1;Pasta de plastico Chocolate;6,39;0,47
 1;Envelope Ocre;4,57;0,52
 1;Lapis de cor Esmeralda;7,32;0,29
 1;Organizador Limao;1,97;0,35
 1;Cola Terracota;4,91;0,31
-1;Pasta de papel Verde mar;4,37;0,37
+1;Pasta de papel Verde mar ;4,37;0,37
 1;Pasta de plastico Cinza fosco;5,57;0,55
 1;Lapis de cor Verde menta;4,29;0,59
 1;Folha laminada Caqui escuro;4,99;0,37
@@ -2486,10 +2486,10 @@
 1;Clipe Marfim;2,12;0,41
 1;Envelope Azul celeste;2,04;0,31
 1;Peso de papel Verde;4,75;0,62
-1;Envelope Gengibre;7,91;0,59
+1;Envelope Gengibre ;7,91;0,59
 1;Caneta esferografica Caqui;2,72;0,30
 1;Apontador Azul turquesa;1,96;0,31
-1;Pasta de papel Quartzo rosa;5,62;0,57
+1;Pasta de papel Quartzo rosa ;5,62;0,57
 1;Compasso Tomate;7,83;0,22
 1;Tachinha Cinza ardosia;6,06;0,44
 1;Papel reciclado Mocassim;4,86;0,27
@@ -2520,7 +2520,7 @@
 1;Papel quadriculado Rosa profundo;7,74;0,62
 1;Tesoura Verde claro;7,86;0,36
 1;Furador Azul real;1,84;0,48
-1;Elastico Verde mar;3,45;0,46
+1;Elastico Verde mar ;3,45;0,46
 1;Liquido de correcao Amarelo;1,62;0,43
 1;Organizador Azul piscina;6,38;0,46
 1;Furador Tomate;4,91;0,62
@@ -2529,10 +2529,10 @@
 1;Protetor de folhas Coral claro;1,88;0,65
 1;Cola Cenoura;2,79;0,60
 1;Alfinete Caqui escuro;5,69;0,55
-1;Alfinete Bronze;5,75;0,38
+1;Alfinete Bronze ;5,75;0,38
 1;Fita de correcao Lima;5,64;0,40
 1;Cartolina Cobre;7,19;0,61
-1;Caneta esferografica Mostarda;7,48;0,33
+1;Caneta esferografica Mostarda ;7,48;0,33
 1;Post-its Sepia;7,57;0,46
 1;Papel para impressora Dourado escuro;6,78;0,42
 1;Cola Escarlate;2,78;0,50
@@ -2548,7 +2548,7 @@
 1;Regua Rosa bebe;7,24;0,33
 1;Esquadro Castanho;2,32;0,54
 1;Etiqueta pequena Vermelho claro;2,19;0,43
-1;Folha laminada Fucsia;4,22;0,39
+1;Folha laminada Fucsia ;4,22;0,39
 1;Caneta marcador Verde lima;4,61;0,62
 1;Furador Pardo;6,62;0,37
 1;Furador Papaia;5,54;0,35
@@ -2561,7 +2561,7 @@
 1;Apontador Lima;4,73;0,28
 1;Ficheiro Pardo;6,00;0,32
 1;Cartucho de tinta Amarelo escuro;6,24;0,52
-1;Giz de cera Quartzo rosa;7,03;0,49
+1;Giz de cera Quartzo rosa ;7,03;0,49
 1;Post-its Castanho;2,09;0,37
 1;Lapis Vermelho indiano;5,75;0,51
 1;Lapis Turquesa escura;6,40;0,54
@@ -2573,12 +2573,12 @@
 1;Caneta marcador Gris;3,85;0,60
 1;Etiqueta pequena Lima;6,55;0,27
 1;Apagador Ocre;5,55;0,27
-1;Grampeador Bronze;7,19;0,21
+1;Grampeador Bronze ;7,19;0,21
 1;Ficheiro Salmao claro;2,70;0,62
 1;Pasta de papel Rosa escuro;1,72;0,63
 1;Lapis de cor Vermelho claro;7,73;0,52
 1;Cartao de papel Vermelho escuro;7,58;0,50
-1;Pasta de plastico Verde mar;3,45;0,40
+1;Pasta de plastico Verde mar ;3,45;0,40
 1;Organizador Carmim;7,19;0,44
 1;Cola em bastao Lima;3,29;0,54
 1;Giz de cera Preto;2,92;0,49
@@ -2590,12 +2590,12 @@
 1;Lapiseira Magenta escuro;5,17;0,31
 1;Caneta-tinteiro Ciano;3,42;0,38
 1;Papel reciclado Rosa;4,24;0,58
-1;Pasta de papel Violeta claro;7,71;0,21
+1;Pasta de papel Violeta claro ;7,71;0,21
 1;Caneta-tinteiro Laranja;4,08;0,60
 1;Papel cartao Amendoa;5,17;0,49
 1;Folha laminada Marrom rosado;7,28;0,56
 1;Compasso Cinza claro;6,88;0,22
-1;Compasso Verde mar;1,78;0,21
+1;Compasso Verde mar ;1,78;0,21
 1;Regua Verde oliva;4,96;0,29
 1;Caneta-tinteiro Amarelo canario;1,63;0,51
 1;Prancheta Ocre;6,59;0,31
@@ -2618,7 +2618,7 @@
 1;Protetor de folhas Goiaba;5,06;0,30
 1;Papel reciclado Azul real;1,59;0,32
 1;Alfinete Tomate;6,60;0,33
-1;Regua Bronze;3,37;0,37
+1;Regua Bronze ;3,37;0,37
 1;Fita de correcao Carmim;4,90;0,42
 1;Envelope Rubro;3,71;0,23
 1;Lapiseira Terracota;7,12;0,51
@@ -2658,12 +2658,12 @@
 1;Cartucho de tinta Cinza fosco;2,19;0,51
 1;Clipe Couro;3,20;0,42
 1;Grampeador Ebano;3,03;0,33
-1;Apontador Linho;2,81;0,39
+1;Apontador Linho ;2,81;0,39
 1;Tachinha Ocre;2,99;0,27
 1;Fita adesiva Azul ardosia;1,91;0,41
 1;Calculadora Lima;6,78;0,21
 1;Calculadora Azul turquesa;5,29;0,50
-1;Lapis de cor Mostarda;3,00;0,62
+1;Lapis de cor Mostarda ;3,00;0,62
 1;Cartucho de tinta Azul;5,80;0,38
 1;Envelope Azul real;6,59;0,44
 1;Pasta de papel Caqui escuro;6,48;0,31
@@ -2678,7 +2678,7 @@
 1;Cartucho de tinta Pessego;4,44;0,26
 1;Fita adesiva Branco antigo;2,48;0,48
 1;Papel para impressora Rubro;4,26;0,56
-1;Folha laminada Violeta claro;5,63;0,47
+1;Folha laminada Violeta claro ;5,63;0,47
 1;Papel quadriculado Ameixa;4,93;0,58
 1;Liquido de correcao Cobre;4,53;0,45
 1;Tachinha Anil;2,51;0,21
@@ -2689,7 +2689,7 @@
 1;Tachinha Ambar;7,86;0,53
 1;Papel colorido Marrom;2,95;0,51
 1;Caneta-tinteiro Preto;1,98;0,28
-1;Ficheiro Jasmine;7,10;0,34
+1;Ficheiro Jasmine ;7,10;0,34
 1;Lapis de cor Lavanda;2,59;0,58
 1;Alfinete Cinza claro;5,29;0,51
 1;Bloco com pauta Branco antigo;6,96;0,56
@@ -2704,7 +2704,7 @@
 1;Post-its Amendoa;6,79;0,45
 1;Papel cartao Branco;2,72;0,59
 1;Lapiseira Salmao escuro;4,46;0,26
-1;Caneta-tinteiro Gengibre;3,03;0,50
+1;Caneta-tinteiro Gengibre ;3,03;0,50
 1;Caneta esferografica Pessego;6,21;0,65
 1;Grampeador Lima;4,62;0,31
 1;Regua Azul real;5,76;0,64
@@ -2757,14 +2757,14 @@
 1;Etiqueta grande Turquesa;2,78;0,28
 1;Lapis de cor Azul petroleo;1,58;0,62
 1;Transferidor Azul turquesa;2,55;0,56
-1;Lapiseira Quartzo rosa;3,62;0,34
+1;Lapiseira Quartzo rosa ;3,62;0,34
 1;Lapis de cor Lilas;6,23;0,65
 1;Apontador Azul bebe;7,84;0,45
 1;Caderno Rosa choque;7,78;0,42
 1;Cartao de papel Preto;5,89;0,31
 1;Liquido de correcao Caqui;5,35;0,56
-1;Apagador Quartzo rosa;6,01;0,57
-1;Apagador Mostarda;5,02;0,26
+1;Apagador Quartzo rosa ;6,01;0,57
+1;Apagador Mostarda ;5,02;0,26
 1;Organizador Marrom escuro;3,01;0,41
 1;Cartao de papel Couro;5,20;0,25
 1;Etiqueta pequena Urucum;6,92;0,48
@@ -2785,8 +2785,8 @@
 1;Calculadora Ferrugem;7,73;0,28
 1;Caneta marcador Naval;3,58;0,22
 1;Lapis de cor Azul profundo;3,79;0,49
-1;Lapis Mostarda;7,94;0,45
-1;Caneta esferografica Bronze;6,39;0,62
+1;Lapis Mostarda ;7,94;0,45
+1;Caneta esferografica Bronze ;6,39;0,62
 1;Caneta-tinteiro Rosa escuro;5,27;0,64
 1;Apagador Gris;6,22;0,27
 1;Liquido de correcao Rosa escuro;7,22;0,47
@@ -2809,7 +2809,7 @@
 1;Lapis Malva;1,59;0,46
 1;Bloco com pauta Carmesim;4,64;0,53
 1;Elastico Ambar;4,17;0,27
-1;Bloco de notas Uva;4,20;0,59
+1;Bloco de notas uva;4,20;0,59
 1;Calculadora Ebano;4,99;0,43
 1;Transferidor Verde pastel;7,61;0,21
 1;Tachinha Branco antigo;4,93;0,53
@@ -2817,7 +2817,7 @@
 1;Etiqueta grande Kiwi;5,93;0,25
 1;Lapiseira Caqui;7,96;0,47
 1;Papel colorido Turquesa escura;6,22;0,43
-1;Folha laminada Ouro;3,27;0,54
+1;Folha laminada Ouro ;3,27;0,54
 1;Esquadro Azul marinho;7,22;0,37
 1;Etiqueta pequena Pessego;7,76;0,60
 1;Cola Pessego;6,51;0,55
@@ -2828,7 +2828,7 @@
 1;Papel para impressora Urucum;5,19;0,60
 1;Cola em bastao Cinza medio;4,84;0,51
 1;Papel colorido Verde grama;3,40;0,20
-1;Tachinha Verde mar;2,10;0,34
+1;Tachinha Verde mar ;2,10;0,34
 1;Fita de correcao Vermelho;2,83;0,29
 1;Caneta marcador Cinza fosco;6,45;0,35
 1;Grampo Madeira;1,55;0,24
@@ -2890,13 +2890,13 @@
 1;Liquido de correcao Indigo;5,35;0,54
 1;Etiqueta pequena Ferrugem;5,05;0,21
 1;Bloco de notas Agua-marinha;6,09;0,56
-1;Alfinete Gengibre;7,89;0,26
+1;Alfinete Gengibre ;7,89;0,26
 1;Furador Caqui escuro;4,55;0,61
 1;Esquadro Pessego;2,26;0,38
 1;Esquadro Turquesa escura;2,08;0,37
 1;Grampo Rosa choque;3,49;0,41
 1;Papel para impressora Cobre;4,24;0,54
-1;Liquido de correcao Bronze;6,58;0,65
+1;Liquido de correcao Bronze ;6,58;0,65
 1;Tachinha Turquesa;4,95;0,23
 1;Caneta-tinteiro Naval;7,71;0,47
 1;Apontador Ciano;6,37;0,28
@@ -2958,7 +2958,7 @@
 1;Caneta-tinteiro Marfim;4,91;0,57
 1;Caneta esferografica Turquesa media;4,62;0,47
 1;Cola em bastao Violeta;6,66;0,24
-1;Lapis Gengibre;6,42;0,59
+1;Lapis Gengibre ;6,42;0,59
 1;Papel para impressora Pessego;4,35;0,51
 1;Transferidor Purpura;2,07;0,54
 1;Pasta de plastico Verde claro;3,19;0,31
@@ -3024,7 +3024,7 @@
 1;Caneta marcador Carmim;4,18;0,62
 1;Cartolina Papaia;2,63;0,42
 1;Liquido de correcao Branco;4,46;0,62
-1;Clipe Gengibre;5,27;0,26
+1;Clipe Gengibre ;5,27;0,26
 1;Bloco de notas Rosa choque;6,63;0,53
 1;Etiqueta pequena Goiaba;6,47;0,56
 1;Tesoura Cenoura;5,13;0,49
@@ -3034,16 +3034,16 @@
 1;Regua Verde claro;6,81;0,26
 1;Regua Marrom;1,83;0,23
 1;Transferidor Prata;6,14;0,22
-1;Lapis Fucsia;6,53;0,29
+1;Lapis Fucsia ;6,53;0,29
 1;Clipe Fuligem;6,79;0,55
 1;Caneta marcador Indigo;2,17;0,61
 1;Fita de correcao Jambo;6,49;0,34
 1;Caderno Azul ardosia;6,60;0,62
 1;Etiqueta grande Azul profundo;5,65;0,22
-1;Caneta esferografica Ouro;7,51;0,42
+1;Caneta esferografica Ouro ;7,51;0,42
 1;Transferidor Castanho;4,89;0,47
 1;Lapis de cor Amendoa;3,87;0,64
-1;Cartucho de tinta Ouro;5,69;0,51
+1;Cartucho de tinta Ouro ;5,69;0,51
 1;Lapis Verde pastel;4,06;0,47
 1;Caderno Terracota;6,53;0,55
 1;Pasta de papel Azul;7,73;0,39
@@ -3057,7 +3057,7 @@
 1;Liquido de correcao Rosa;1,61;0,56
 1;Alfinete Amarelo claro;4,51;0,55
 1;Caderno Azul marinho;6,37;0,51
-1;Ficheiro Verde mar;4,80;0,42
+1;Ficheiro Verde mar ;4,80;0,42
 1;Organizador Branco floral;6,79;0,65
 1;Papel reciclado Gris;7,26;0,34
 1;Lapis Vermelho;3,97;0,47
@@ -3087,22 +3087,22 @@
 1;Papel cartao Neve;2,35;0,55
 1;Fita adesiva Cereja;5,07;0,30
 1;Papel quadriculado Orquidea;6,83;0,51
-1;Transferidor Fucsia;3,83;0,60
+1;Transferidor Fucsia ;3,83;0,60
 1;Post-its Tomate;2,36;0,48
 1;Etiqueta grande Orquidea clara;1,64;0,43
 1;Tesoura Lima;7,47;0,63
-1;Envelope Fucsia;6,47;0,61
+1;Envelope Fucsia ;6,47;0,61
 1;Esquadro Ebano;4,36;0,49
 1;Protetor de folhas Magenta;7,92;0,63
 1;Tachinha Castanho;2,33;0,40
 1;Lapiseira Verde bandeira;4,65;0,60
 1;Post-its Cinza claro;6,01;0,58
-1;Lapis Turquesa clara;3,25;0,50
+1;Lapis Turquesa clara ;3,25;0,50
 1;Grampeador Verde;3,15;0,37
 1;Caneta marcador Verde bandeira;7,20;0,34
 1;Papel reciclado Jambo;7,04;0,30
 1;Papel colorido Cinza;7,41;0,28
-1;Fita de correcao Jasmine;2,13;0,32
+1;Fita de correcao Jasmine ;2,13;0,32
 1;Peso de papel Dourado escuro;5,55;0,46
 1;Etiqueta grande Castanho;2,01;0,43
 1;Clipe Ciano;5,09;0,33
@@ -3116,7 +3116,7 @@
 1;Bloco de notas Lima;4,47;0,57
 1;Elastico Cinza ardosia;1,99;0,20
 1;Giz de cera Caqui escuro;2,97;0,55
-1;Cola em bastao Bronze;7,31;0,38
+1;Cola em bastao Bronze ;7,31;0,38
 1;Caneta-tinteiro Azul claro;2,52;0,26
 1;Furador Mocassim;7,30;0,44
 1;Pasta de papel Limao;3,64;0,48
@@ -3138,17 +3138,17 @@
 1;Etiqueta grande Goiaba;7,51;0,51
 1;Protetor de folhas Azul celeste;6,52;0,29
 1;Etiqueta grande Azul;5,93;0,49
-1;Caneta-tinteiro Quartzo rosa;2,79;0,42
+1;Caneta-tinteiro Quartzo rosa ;2,79;0,42
 1;Fita adesiva Ciano;4,47;0,39
 1;Pasta de papel Ferrugem;5,43;0,38
 1;Calculadora Creme;6,57;0,39
 1;Cola em bastao Branco fantasma;2,89;0,45
 1;Envelope Fuligem;4,64;0,40
-1;Papel cartao Gengibre;5,51;0,45
+1;Papel cartao Gengibre ;5,51;0,45
 1;Papel colorido Cenoura;6,09;0,51
 1;Papel para impressora Rosa brilhante;1,83;0,29
 1;Clipe Turquesa media;1,87;0,63
-1;Papel para impressora Quartzo rosa;7,11;0,27
+1;Papel para impressora Quartzo rosa ;7,11;0,27
 1;Caneta-tinteiro Pardo;7,00;0,31
 1;Fita de correcao Ferrugem;6,24;0,55
 1;Papel para impressora Grena;2,13;0,41
@@ -3156,13 +3156,13 @@
 1;Caneta-tinteiro Verde;1,91;0,59
 1;Regua Branco fantasma;1,90;0,38
 1;Caneta marcador Ambar;2,23;0,48
-1;Caneta-tinteiro Bronze;2,37;0,47
+1;Caneta-tinteiro Bronze ;2,37;0,47
 1;Cartolina Lavanda;3,15;0,27
 1;Bloco de notas Amendoa;5,97;0,27
 1;Papel colorido Rubro;2,87;0,52
 1;Organizador Laranja claro;1,65;0,60
 1;Prancheta Orquidea;6,10;0,43
-1;Papel colorido Turquesa clara;3,06;0,26
+1;Papel colorido Turquesa clara ;3,06;0,26
 1;Clipe Amarelo escuro;2,64;0,50
 1;Caneta marcador Preto;3,50;0,21
 1;Clipe Agua-marinha;4,61;0,21
@@ -3197,13 +3197,13 @@
 1;Papel quadriculado Cinza ardosia;4,85;0,27
 1;Esquadro Amendoa;7,52;0,44
 1;Papel quadriculado Verde agua;3,61;0,31
-1;Liquido de correcao Fucsia;1,92;0,50
+1;Liquido de correcao Fucsia ;1,92;0,50
 1;Alfinete Vermelho;5,60;0,53
 1;Esquadro Purpura;6,37;0,32
 1;Fita de correcao Cinza medio;5,24;0,40
 1;Peso de papel Anil;2,51;0,22
 1;Lapis Cinza;6,84;0,34
-1;Cartao de papel Gengibre;2,82;0,22
+1;Cartao de papel Gengibre ;2,82;0,22
 1;Esquadro Salmao escuro;2,04;0,61
 1;Protetor de folhas Caqui;5,54;0,59
 1;Papel para impressora Lima;6,48;0,49
@@ -3216,7 +3216,7 @@
 1;Cartao de papel Ebano;4,11;0,52
 1;Etiqueta pequena Indigo;3,19;0,32
 1;Bloco com pauta Ocre;4,31;0,49
-1;Lapis Jasmine;6,76;0,28
+1;Lapis Jasmine ;6,76;0,28
 1;Regua Azul brasilis;4,67;0,20
 1;Grampo Amarelo canario;6,53;0,40
 1;Bloco com pauta Azul cadete;1,82;0,31
@@ -3225,16 +3225,16 @@
 1;Transferidor Oliva parda;3,26;0,60
 1;Peso de papel Tomate;7,48;0,39
 1;Cartolina Azul petroleo;5,37;0,57
-1;Peso de papel Quartzo rosa;2,33;0,31
+1;Peso de papel Quartzo rosa ;2,33;0,31
 1;Peso de papel Kiwi;7,26;0,33
 1;Cola em bastao Verde escuro;4,85;0,64
 1;Papel para impressora Violeta escuro;5,80;0,46
 1;Tesoura Jambo;3,67;0,26
 1;Folha laminada Azul anil;5,09;0,58
 1;Etiqueta pequena Verde claro;4,53;0,35
-1;Liquido de correcao Turquesa clara;5,90;0,33
-1;Cartucho de tinta Linho;2,22;0,25
-1;Grampo Turquesa clara;4,32;0,50
+1;Liquido de correcao Turquesa clara ;5,90;0,33
+1;Cartucho de tinta Linho ;2,22;0,25
+1;Grampo Turquesa clara ;4,32;0,50
 1;Pasta de papel Urucum;4,30;0,61
 1;Papel cartao Rosa brilhante;3,66;0,31
 1;Cartao de papel Indigo;5,96;0,42
@@ -3254,13 +3254,13 @@
 1;Furador Ametista;2,25;0,29
 1;Ficheiro Ambar;3,80;0,24
 1;Furador Acafrao;4,14;0,24
-1;Apagador Gengibre;4,47;0,52
+1;Apagador Gengibre ;4,47;0,52
 1;Post-its Azul topazio;4,13;0,57
-1;Giz de cera Uva;4,78;0,37
+1;Giz de cera uva;4,78;0,37
 1;Apontador Azul medio;5,56;0,34
-1;Pasta de plastico Bronze;3,68;0,60
+1;Pasta de plastico Bronze ;3,68;0,60
 1;Tesoura Couro;2,22;0,33
-1;Papel para impressora Violeta claro;1,76;0,45
+1;Papel para impressora Violeta claro ;1,76;0,45
 1;Folha laminada Branco fantasma;7,71;0,40
 1;Calculadora Ameixa;7,52;0,25
 1;Prancheta Roxo;5,57;0,52
@@ -3274,7 +3274,7 @@
 1;Calculadora Urucum;7,63;0,30
 1;Cola Orquidea;2,07;0,54
 1;Cartucho de tinta Cinza escuro;2,61;0,64
-1;Prancheta Ouro;2,93;0,41
+1;Prancheta Ouro ;2,93;0,41
 1;Bloco de notas Ciano;3,23;0,38
 1;Papel colorido Carmesim;1,81;0,50
 1;Caneta esferografica Violeta;5,44;0,34
@@ -3282,7 +3282,7 @@
 1;Lapis Pardo;1,81;0,21
 1;Clipe Orquidea;2,37;0,36
 1;Cartucho de tinta Malva;3,72;0,32
-1;Cartucho de tinta Fucsia;5,93;0,43
+1;Cartucho de tinta Fucsia ;5,93;0,43
 1;Peso de papel Agua-marinha;7,90;0,27
 1;Calculadora Rosa brilhante;6,66;0,57
 1;Liquido de correcao Azul bebe;3,92;0,35
@@ -3290,7 +3290,7 @@
 1;Tachinha Rubro;4,32;0,34
 1;Fita de correcao Magenta;5,03;0,39
 1;Compasso Laranja claro;3,80;0,24
-1;Giz de cera Mostarda;1,83;0,56
+1;Giz de cera Mostarda ;1,83;0,56
 1;Protetor de folhas Verde pastel;2,70;0,63
 1;Calculadora Ametista;3,26;0,33
 1;Liquido de correcao Azul claro;7,66;0,63
@@ -3304,10 +3304,10 @@
 1;Calculadora Azul petroleo;2,26;0,43
 1;Peso de papel Vermelho;2,14;0,64
 1;Etiqueta grande Verde oliva;2,07;0,26
-1;Elastico Fucsia;1,83;0,38
+1;Elastico Fucsia ;1,83;0,38
 1;Esquadro Terracota;4,87;0,32
 1;Grampeador Castanho;3,14;0,56
-1;Organizador Linho;4,08;0,39
+1;Organizador Linho ;4,08;0,39
 1;Grampeador Verde claro;4,44;0,47
 1;Liquido de correcao Fuligem;5,40;0,51
 1;Bloco de notas Verde bandeira;6,05;0,39
@@ -3347,7 +3347,7 @@
 1;Tesoura Rosa choque;3,77;0,59
 1;Prancheta Rubro;6,60;0,53
 1;Caneta marcador Ametista;4,84;0,35
-1;Tesoura Mostarda;6,96;0,60
+1;Tesoura Mostarda ;6,96;0,60
 1;Apontador Coral claro;6,46;0,60
 1;Esquadro Azul anil;4,62;0,63
 1;Peso de papel Violeta;2,46;0,56
@@ -3371,7 +3371,7 @@
 1;Apontador Jade;6,38;0,41
 1;Papel reciclado Lilas;7,77;0,21
 1;Fita de correcao Verde;5,07;0,23
-1;Lapis Linho;3,35;0,32
+1;Lapis Linho ;3,35;0,32
 1;Liquido de correcao Cinza medio;7,35;0,38
 1;Furador Dourado;5,77;0,57
 1;Apagador Azul celeste;6,99;0,50
@@ -3382,7 +3382,7 @@
 1;Elastico Azul real;4,79;0,41
 1;Papel colorido Goiaba;4,58;0,48
 1;Tesoura Azul piscina;7,81;0,49
-1;Furador Ouro;5,57;0,43
+1;Furador Ouro ;5,57;0,43
 1;Grampeador Limao;5,51;0,48
 1;Compasso Rosa brilhante;7,30;0,49
 1;Lapis Purpura;6,92;0,28
@@ -3400,23 +3400,23 @@
 1;Caneta esferografica Magenta;4,30;0,30
 1;Bloco de notas Cinza fosco;2,58;0,44
 1;Liquido de correcao Pessego;4,91;0,40
-1;Grampo Ouro;4,94;0,64
+1;Grampo Ouro ;4,94;0,64
 1;Transferidor Oliva;7,76;0,36
 1;Bloco com pauta Orquidea escura;2,57;0,28
 1;Bloco com pauta Goiaba;6,71;0,44
 1;Post-its Azul turquesa;4,84;0,24
 1;Etiqueta pequena Papaia;2,29;0,41
-1;Papel colorido Fucsia;2,73;0,37
+1;Papel colorido Fucsia ;2,73;0,37
 1;Fita de correcao Laranja claro;6,75;0,62
 1;Cartucho de tinta Marrom claro;7,89;0,35
 1;Papel para impressora Gris;7,03;0,65
 1;Caneta esferografica Grena;3,70;0,55
 1;Clipe Azul claro;4,49;0,40
-1;Organizador Bronze;1,63;0,50
+1;Organizador Bronze ;1,63;0,50
 1;Papel cartao Orquidea;5,66;0,63
 1;Pasta de plastico Verde menta;7,63;0,52
 1;Pasta de papel Salmao;4,39;0,23
-1;Lapis de cor Ouro;6,12;0,61
+1;Lapis de cor Ouro ;6,12;0,61
 1;Protetor de folhas Roxo;3,90;0,56
 1;Transferidor Dourado escuro;7,30;0,51
 1;Alfinete Goiaba;2,54;0,56
@@ -3426,7 +3426,7 @@
 1;Regua Chocolate;5,96;0,64
 1;Papel para impressora Acafrao;2,80;0,47
 1;Tesoura Orquidea clara;2,16;0,51
-1;Etiqueta pequena Verde mar;3,93;0,64
+1;Etiqueta pequena Verde mar ;3,93;0,64
 1;Etiqueta pequena Branco fantasma;2,64;0,50
 1;Caneta-tinteiro Encarnado;3,57;0,43
 1;Esquadro Verde agua;2,74;0,33
@@ -3459,13 +3459,13 @@
 1;Apontador Azul cadete;7,01;0,38
 1;Ficheiro Ametista;5,76;0,30
 1;Apontador Carmim;2,86;0,22
-1;Protetor de folhas Violeta claro;2,61;0,49
+1;Protetor de folhas Violeta claro ;2,61;0,49
 1;Folha laminada Verde grama;2,85;0,56
 1;Lapiseira Azul bebe;5,15;0,39
 1;Caneta marcador Cinza claro;4,28;0,49
 1;Cartucho de tinta Branco;3,65;0,51
 1;Caneta esferografica Ferrugem;7,25;0,43
-1;Compasso Quartzo rosa;5,32;0,59
+1;Compasso Quartzo rosa ;5,32;0,59
 1;Papel cartao Turquesa escura;2,55;0,58
 1;Caneta marcador Kiwi;1,53;0,46
 1;Fita de correcao Azul cadete;6,17;0,55
@@ -3476,7 +3476,7 @@
 1;Esquadro Cereja;3,75;0,48
 1;Folha laminada Branco;1,52;0,38
 1;Fita adesiva Purpura;5,40;0,21
-1;Clipe Violeta claro;7,64;0,23
+1;Clipe Violeta claro ;7,64;0,23
 1;Papel colorido Azul;4,63;0,34
 1;Papel para impressora Roxo;6,84;0,52
 1;Caderno Ferrugem;5,64;0,50
@@ -3486,9 +3486,9 @@
 1;Lapiseira Pessego;2,99;0,25
 1;Transferidor Azul anil;6,71;0,30
 1;Liquido de correcao Gris;2,57;0,28
-1;Pasta de papel Linho;2,70;0,61
+1;Pasta de papel Linho ;2,70;0,61
 1;Ficheiro Cinza fosco;5,59;0,32
-1;Calculadora Jasmine;2,75;0,33
+1;Calculadora Jasmine ;2,75;0,33
 1;Compasso Azul topazio;6,32;0,41
 1;Papel para impressora Azul cobalto;2,69;0,28
 1;Bloco de notas Azul topazio;6,70;0,45
@@ -3498,7 +3498,7 @@
 1;Papel quadriculado Turquesa;1,91;0,35
 1;Elastico Tangerina;4,39;0,30
 1;Papel para impressora Ambar;3,45;0,27
-1;Apontador Ouro;2,09;0,55
+1;Apontador Ouro ;2,09;0,55
 1;Caneta esferografica Vermelho escuro;2,45;0,56
 1;Bloco com pauta Lavanda;7,78;0,28
 1;Bloco de notas Pardo;6,06;0,35
@@ -3506,18 +3506,18 @@
 1;Pasta de plastico Prata;2,23;0,50
 1;Papel reciclado Goiaba;6,85;0,30
 1;Papel reciclado Cenoura;6,42;0,60
-1;Protetor de folhas Fucsia;3,13;0,46
+1;Protetor de folhas Fucsia ;3,13;0,46
 1;Caneta-tinteiro Azul bebe;6,92;0,39
 1;Alfinete Gris;6,84;0,58
 1;Apagador Vermelho claro;6,72;0,61
-1;Caneta marcador Fucsia;6,35;0,52
+1;Caneta marcador Fucsia ;6,35;0,52
 1;Etiqueta grande Branco;1,77;0,59
-1;Giz de cera Fucsia;3,40;0,62
+1;Giz de cera Fucsia ;3,40;0,62
 1;Giz de cera Rosa choque;4,08;0,35
 1;Etiqueta pequena Purpura;3,75;0,35
-1;Papel quadriculado Quartzo rosa;5,77;0,58
+1;Papel quadriculado Quartzo rosa ;5,77;0,58
 1;Elastico Orquidea;7,90;0,35
-1;Liquido de correcao Verde mar;2,51;0,50
+1;Liquido de correcao Verde mar ;2,51;0,50
 1;Grampo Azul anil;4,17;0,59
 1;Cola em bastao Rosa escuro;3,07;0,50
 1;Caneta marcador Cinza escuro;4,37;0,63
@@ -3527,8 +3527,8 @@
 1;Cartucho de tinta Branco antigo;1,90;0,64
 1;Grampeador Chocolate;1,81;0,24
 1;Apagador Orquidea;5,36;0,45
-1;Esquadro Quartzo rosa;3,91;0,36
-1;Protetor de folhas Ouro;3,85;0,26
+1;Esquadro Quartzo rosa ;3,91;0,36
+1;Protetor de folhas Ouro ;3,85;0,26
 1;Pasta de papel Escarlate;5,02;0,56
 1;Fita de correcao Magenta escuro;2,37;0,52
 1;Elastico Ciano;2,77;0,54
@@ -3538,14 +3538,14 @@
 1;Pasta de papel Pessego;2,56;0,36
 1;Alfinete Azul turquesa;5,50;0,37
 1;Apagador Creme;7,72;0,26
-1;Caneta marcador Gengibre;3,58;0,50
+1;Caneta marcador Gengibre ;3,58;0,50
 1;Cartolina Violeta escuro;7,94;0,64
 1;Papel quadriculado Amarelo canario;3,53;0,37
-1;Organizador Violeta claro;2,42;0,37
+1;Organizador Violeta claro ;2,42;0,37
 1;Protetor de folhas Azul bebe;3,68;0,63
 1;Protetor de folhas Verde oliva;6,69;0,42
 1;Apagador Acafrao;5,98;0,61
-1;Compasso Mostarda;6,98;0,56
+1;Compasso Mostarda ;6,98;0,56
 1;Folha laminada Rosa brilhante;6,97;0,59
 1;Alfinete Cinza medio;7,37;0,35
 1;Lapis Marrom escuro;3,18;0,30
@@ -3554,7 +3554,7 @@
 1;Etiqueta pequena Verde escuro;6,81;0,55
 1;Caneta marcador Amarelo;5,32;0,47
 1;Furador Urucum;5,00;0,42
-1;Envelope Mostarda;5,18;0,52
+1;Envelope Mostarda ;5,18;0,52
 1;Giz de cera Verde menta;6,13;0,46
 1;Papel quadriculado Verde escuro;7,24;0,50
 1;Post-its Rosa profundo;5,39;0,32
@@ -3562,15 +3562,15 @@
 1;Furador Vermelho indiano;4,83;0,22
 1;Furador Verde fluorescente;6,96;0,55
 1;Etiqueta grande Ameixa;6,25;0,24
-1;Alfinete Violeta claro;2,38;0,50
+1;Alfinete Violeta claro ;2,38;0,50
 1;Peso de papel Azul profundo;7,72;0,25
 1;Prancheta Goiaba;2,36;0,29
 1;Elastico Branco;7,94;0,22
 1;Etiqueta grande Azul turquesa;5,64;0,32
-1;Grampo Verde mar;6,61;0,51
+1;Grampo Verde mar ;6,61;0,51
 1;Cola Orquidea clara;6,96;0,33
 1;Furador Bordo;5,48;0,21
-1;Esquadro Linho;7,20;0,56
+1;Esquadro Linho ;7,20;0,56
 1;Esquadro Vermelho;4,64;0,50
 1;Caneta marcador Violeta escuro;7,70;0,65
 1;Papel reciclado Cinza medio;6,12;0,62
@@ -3586,8 +3586,8 @@
 1;Cola Carmesim;2,88;0,49
 1;Transferidor Orquidea;2,09;0,52
 1;Caneta esferografica Oliva;1,77;0,54
-1;Caneta marcador Uva;1,54;0,48
-1;Papel para impressora Uva;5,76;0,38
+1;Caneta marcador uva;1,54;0,48
+1;Papel para impressora uva;5,76;0,38
 1;Transferidor Verde menta;5,18;0,53
 1;Cartao de papel Anil;2,24;0,54
 1;Cola Azul real;6,97;0,52
@@ -3624,7 +3624,7 @@
 1;Papel colorido Ciano;2,86;0,22
 1;Regua Bege;7,51;0,32
 1;Etiqueta pequena Ciano;2,53;0,35
-1;Pasta de plastico Violeta claro;3,43;0,55
+1;Pasta de plastico Violeta claro ;3,43;0,55
 1;Post-its Azul claro;5,89;0,28
 1;Furador Amendoa;7,39;0,41
 1;Papel colorido Encarnado;3,40;0,26
@@ -3633,7 +3633,7 @@
 1;Cartolina Caramelo;7,25;0,60
 1;Pasta de papel Azul celeste;6,69;0,49
 1;Folha laminada Anil;2,19;0,32
-1;Cartolina Turquesa clara;4,34;0,38
+1;Cartolina Turquesa clara ;4,34;0,38
 1;Furador Rubro;7,70;0,61
 1;Caneta marcador Caqui;4,16;0,60
 1;Bloco com pauta Laranja claro;4,18;0,35
@@ -3641,7 +3641,7 @@
 1;Giz de cera Azul turquesa;2,84;0,59
 1;Elastico Vermelho claro;4,88;0,58
 1;Alfinete Rubro;7,63;0,47
-1;Pasta de papel Turquesa clara;1,84;0,51
+1;Pasta de papel Turquesa clara ;1,84;0,51
 1;Grampo Dourado;7,69;0,39
 1;Elastico Lavanda;5,05;0,37
 1;Giz de cera Tangerina;7,78;0,39
@@ -3650,7 +3650,7 @@
 1;Elastico Cinza;5,94;0,22
 1;Esquadro Violeta escuro;2,61;0,51
 1;Compasso Jade;7,69;0,45
-1;Clipe Jasmine;4,78;0,59
+1;Clipe Jasmine ;4,78;0,59
 1;Folha laminada Verde menta;4,15;0,24
 1;Ficheiro Laranja claro;3,16;0,60
 1;Transferidor Carmim;4,43;0,34
@@ -3659,9 +3659,9 @@
 1;Esquadro Acafrao;1,90;0,32
 1;Protetor de folhas Pardo;7,10;0,51
 1;Papel colorido Creme;2,76;0,23
-1;Regua Uva;2,40;0,52
+1;Regua uva;2,40;0,52
 1;Papel cartao Azul profundo;2,90;0,36
-1;Cola Bronze;7,68;0,53
+1;Cola Bronze ;7,68;0,53
 1;Tesoura Magenta escuro;4,79;0,53
 1;Protetor de folhas Ciano;7,93;0,64
 1;Etiqueta grande Prata;3,02;0,39
@@ -3676,7 +3676,7 @@
 1;Caderno Orquidea escura;7,66;0,32
 1;Prancheta Esmeralda;7,76;0,25
 1;Apontador Azul brasilis;3,75;0,34
-1;Calculadora Violeta claro;4,78;0,35
+1;Calculadora Violeta claro ;4,78;0,35
 1;Papel cartao Orquidea clara;3,82;0,62
 1;Liquido de correcao Verde agua;5,02;0,32
 1;Clipe Verde pastel;5,94;0,53
@@ -3684,18 +3684,18 @@
 1;Compasso Lavanda;5,58;0,38
 1;Liquido de correcao Jade;3,24;0,63
 1;Tachinha Acafrao;5,28;0,21
-1;Papel quadriculado Fucsia;5,86;0,37
+1;Papel quadriculado Fucsia ;5,86;0,37
 1;Etiqueta pequena Azul medio;7,81;0,27
 1;Etiqueta grande Vermelho claro;4,67;0,22
 1;Caneta-tinteiro Papaia;6,67;0,31
 1;Prancheta Bege;6,78;0,28
 1;Cartao de papel Branco fantasma;2,53;0,57
 1;Tesoura Ebano;7,06;0,39
-1;Folha laminada Bronze;6,34;0,25
+1;Folha laminada Bronze ;6,34;0,25
 1;Clipe Marrom;5,39;0,48
 1;Pasta de plastico Neve;6,44;0,36
 1;Organizador Azul turquesa;6,52;0,63
-1;Regua Turquesa clara;2,12;0,42
+1;Regua Turquesa clara ;2,12;0,42
 1;Liquido de correcao Salmao claro;5,14;0,39
 1;Giz de cera Lima;1,98;0,64
 1;Elastico Azul anil;1,59;0,26
@@ -3707,7 +3707,7 @@
 1;Post-its Carmim;3,79;0,29
 1;Pasta de papel Neve;7,62;0,34
 1;Papel para impressora Madeira;7,11;0,29
-1;Lapiseira Fucsia;2,34;0,41
+1;Lapiseira Fucsia ;2,34;0,41
 1;Alfinete Cobre;5,11;0,25
 1;Folha laminada Rosa bebe;3,42;0,40
 1;Prancheta Verde oliva;5,50;0,26
@@ -3718,14 +3718,14 @@
 1;Pasta de papel Azul marinho;5,39;0,25
 1;Calculadora Branco;5,20;0,30
 1;Etiqueta pequena Verde menta;1,51;0,39
-1;Esquadro Verde mar;5,69;0,53
+1;Esquadro Verde mar ;5,69;0,53
 1;Fita adesiva Chocolate;5,81;0,51
 1;Cartolina Ameixa;5,65;0,45
 1;Prancheta Azul ardosia;2,82;0,29
 1;Caneta-tinteiro Fuligem;4,14;0,32
 1;Grampeador Castanho claro;4,37;0,21
 1;Protetor de folhas Azul ardosia;7,53;0,23
-1;Etiqueta grande Verde mar;3,53;0,44
+1;Etiqueta grande Verde mar ;3,53;0,44
 1;Grampo Limao;4,60;0,24
 1;Fita de correcao Bordo;7,47;0,37
 1;Pasta de papel Azul topazio;6,44;0,27
@@ -3737,15 +3737,15 @@
 1;Bloco com pauta Bordo;6,64;0,30
 1;Caneta esferografica Verde lima;2,54;0,40
 1;Cartucho de tinta Orquidea escura;7,51;0,64
-1;Cartolina Gengibre;3,00;0,33
+1;Cartolina Gengibre ;3,00;0,33
 1;Caneta marcador Rosa claro;3,67;0,56
-1;Ficheiro Linho;2,46;0,43
+1;Ficheiro Linho ;2,46;0,43
 1;Lapiseira Branco;2,53;0,52
 1;Cola em bastao Tangerina;6,30;0,38
 1;Etiqueta pequena Escarlate;1,84;0,46
 1;Apontador Mocassim;2,60;0,53
 1;Furador Sepia;7,96;0,61
-1;Fita adesiva Verde mar;1,50;0,34
+1;Fita adesiva Verde mar ;1,50;0,34
 1;Lapiseira Azul cadete;2,56;0,50
 1;Bloco de notas Preto;7,12;0,34
 1;Transferidor Vermelho claro;5,48;0,64
@@ -3776,9 +3776,9 @@
 1;Papel reciclado Oliva;5,49;0,57
 1;Caneta esferografica Amarelo escuro;1,51;0,32
 1;Papel para impressora Agua-marinha;5,41;0,46
-1;Cartucho de tinta Gengibre;3,86;0,22
+1;Cartucho de tinta Gengibre ;3,86;0,22
 1;Organizador Ferrugem;7,85;0,46
-1;Lapis Ouro;6,90;0,55
+1;Lapis Ouro ;6,90;0,55
 1;Esquadro Amarelo;3,13;0,27
 1;Organizador Roxo;1,51;0,50
 1;Grampeador Amarelo creme;6,81;0,50
@@ -3817,15 +3817,15 @@
 1;Regua Orquidea;2,15;0,38
 1;Papel colorido Bege;4,48;0,59
 1;Clipe Papaia;6,22;0,51
-1;Apagador Jasmine;7,97;0,26
+1;Apagador Jasmine ;7,97;0,26
 1;Cartao de papel Marrom rosado;6,04;0,59
-1;Peso de papel Turquesa clara;7,29;0,30
+1;Peso de papel Turquesa clara ;7,29;0,30
 1;Grampo Caramelo;5,55;0,29
 1;Bloco de notas Azul celeste;4,24;0,50
 1;Organizador Turquesa media;6,04;0,46
 1;Pasta de papel Ambar;3,76;0,23
 1;Etiqueta grande Sepia;7,89;0,47
-1;Apagador Turquesa clara;1,62;0,55
+1;Apagador Turquesa clara ;1,62;0,55
 1;Pasta de papel Jambo;3,52;0,42
 1;Furador Amarelo creme;5,14;0,28
 1;Cola Naval;2,86;0,65
@@ -3843,10 +3843,10 @@
 1;Regua Escarlate;4,46;0,49
 1;Caderno Carmesim;4,19;0,33
 1;Papel quadriculado Terracota;1,78;0,22
-1;Cola Violeta claro;6,22;0,55
+1;Cola Violeta claro ;6,22;0,55
 1;Bloco com pauta Vermelho claro;6,18;0,29
 1;Apontador Orquidea escura;3,02;0,48
-1;Papel colorido Ouro;1,67;0,60
+1;Papel colorido Ouro ;1,67;0,60
 1;Tachinha Salmao;3,55;0,40
 1;Papel cartao Salmao;6,80;0,52
 1;Lapis Cereja;5,90;0,40
@@ -3918,10 +3918,10 @@
 1;Alfinete Ebano;5,78;0,48
 1;Prancheta Verde agua;4,99;0,53
 1;Prancheta Amarelo;2,82;0,24
-1;Fita adesiva Violeta claro;1,94;0,29
+1;Fita adesiva Violeta claro ;1,94;0,29
 1;Fita adesiva Orquidea escura;1,60;0,49
 1;Cartolina Pardo;5,00;0,58
-1;Bloco com pauta Bronze;7,42;0,44
+1;Bloco com pauta Bronze ;7,42;0,44
 1;Cola Pardo;5,82;0,29
 1;Transferidor Bordo;6,11;0,51
 1;Grampo Tangerina;6,03;0,35
@@ -3938,7 +3938,7 @@
 1;Bloco com pauta Chocolate;5,72;0,46
 1;Tesoura Goiaba;3,79;0,60
 1;Bloco de notas Mocassim;5,70;0,32
-1;Ficheiro Violeta claro;4,81;0,64
+1;Ficheiro Violeta claro ;4,81;0,64
 1;Giz de cera Caramelo;4,07;0,35
 1;Fita de correcao Oliva;6,40;0,38
 1;Caneta esferografica Vermelho;7,02;0,64
@@ -3994,7 +3994,7 @@
 1;Lapiseira Pardo;7,97;0,43
 1;Ficheiro Cinza claro;3,09;0,63
 1;Elastico Couro;6,74;0,33
-1;Papel reciclado Fucsia;5,59;0,26
+1;Papel reciclado Fucsia ;5,59;0,26
 1;Lapiseira Azul anil;2,31;0,43
 1;Papel reciclado Caqui;5,64;0,56
 1;Furador Ciano;7,93;0,53
@@ -4010,7 +4010,7 @@
 1;Envelope Cinza;6,92;0,55
 1;Pasta de papel Vermelho claro;3,66;0,53
 1;Fita de correcao Ameixa;5,42;0,25
-1;Caneta-tinteiro Jasmine;3,93;0,62
+1;Caneta-tinteiro Jasmine ;3,93;0,62
 1;Cola Ambar;5,61;0,47
 1;Furador Verde grama;1,61;0,47
 1;Peso de papel Orquidea clara;6,96;0,49
@@ -4028,7 +4028,7 @@
 1;Calculadora Verde claro;5,78;0,65
 1;Pasta de plastico Jambo;1,70;0,62
 1;Papel quadriculado Amarelo claro;1,73;0,50
-1;Etiqueta grande Ouro;1,66;0,42
+1;Etiqueta grande Ouro ;1,66;0,42
 1;Papel reciclado Dourado escuro;6,49;0,55
 1;Cola Lima;3,83;0,59
 1;Cola em bastao Pardo;5,77;0,39
@@ -4043,7 +4043,7 @@
 1;Papel para impressora Borgonha;7,07;0,51
 1;Esquadro Rosa bebe;2,00;0,50
 1;Compasso Azul real;2,14;0,44
-1;Pasta de plastico Uva;3,78;0,38
+1;Pasta de plastico uva;3,78;0,38
 1;Pasta de papel Indigo;5,46;0,33
 1;Esquadro Marrom claro;1,59;0,25
 1;Ficheiro Ciano;1,79;0,41
@@ -4054,7 +4054,7 @@
 1;Papel para impressora Rosa;3,44;0,50
 1;Ficheiro Carmesim;4,40;0,45
 1;Clipe Laranja;2,48;0,46
-1;Papel colorido Jasmine;7,93;0,64
+1;Papel colorido Jasmine ;7,93;0,64
 1;Regua Tangerina;5,72;0,20
 1;Papel cartao Malva;3,03;0,44
 1;Papel colorido Azul petroleo;4,68;0,35
@@ -4084,16 +4084,16 @@
 1;Cartucho de tinta Vermelho escuro;1,52;0,57
 1;Cola Cinza fosco;4,39;0,49
 1;Post-its Borgonha;3,31;0,41
-1;Elastico Mostarda;4,97;0,53
+1;Elastico Mostarda ;4,97;0,53
 1;Fita adesiva Vermelho claro;4,45;0,21
 1;Post-its Azul anil;4,50;0,34
 1;Grampeador Verde fluorescente;3,05;0,59
 1;Alfinete Branco antigo;5,62;0,26
 1;Caneta marcador Azul marinho;1,82;0,25
 1;Liquido de correcao Verde menta;7,82;0,58
-1;Cola Jasmine;2,19;0,23
+1;Cola Jasmine ;2,19;0,23
 1;Caneta esferografica Caqui escuro;2,15;0,61
-1;Calculadora Turquesa clara;2,49;0,58
+1;Calculadora Turquesa clara ;2,49;0,58
 1;Peso de papel Lima;5,11;0,44
 1;Transferidor Ciano;4,32;0,21
 1;Cola Verde;2,20;0,42
@@ -4102,7 +4102,7 @@
 1;Caderno Azul topazio;6,13;0,49
 1;Ficheiro Pessego;2,61;0,40
 1;Lapiseira Vermelho indiano;5,72;0,40
-1;Papel para impressora Linho;4,84;0,59
+1;Papel para impressora Linho ;4,84;0,59
 1;Envelope Lima;7,31;0,27
 1;Tesoura Dourado escuro;1,51;0,52
 1;Protetor de folhas Azul escuro;2,71;0,65
@@ -4137,10 +4137,10 @@
 1;Fita adesiva Verde escuro;3,26;0,57
 1;Alfinete Azul;1,70;0,36
 1;Calculadora Borgonha;1,78;0,38
-1;Calculadora Uva;7,70;0,57
+1;Calculadora uva;7,70;0,57
 1;Lapis de cor Carmesim;4,47;0,57
 1;Calculadora Verde bandeira;5,88;0,56
-1;Elastico Linho;2,89;0,63
+1;Elastico Linho ;2,89;0,63
 1;Giz de cera Purpura;6,33;0,65
 1;Lapis Ambar;7,15;0,45
 1;Bloco com pauta Ametista;1,82;0,42
@@ -4167,8 +4167,8 @@
 1;Grampeador Goiaba;4,49;0,22
 1;Fita de correcao Castanho;5,33;0,45
 1;Caneta esferografica Cenoura;7,92;0,60
-1;Bloco com pauta Fucsia;6,91;0,34
-1;Peso de papel Ouro;3,48;0,60
+1;Bloco com pauta Fucsia ;6,91;0,34
+1;Peso de papel Ouro ;3,48;0,60
 1;Cartolina Turquesa escura;7,80;0,52
 1;Caneta esferografica Lilas;4,83;0,35
 1;Etiqueta grande Couro;2,87;0,26
@@ -4185,7 +4185,7 @@
 1;Envelope Verde pastel;3,87;0,61
 1;Esquadro Oliva escura;3,52;0,30
 1;Folha laminada Turquesa media;7,08;0,27
-1;Papel cartao Turquesa clara;6,85;0,33
+1;Papel cartao Turquesa clara ;6,85;0,33
 1;Liquido de correcao Kiwi;6,06;0,30
 1;Esquadro Azul escuro;4,93;0,54
 1;Fita adesiva Cenoura;7,65;0,55
@@ -4196,13 +4196,13 @@
 1;Pasta de papel Verde bandeira;7,50;0,35
 1;Papel para impressora Verde oliva;7,67;0,59
 1;Grampo Branco;3,62;0,22
-1;Fita de correcao Bronze;3,26;0,35
+1;Fita de correcao Bronze ;3,26;0,35
 1;Papel quadriculado Jambo;4,46;0,26
 1;Protetor de folhas Limao;5,64;0,36
 1;Ficheiro Verde agua;4,79;0,28
 1;Fita de correcao Coral claro;4,34;0,36
 1;Grampeador Branco antigo;5,50;0,32
-1;Cartao de papel Linho;1,81;0,33
+1;Cartao de papel Linho ;1,81;0,33
 1;Papel colorido Marfim;3,93;0,47
 1;Alfinete Madeira;6,59;0,33
 1;Cola Verde bandeira;3,17;0,44
@@ -4223,13 +4223,13 @@
 1;Lapis de cor Pardo;7,89;0,50
 1;Caneta-tinteiro Limao;6,57;0,60
 1;Cartolina Jade;5,04;0,42
-1;Regua Quartzo rosa;7,11;0,62
+1;Regua Quartzo rosa ;7,11;0,62
 1;Regua Tomate;2,30;0,22
 1;Papel cartao Couro;6,87;0,27
 1;Post-its Rosa bebe;4,33;0,40
 1;Esquadro Verde claro;7,38;0,49
 1;Apontador Preto;7,79;0,30
-1;Prancheta Quartzo rosa;6,88;0,21
+1;Prancheta Quartzo rosa ;6,88;0,21
 1;Peso de papel Magenta escuro;4,27;0,40
 1;Elastico Cinza claro;1,84;0,28
 1;Papel quadriculado Lilas;2,73;0,52
@@ -4248,12 +4248,12 @@
 1;Giz de cera Mocassim;6,65;0,56
 1;Papel quadriculado Cereja;6,27;0,21
 1;Cartucho de tinta Jade;3,73;0,56
-1;Furador Jasmine;6,63;0,40
+1;Furador Jasmine ;6,63;0,40
 1;Calculadora Verde lima;3,76;0,22
 1;Envelope Agua-marinha;5,39;0,38
 1;Furador Rosa escuro;4,57;0,57
 1;Cartolina Orquidea clara;2,06;0,64
-1;Papel reciclado Bronze;7,30;0,59
+1;Papel reciclado Bronze ;7,30;0,59
 1;Liquido de correcao Naval;4,57;0,48
 1;Tesoura Branco;1,92;0,26
 1;Apagador Couro;4,04;0,20
@@ -4292,7 +4292,7 @@
 1;Etiqueta grande Orquidea;7,08;0,37
 1;Giz de cera Azul anil;2,01;0,39
 1;Post-its Caqui escuro;4,21;0,28
-1;Papel colorido Quartzo rosa;4,47;0,44
+1;Papel colorido Quartzo rosa ;4,47;0,44
 1;Liquido de correcao Rosa bebe;2,97;0,33
 1;Furador Verde pastel;2,70;0,37
 1;Calculadora Pardo;5,34;0,21
@@ -4310,7 +4310,7 @@
 1;Cartolina Marfim;7,11;0,56
 1;Caneta-tinteiro Azul topazio;4,53;0,64
 1;Cartao de papel Rosa escuro;4,32;0,65
-1;Cartucho de tinta Uva;6,90;0,45
+1;Cartucho de tinta uva;6,90;0,45
 1;Post-its Bordo;5,43;0,27
 1;Prancheta Branco antigo;6,63;0,30
 1;Lapiseira Rosa bebe;7,80;0,55
@@ -4322,15 +4322,15 @@
 1;Cola em bastao Caqui;6,30;0,42
 1;Organizador Madeira;2,98;0,59
 1;Caderno Azul escuro;5,70;0,43
-1;Etiqueta grande Jasmine;4,37;0,25
-1;Liquido de correcao Ouro;2,57;0,50
+1;Etiqueta grande Jasmine ;4,37;0,25
+1;Liquido de correcao Ouro ;2,57;0,50
 1;Cola em bastao Salmao claro;3,35;0,24
-1;Post-its Jasmine;4,38;0,31
+1;Post-its Jasmine ;4,38;0,31
 1;Prancheta Orquidea clara;3,22;0,28
 1;Grampeador Verde escuro;3,22;0,44
 1;Organizador Borgonha;1,84;0,59
 1;Envelope Orquidea clara;5,74;0,24
-1;Esquadro Fucsia;7,43;0,26
+1;Esquadro Fucsia ;7,43;0,26
 1;Cartucho de tinta Oliva escura;4,90;0,26
 1;Bloco de notas Azul anil;1,61;0,34
 1;Lapiseira Roxo;4,71;0,60
@@ -4345,7 +4345,7 @@
 1;Esquadro Salmao;4,92;0,55
 1;Lapiseira Amarelo escuro;4,07;0,36
 1;Bloco de notas Carmesim;6,78;0,39
-1;Apontador Jasmine;4,77;0,61
+1;Apontador Jasmine ;4,77;0,61
 1;Apontador Laranja;7,96;0,42
 1;Pasta de papel Tangerina;2,11;0,65
 1;Etiqueta pequena Bege;7,88;0,42
@@ -4364,7 +4364,7 @@
 1;Caneta marcador Rubro;6,07;0,31
 1;Organizador Verde bandeira;7,15;0,63
 1;Compasso Neve;3,19;0,60
-1;Protetor de folhas Turquesa clara;7,14;0,50
+1;Protetor de folhas Turquesa clara ;7,14;0,50
 1;Cartao de papel Verde grama;5,90;0,63
 1;Peso de papel Cenoura;2,83;0,33
 1;Pasta de papel Amarelo canario;1,60;0,55
@@ -4372,7 +4372,7 @@
 1;Cartucho de tinta Tangerina;4,35;0,46
 1;Pasta de papel Verde lima;3,73;0,45
 1;Tachinha Azul real;6,55;0,29
-1;Pasta de plastico Gengibre;6,92;0,33
+1;Pasta de plastico Gengibre ;6,92;0,33
 1;Clipe Roxo;2,38;0,30
 1;Furador Verde escuro;6,17;0,24
 1;Lapis Cinza ardosia;3,34;0,29
@@ -4380,7 +4380,7 @@
 1;Pasta de papel Azul cadete;3,19;0,24
 1;Apontador Bordo;6,76;0,59
 1;Peso de papel Naval;5,11;0,54
-1;Lapis de cor Bronze;4,40;0,56
+1;Lapis de cor Bronze ;4,40;0,56
 1;Papel reciclado Salmao;7,55;0,42
 1;Papel colorido Azul cadete;5,04;0,33
 1;Envelope Branco antigo;3,94;0,58
@@ -4397,19 +4397,19 @@
 1;Bloco com pauta Magenta;1,84;0,33
 1;Papel reciclado Laranja escuro;4,06;0,63
 1;Post-its Orquidea clara;2,02;0,47
-1;Transferidor Jasmine;5,90;0,26
+1;Transferidor Jasmine ;5,90;0,26
 1;Etiqueta grande Violeta escuro;5,27;0,47
 1;Transferidor Laranja;5,35;0,31
 1;Papel quadriculado Verde grama;6,21;0,54
 1;Cola Cinza claro;6,83;0,39
 1;Tachinha Verde menta;2,03;0,51
 1;Apontador Fuligem;3,59;0,53
-1;Folha laminada Turquesa clara;5,97;0,21
+1;Folha laminada Turquesa clara ;5,97;0,21
 1;Papel cartao Preto;3,96;0,51
 1;Caneta-tinteiro Tangerina;6,46;0,29
 1;Tesoura Rosa claro;2,96;0,21
 1;Papel cartao Azul bebe;5,99;0,58
-1;Caneta marcador Ouro;6,40;0,53
+1;Caneta marcador Ouro ;6,40;0,53
 1;Caneta marcador Rosa profundo;3,20;0,46
 1;Cartolina Azul ardosia;5,76;0,54
 1;Tachinha Ameixa;3,54;0,52
@@ -4435,7 +4435,7 @@
 1;Clipe Rosa choque;3,46;0,39
 1;Ficheiro Creme;5,89;0,22
 1;Alfinete Verde pastel;7,97;0,53
-1;Compasso Fucsia;2,96;0,30
+1;Compasso Fucsia ;2,96;0,30
 1;Cola em bastao Azul turquesa;5,50;0,31
 1;Post-its Cobre;3,82;0,52
 1;Etiqueta pequena Ambar;5,25;0,57
@@ -4445,12 +4445,12 @@
 1;Pasta de plastico Verde oliva;7,42;0,62
 1;Peso de papel Verde claro;1,65;0,22
 1;Lapiseira Azul petroleo;6,39;0,27
-1;Etiqueta pequena Ouro;2,45;0,60
+1;Etiqueta pequena Ouro ;2,45;0,60
 1;Etiqueta pequena Laranja claro;4,83;0,50
 1;Caderno Indigo;7,07;0,59
 1;Tachinha Verde bandeira;6,57;0,43
 1;Calculadora Amarelo;3,35;0,42
-1;Giz de cera Jasmine;1,76;0,31
+1;Giz de cera Jasmine ;1,76;0,31
 1;Caneta-tinteiro Ametista;6,31;0,45
 1;Grampo Kiwi;1,68;0,56
 1;Giz de cera Marrom escuro;7,28;0,34
@@ -4553,7 +4553,7 @@
 1;Cartolina Madeira;2,07;0,39
 1;Organizador Vermelho claro;1,83;0,43
 1;Apontador Verde escuro;5,27;0,58
-1;Transferidor Uva;1,72;0,43
+1;Transferidor uva;1,72;0,43
 1;Folha laminada Azul medio;7,65;0,52
 1;Protetor de folhas Turquesa;6,11;0,26
 1;Cartolina Azul medio;5,91;0,57
@@ -4577,14 +4577,14 @@
 1;Post-its Azul piscina;1,61;0,64
 1;Papel colorido Lavanda;7,48;0,39
 1;Folha laminada Ameixa;7,46;0,44
-1;Papel para impressora Fucsia;1,85;0,44
+1;Papel para impressora Fucsia ;1,85;0,44
 1;Etiqueta pequena Neve;7,88;0,31
 1;Regua Amarelo claro;7,08;0,32
 1;Pasta de papel Preto;3,91;0,53
 1;Cola Caramelo;4,06;0,27
 1;Apagador Ciano;5,53;0,59
 1;Apontador Azul petroleo;5,12;0,31
-1;Etiqueta pequena Quartzo rosa;7,32;0,57
+1;Etiqueta pequena Quartzo rosa ;7,32;0,57
 1;Papel colorido Azul cobalto;4,61;0,57
 1;Envelope Coral claro;1,84;0,61
 1;Fita de correcao Amarelo canario;1,80;0,51
@@ -4596,11 +4596,11 @@
 1;Peso de papel Azul ardosia;6,95;0,57
 1;Transferidor Grena;4,13;0,35
 1;Caneta-tinteiro Laranja escuro;2,54;0,29
-1;Elastico Violeta claro;5,05;0,50
+1;Elastico Violeta claro ;5,05;0,50
 1;Folha laminada Magenta;4,01;0,34
 1;Lapiseira Carmim;4,49;0,34
 1;Caneta esferografica Rosa;7,70;0,33
-1;Cola Mostarda;5,59;0,39
+1;Cola Mostarda ;5,59;0,39
 1;Caderno Turquesa;5,18;0,36
 1;Caneta esferografica Azul piscina;2,92;0,34
 1;Fita adesiva Carmesim;4,04;0,30
@@ -4618,7 +4618,7 @@
 1;Pasta de papel Roxo;3,18;0,52
 1;Papel cartao Vermelho escuro;1,66;0,49
 1;Ficheiro Amarelo;5,55;0,45
-1;Organizador Verde mar;7,63;0,51
+1;Organizador Verde mar ;7,63;0,51
 1;Tesoura Azul marinho;1,66;0,21
 1;Calculadora Salmao escuro;5,14;0,63
 1;Caneta marcador Marrom claro;5,41;0,55
@@ -4663,11 +4663,11 @@
 1;Caneta-tinteiro Malva;2,91;0,49
 1;Cartolina Dourado;4,83;0,27
 1;Tesoura Laranja;6,34;0,45
-1;Calculadora Fucsia;7,24;0,57
+1;Calculadora Fucsia ;7,24;0,57
 1;Lapiseira Preto;4,48;0,38
 1;Envelope Limao;3,97;0,27
 1;Cartucho de tinta Verde menta;6,05;0,34
-1;Bloco de notas Jasmine;2,20;0,62
+1;Bloco de notas Jasmine ;2,20;0,62
 1;Apontador Vermelho indiano;7,28;0,55
 1;Caneta-tinteiro Azul cobalto;6,29;0,30
 1;Cartucho de tinta Dourado escuro;7,87;0,45
@@ -4705,22 +4705,22 @@
 1;Cartucho de tinta Verde bandeira;6,63;0,44
 1;Lapiseira Azul escuro;2,35;0,64
 1;Pasta de papel Cinza medio;2,71;0,34
-1;Elastico Quartzo rosa;2,94;0,31
+1;Elastico Quartzo rosa ;2,94;0,31
 1;Lapis de cor Verde bandeira;4,21;0,59
-1;Bloco com pauta Jasmine;6,44;0,64
+1;Bloco com pauta Jasmine ;6,44;0,64
 1;Post-its Bege;4,69;0,31
 1;Cartucho de tinta Lilas;4,33;0,38
 1;Compasso Verde;5,85;0,42
 1;Pasta de plastico Verde grama;3,54;0,39
 1;Cartolina Castanho;6,61;0,58
-1;Apontador Turquesa clara;4,77;0,36
+1;Apontador Turquesa clara ;4,77;0,36
 1;Papel reciclado Castanho;4,29;0,64
 1;Fita de correcao Prata;7,76;0,52
 1;Pasta de plastico Caqui escuro;6,98;0,51
 1;Protetor de folhas Orquidea clara;6,58;0,49
 1;Lapiseira Turquesa media;5,96;0,48
 1;Apagador Lavanda;2,90;0,45
-1;Caderno Bronze;7,94;0,30
+1;Caderno Bronze ;7,94;0,30
 1;Grampo Caqui escuro;2,87;0,60
 1;Envelope Laranja escuro;5,48;0,37
 1;Cartolina Cinza escuro;5,49;0,31
@@ -4731,9 +4731,9 @@
 1;Alfinete Rosa escuro;6,78;0,64
 1;Furador Azul cadete;5,33;0,29
 1;Cartao de papel Azul turquesa;5,14;0,28
-1;Tesoura Bronze;4,27;0,29
+1;Tesoura Bronze ;4,27;0,29
 1;Papel cartao Magenta escuro;4,83;0,32
-1;Peso de papel Verde mar;3,68;0,24
+1;Peso de papel Verde mar ;3,68;0,24
 1;Lapis Azul cobalto;4,66;0,28
 1;Cartao de papel Vermelho indiano;4,30;0,57
 1;Alfinete Oliva escura;4,73;0,51
@@ -4765,7 +4765,7 @@
 1;Caneta marcador Limao;2,65;0,52
 1;Lapiseira Orquidea;2,61;0,42
 1;Etiqueta pequena Azul bebe;4,41;0,31
-1;Liquido de correcao Linho;5,49;0,25
+1;Liquido de correcao Linho ;5,49;0,25
 1;Regua Carmesim;2,76;0,38
 1;Cola Verde lima;4,96;0,38
 1;Papel colorido Coral claro;7,94;0,60
@@ -4785,7 +4785,7 @@
 1;Peso de papel Turquesa;6,55;0,32
 1;Post-its Roxo;2,23;0,26
 1;Protetor de folhas Dourado escuro;1,51;0,43
-1;Calculadora Quartzo rosa;3,36;0,38
+1;Calculadora Quartzo rosa ;3,36;0,38
 1;Organizador Ocre;2,89;0,49
 1;Bloco de notas Verde pastel;7,83;0,38
 1;Pasta de papel Magenta;5,03;0,49
@@ -4818,7 +4818,7 @@
 1;Cola Castanho claro;7,00;0,22
 1;Alfinete Marrom;5,24;0,53
 1;Cartolina Lilas;5,83;0,24
-1;Papel para impressora Verde mar;4,68;0,47
+1;Papel para impressora Verde mar ;4,68;0,47
 1;Peso de papel Caqui;5,83;0,45
 1;Papel reciclado Indigo;1,53;0,31
 1;Bloco com pauta Azul anil;4,87;0,23
@@ -4831,7 +4831,7 @@
 1;Transferidor Borgonha;2,81;0,32
 1;Bloco de notas Cinza claro;5,82;0,43
 1;Lapis de cor Salmao;7,76;0,21
-1;Furador Fucsia;6,75;0,20
+1;Furador Fucsia ;6,75;0,20
 1;Alfinete Pardo;6,08;0,34
 1;Papel quadriculado Laranja;2,74;0,57
 1;Caneta esferografica Vermelho claro;2,45;0,27
@@ -4841,19 +4841,19 @@
 1;Protetor de folhas Kiwi;7,19;0,51
 1;Peso de papel Amarelo claro;5,06;0,46
 1;Lapis Cobre;4,63;0,64
-1;Cartolina Bronze;3,95;0,62
+1;Cartolina Bronze ;3,95;0,62
 1;Caneta-tinteiro Cereja;4,21;0,23
 1;Tesoura Vermelho escuro;7,14;0,30
 1;Etiqueta pequena Lavanda;5,12;0,59
 1;Cartolina Neve;6,65;0,45
 1;Esquadro Verde escuro;2,20;0,51
-1;Cartucho de tinta Violeta claro;6,55;0,22
+1;Cartucho de tinta Violeta claro ;6,55;0,22
 1;Lapis de cor Orquidea clara;3,44;0,42
 1;Cola Castanho;5,20;0,42
 1;Cola Bordo;4,53;0,29
 1;Bloco com pauta Oliva parda;3,20;0,32
 1;Pasta de plastico Cinza escuro;4,93;0,55
-1;Post-its Ouro;2,46;0,55
+1;Post-its Ouro ;2,46;0,55
 1;Pasta de papel Vermelho;2,67;0,29
 1;Etiqueta pequena Amarelo;1,82;0,62
 1;Protetor de folhas Cinza claro;6,18;0,50
@@ -4877,7 +4877,7 @@
 1;Grampo Couro;2,16;0,42
 1;Tachinha Cenoura;7,15;0,46
 1;Envelope Rosa choque;1,83;0,31
-1;Furador Uva;5,40;0,33
+1;Furador uva;5,40;0,33
 1;Tesoura Turquesa media;3,60;0,51
 1;Papel quadriculado Azul marinho;3,37;0,28
 1;Transferidor Naval;6,07;0,25
@@ -4886,15 +4886,15 @@
 1;Tachinha Vermelho escuro;2,19;0,44
 1;Cartao de papel Ferrugem;1,68;0,49
 1;Compasso Madeira;4,13;0,24
-1;Caneta marcador Verde mar;6,21;0,31
-1;Organizador Mostarda;2,25;0,24
+1;Caneta marcador Verde mar ;6,21;0,31
+1;Organizador Mostarda ;2,25;0,24
 1;Giz de cera Castanho claro;2,93;0,28
 1;Calculadora Dourado escuro;7,57;0,24
 1;Papel cartao Azul marinho;4,10;0,25
 1;Cola Violeta;2,66;0,22
 1;Post-its Verde oliva;2,52;0,43
 1;Tesoura Rosa bebe;5,18;0,49
-1;Bloco com pauta Linho;2,05;0,29
+1;Bloco com pauta Linho ;2,05;0,29
 1;Papel para impressora Azul medio;7,87;0,58
 1;Fita de correcao Vermelho claro;5,87;0,35
 1;Ficheiro Verde grama;2,05;0,61
@@ -4919,7 +4919,7 @@
 1;Clipe Verde menta;7,80;0,26
 1;Caneta-tinteiro Mocassim;3,59;0,59
 1;Cola em bastao Marrom;4,84;0,42
-1;Ficheiro Fucsia;4,09;0,59
+1;Ficheiro Fucsia ;4,09;0,59
 1;Alfinete Castanho claro;4,30;0,35
 1;Tachinha Purpura;3,55;0,64
 1;Protetor de folhas Vermelho;7,25;0,32
@@ -4939,10 +4939,10 @@
 1;Pasta de papel Malva;5,03;0,29
 1;Peso de papel Branco fantasma;2,56;0,32
 1;Grampo Violeta escuro;5,48;0,63
-1;Cartao de papel Ouro;3,88;0,64
+1;Cartao de papel Ouro ;3,88;0,64
 1;Prancheta Castanho claro;7,12;0,42
 1;Alfinete Rosa;4,63;0,39
-1;Pasta de papel Gengibre;6,54;0,51
+1;Pasta de papel Gengibre ;6,54;0,51
 1;Apontador Azul real;5,39;0,46
 1;Bloco de notas Amarelo claro;7,26;0,27
 1;Esquadro Rosa claro;7,14;0,34
@@ -4975,7 +4975,7 @@
 1;Etiqueta grande Vermelho indiano;4,35;0,55
 1;Cola Rosa escuro;3,54;0,44
 1;Compasso Verde fluorescente;4,84;0,59
-1;Caneta esferografica Linho;1,82;0,28
+1;Caneta esferografica Linho ;1,82;0,28
 1;Envelope Malva;3,46;0,57
 1;Post-its Verde fluorescente;5,72;0,63
 1;Liquido de correcao Amarelo claro;6,69;0,52
@@ -4985,7 +4985,7 @@
 1;Papel para impressora Branco fantasma;3,05;0,34
 1;Transferidor Caramelo;7,26;0,26
 1;Fita adesiva Verde grama;5,95;0,55
-1;Grampeador Fucsia;4,67;0,25
+1;Grampeador Fucsia ;4,67;0,25
 1;Papel cartao Laranja claro;5,46;0,46
 1;Ficheiro Azul turquesa;7,40;0,51
 1;Ficheiro Cinza ardosia;5,92;0,46
@@ -4994,7 +4994,7 @@
 1;Papel colorido Pessego;7,54;0,45
 1;Elastico Urucum;2,76;0,38
 1;Bloco de notas Rosa escuro;5,30;0,31
-1;Folha laminada Jasmine;7,85;0,30
+1;Folha laminada Jasmine ;7,85;0,30
 1;Furador Laranja;6,42;0,20
 1;Grampeador Azul medio;2,23;0,64
 1;Compasso Bege;4,18;0,59
@@ -5002,7 +5002,7 @@
 1;Giz de cera Azul brasilis;4,92;0,48
 1;Giz de cera Cereja;5,09;0,27
 1;Caneta esferografica Azul anil;3,59;0,47
-1;Caderno Violeta claro;4,53;0,60
+1;Caderno Violeta claro ;4,53;0,60
 1;Papel reciclado Verde fluorescente;4,98;0,58
 1;Regua Amarelo creme;6,88;0,44
 1;Cartao de papel Carmim;4,15;0,40
@@ -5017,7 +5017,7 @@
 1;Prancheta Ciano;4,39;0,50
 1;Apagador Laranja escuro;2,22;0,64
 1;Pasta de papel Vermelho indiano;7,05;0,65
-1;Alfinete Linho;5,89;0,58
+1;Alfinete Linho ;5,89;0,58
 1;Transferidor Rosa;3,90;0,46
 1;Pasta de papel Ocre;2,27;0,59
 1;Apagador Marrom escuro;7,87;0,43
@@ -5027,7 +5027,7 @@
 1;Ficheiro Violeta escuro;4,95;0,62
 1;Papel cartao Escarlate;1,92;0,48
 1;Grampo Sepia;7,62;0,23
-1;Etiqueta pequena Mostarda;3,71;0,53
+1;Etiqueta pequena Mostarda ;3,71;0,53
 1;Caneta esferografica Salmao claro;4,29;0,39
 1;Alfinete Borgonha;5,58;0,41
 1;Cola em bastao Neve;6,12;0,54
@@ -5043,7 +5043,7 @@
 1;Fita de correcao Cinza fosco;6,19;0,57
 1;Cartao de papel Rosa choque;5,36;0,36
 1;Furador Laranja claro;6,71;0,44
-1;Papel colorido Linho;6,99;0,51
+1;Papel colorido Linho ;6,99;0,51
 1;Papel quadriculado Preto;5,39;0,36
 1;Cartucho de tinta Marrom escuro;7,51;0,65
 1;Organizador Gris;6,67;0,26
@@ -5057,7 +5057,7 @@
 1;Giz de cera Madeira;5,92;0,42
 1;Giz de cera Couro;2,44;0,55
 1;Giz de cera Oliva;4,27;0,30
-1;Papel reciclado Turquesa clara;5,16;0,23
+1;Papel reciclado Turquesa clara ;5,16;0,23
 1;Fita de correcao Salmao;4,32;0,33
 1;Papel reciclado Azul brasilis;6,53;0,45
 1;Apontador Oliva;3,81;0,64
@@ -5071,7 +5071,7 @@
 1;Pasta de plastico Azul celeste;6,71;0,63
 1;Prancheta Azul cobalto;2,37;0,25
 1;Caneta esferografica Marrom rosado;5,89;0,50
-1;Post-its Mostarda;3,18;0,35
+1;Post-its Mostarda ;3,18;0,35
 1;Esquadro Marrom rosado;4,40;0,23
 1;Lapis de cor Caqui escuro;6,24;0,59
 1;Caneta-tinteiro Caqui;3,17;0,44
@@ -5107,7 +5107,7 @@
 1;Cola Gris;6,77;0,57
 1;Caderno Marrom;4,81;0,44
 1;Bloco de notas Cinza escuro;3,02;0,29
-1;Caneta-tinteiro Ouro;5,03;0,31
+1;Caneta-tinteiro Ouro ;5,03;0,31
 1;Prancheta Oliva parda;3,96;0,49
 1;Grampo Branco fantasma;3,33;0,36
 1;Envelope Marrom rosado;6,22;0,39
@@ -5126,7 +5126,7 @@
 1;Pasta de plastico Amarelo creme;1,65;0,34
 1;Furador Goiaba;5,57;0,64
 1;Grampo Cereja;4,29;0,45
-1;Transferidor Ouro;3,96;0,52
+1;Transferidor Ouro ;3,96;0,52
 1;Apagador Marrom claro;5,97;0,26
 1;Papel reciclado Jade;2,84;0,30
 1;Cola em bastao Dourado escuro;4,54;0,46
@@ -5136,7 +5136,7 @@
 1;Caneta-tinteiro Orquidea;5,83;0,54
 1;Lapis de cor Verde pastel;6,13;0,60
 1;Ficheiro Amarelo canario;2,05;0,48
-1;Etiqueta grande Uva;4,62;0,45
+1;Etiqueta grande uva;4,62;0,45
 1;Alfinete Cenoura;3,55;0,40
 1;Pasta de papel Caramelo;7,64;0,57
 1;Protetor de folhas Tangerina;7,75;0,23
@@ -5156,20 +5156,20 @@
 1;Fita adesiva Jade;3,42;0,43
 1;Apagador Vermelho indiano;7,24;0,30
 1;Lapiseira Oliva escura;6,85;0,47
-1;Protetor de folhas Mostarda;2,17;0,51
+1;Protetor de folhas Mostarda ;2,17;0,51
 1;Papel reciclado Naval;4,17;0,53
 1;Caneta esferografica Azul real;2,86;0,47
-1;Tachinha Mostarda;7,07;0,52
+1;Tachinha Mostarda ;7,07;0,52
 1;Folha laminada Acafrao;4,06;0,47
 1;Caneta marcador Branco fantasma;2,68;0,22
-1;Bloco de notas Violeta claro;3,89;0,37
+1;Bloco de notas Violeta claro ;3,89;0,37
 1;Papel para impressora Limao;7,76;0,28
 1;Transferidor Pessego;4,23;0,51
 1;Etiqueta grande Ciano;5,50;0,65
 1;Papel reciclado Turquesa media;3,29;0,50
 1;Caneta marcador Papaia;5,57;0,24
-1;Alfinete Jasmine;6,17;0,37
-1;Ficheiro Gengibre;6,27;0,32
+1;Alfinete Jasmine ;6,17;0,37
+1;Ficheiro Gengibre ;6,27;0,32
 1;Liquido de correcao Verde escuro;5,56;0,42
 1;Papel quadriculado Azul anil;2,28;0,22
 1;Liquido de correcao Urucum;7,84;0,25
@@ -5178,7 +5178,7 @@
 1;Folha laminada Mocassim;2,25;0,64
 1;Caneta marcador Cinza ardosia;7,24;0,20
 1;Papel para impressora Azul claro;2,19;0,64
-1;Clipe Turquesa clara;4,32;0,32
+1;Clipe Turquesa clara ;4,32;0,32
 1;Compasso Prata;7,13;0,42
 1;Lapis de cor Coral claro;4,93;0,39
 1;Post-its Orquidea escura;3,64;0,61
@@ -5188,7 +5188,7 @@
 1;Lapis Azul real;5,10;0,37
 1;Calculadora Madeira;6,09;0,35
 1;Post-its Purpura;2,79;0,47
-1;Elastico Jasmine;5,59;0,63
+1;Elastico Jasmine ;5,59;0,63
 1;Regua Laranja;3,58;0,25
 1;Cola em bastao Rosa choque;1,68;0,51
 1;Grampeador Sepia;3,78;0,25
@@ -5200,11 +5200,11 @@
 1;Ficheiro Vermelho;6,66;0,43
 1;Papel quadriculado Acafrao;4,96;0,63
 1;Cartolina Agua-marinha;7,77;0,49
-1;Tesoura Gengibre;6,00;0,63
+1;Tesoura Gengibre ;6,00;0,63
 1;Pasta de plastico Marrom;5,24;0,31
 1;Pasta de papel Turquesa;3,05;0,52
 1;Transferidor Amarelo canario;6,16;0,53
-1;Grampeador Verde mar;6,77;0,45
+1;Grampeador Verde mar ;6,77;0,45
 1;Tachinha Rosa claro;4,56;0,28
 1;Pasta de papel Coral;4,17;0,61
 1;Cartucho de tinta Grena;7,72;0,34
@@ -5232,13 +5232,13 @@
 1;Apontador Amarelo claro;3,02;0,53
 1;Envelope Ebano;4,45;0,22
 1;Caneta-tinteiro Azul anil;1,87;0,45
-1;Peso de papel Fucsia;6,07;0,50
+1;Peso de papel Fucsia ;6,07;0,50
 1;Post-its Azul real;1,76;0,60
 1;Cola Rosa brilhante;3,91;0,21
 1;Esquadro Indigo;5,66;0,26
 1;Envelope Cinza escuro;6,50;0,55
 1;Etiqueta pequena Couro;1,81;0,47
-1;Protetor de folhas Jasmine;5,25;0,47
+1;Protetor de folhas Jasmine ;5,25;0,47
 1;Organizador Verde oliva;3,32;0,44
 1;Cola Rosa;1,56;0,51
 1;Folha laminada Vermelho;7,56;0,35
@@ -5246,12 +5246,12 @@
 1;Cartolina Verde agua;7,12;0,30
 1;Grampo Carmesim;3,22;0,63
 1;Pasta de plastico Marrom claro;7,74;0,41
-1;Prancheta Mostarda;2,80;0,54
+1;Prancheta Mostarda ;2,80;0,54
 1;Elastico Amarelo claro;4,89;0,53
 1;Giz de cera Azul celeste;5,44;0,44
 1;Tachinha Mocassim;5,21;0,51
 1;Papel quadriculado Vermelho claro;5,50;0,65
-1;Esquadro Mostarda;4,62;0,44
+1;Esquadro Mostarda ;4,62;0,44
 1;Cola Ebano;2,33;0,32
 1;Elastico Madeira;2,99;0,36
 1;Apontador Marrom rosado;4,72;0,59
@@ -5314,16 +5314,16 @@
 1;Etiqueta pequena Anil;4,91;0,46
 1;Peso de papel Verde agua;7,68;0,58
 1;Fita de correcao Rosa profundo;2,58;0,21
-1;Pasta de plastico Turquesa clara;2,44;0,43
+1;Pasta de plastico Turquesa clara ;2,44;0,43
 1;Cartucho de tinta Rosa choque;4,98;0,47
 1;Papel reciclado Cinza claro;6,45;0,55
 1;Compasso Cinza ardosia;4,05;0,29
 1;Elastico Papaia;4,76;0,32
 1;Clipe Verde fluorescente;4,11;0,64
-1;Caneta-tinteiro Fucsia;6,67;0,65
+1;Caneta-tinteiro Fucsia ;6,67;0,65
 1;Transferidor Escarlate;7,15;0,58
 1;Papel reciclado Madeira;4,32;0,54
-1;Cola em bastao Fucsia;1,56;0,47
+1;Cola em bastao Fucsia ;1,56;0,47
 1;Calculadora Azul cadete;3,47;0,20
 1;Papel cartao Creme;6,56;0,27
 1;Cola em bastao Turquesa escura;7,59;0,60
@@ -5331,7 +5331,7 @@
 1;Envelope Rosa brilhante;7,69;0,26
 1;Apagador Verde grama;6,78;0,38
 1;Apontador Limao;7,42;0,54
-1;Cartao de papel Uva;3,79;0,43
+1;Cartao de papel uva;3,79;0,43
 1;Papel quadriculado Tomate;4,90;0,56
 1;Lapis de cor Amarelo claro;7,33;0,61
 1;Calculadora Sepia;4,19;0,35
@@ -5356,7 +5356,7 @@
 1;Lapis Tangerina;6,42;0,63
 1;Giz de cera Amendoa;5,23;0,31
 1;Prancheta Salmao claro;6,47;0,46
-1;Post-its Uva;7,85;0,58
+1;Post-its uva;7,85;0,58
 1;Fita de correcao Naval;7,53;0,23
 1;Cola Vermelho claro;1,81;0,56
 1;Caneta-tinteiro Chocolate;6,58;0,28
@@ -5368,8 +5368,8 @@
 1;Papel cartao Amarelo creme;7,97;0,40
 1;Tachinha Bege;3,48;0,60
 1;Envelope Castanho;3,03;0,57
-1;Lapiseira Bronze;1,89;0,37
-1;Grampo Mostarda;6,75;0,34
+1;Lapiseira Bronze ;1,89;0,37
+1;Grampo Mostarda ;6,75;0,34
 1;Grampeador Verde oliva;7,33;0,49
 1;Regua Caqui;5,84;0,32
 1;Lapis Azul anil;2,73;0,39
@@ -5379,18 +5379,18 @@
 1;Prancheta Marrom;2,49;0,45
 1;Lapis Lavanda;7,00;0,26
 1;Giz de cera Lilas;5,17;0,62
-1;Papel cartao Bronze;6,49;0,53
+1;Papel cartao Bronze ;6,49;0,53
 1;Fita adesiva Azul profundo;4,84;0,38
 1;Cartucho de tinta Kiwi;6,07;0,31
 1;Tesoura Azul real;3,76;0,53
 1;Grampeador Cereja;5,61;0,63
 1;Bloco de notas Chocolate;4,65;0,41
 1;Cartao de papel Verde oliva;1,62;0,48
-1;Calculadora Bronze;4,16;0,41
+1;Calculadora Bronze ;4,16;0,41
 1;Apontador Kiwi;6,43;0,61
 1;Cartao de papel Amarelo;6,34;0,60
 1;Caneta esferografica Terracota;7,41;0,50
-1;Etiqueta grande Gengibre;3,96;0,43
+1;Etiqueta grande Gengibre ;3,96;0,43
 1;Papel para impressora Jade;5,87;0,62
 1;Apontador Marfim;3,41;0,58
 1;Compasso Salmao;2,60;0,52
@@ -5398,23 +5398,23 @@
 1;Regua Cinza;6,04;0,41
 1;Furador Azul petroleo;5,67;0,51
 1;Pasta de papel Marrom rosado;7,40;0,44
-1;Cola Gengibre;5,05;0,36
+1;Cola Gengibre ;5,05;0,36
 1;Etiqueta pequena Azul petroleo;7,31;0,25
 1;Fita adesiva Azul claro;4,50;0,20
 1;Cola em bastao Vermelho;2,07;0,55
 1;Tachinha Amarelo;4,26;0,34
 1;Etiqueta pequena Orquidea escura;7,06;0,54
-1;Peso de papel Jasmine;7,57;0,56
+1;Peso de papel Jasmine ;7,57;0,56
 1;Post-its Verde lima;5,45;0,39
 1;Papel para impressora Esmeralda;4,21;0,54
 1;Elastico Marrom;5,75;0,38
 1;Ficheiro Agua-marinha;7,88;0,59
 1;Cola Caqui escuro;3,85;0,52
-1;Papel colorido Violeta claro;5,46;0,35
+1;Papel colorido Violeta claro ;5,46;0,35
 1;Esquadro Couro;1,60;0,62
 1;Pasta de papel Oliva;2,33;0,39
-1;Organizador Jasmine;6,40;0,46
-1;Tachinha Gengibre;5,21;0,38
+1;Organizador Jasmine ;6,40;0,46
+1;Tachinha Gengibre ;5,21;0,38
 1;Post-its Esmeralda;3,41;0,39
 1;Cartolina Verde pastel;3,34;0,33
 1;Esquadro Azul cadete;7,57;0,43
@@ -5425,7 +5425,7 @@
 1;Post-its Lavanda;3,23;0,47
 1;Fita adesiva Anil;7,56;0,28
 1;Caneta marcador Orquidea escura;7,28;0,25
-1;Compasso Bronze;6,40;0,49
+1;Compasso Bronze ;6,40;0,49
 1;Furador Jambo;4,20;0,32
 1;Lapiseira Mocassim;4,49;0,57
 1;Grampeador Azul piscina;5,86;0,52
@@ -5440,7 +5440,7 @@
 1;Lapis Ebano;7,21;0,34
 1;Lapis Ciano;3,74;0,60
 1;Envelope Anil;3,50;0,62
-1;Caneta marcador Turquesa clara;7,72;0,42
+1;Caneta marcador Turquesa clara ;7,72;0,42
 1;Prancheta Dourado;2,49;0,49
 1;Ficheiro Verde escuro;7,98;0,32
 1;Fita adesiva Goiaba;2,27;0,35
@@ -5467,7 +5467,7 @@
 1;Ficheiro Grena;5,00;0,51
 1;Peso de papel Madeira;4,44;0,27
 1;Caderno Prata;4,53;0,34
-1;Regua Mostarda;3,05;0,60
+1;Regua Mostarda ;3,05;0,60
 1;Pasta de plastico Preto;2,55;0,38
 1;Transferidor Magenta;4,29;0,48
 1;Post-its Rubro;4,58;0,51
@@ -5476,7 +5476,7 @@
 1;Caderno Mocassim;4,48;0,58
 1;Papel para impressora Branco floral;5,11;0,30
 1;Giz de cera Verde claro;6,00;0,60
-1;Caderno Verde mar;4,37;0,37
+1;Caderno Verde mar ;4,37;0,37
 1;Calculadora Cinza escuro;1,55;0,34
 1;Papel reciclado Encarnado;6,64;0,47
 1;Post-its Lilas;7,41;0,54
@@ -5490,7 +5490,7 @@
 1;Cartolina Anil;2,51;0,41
 1;Etiqueta pequena Lilas;6,64;0,63
 1;Compasso Branco;7,98;0,33
-1;Lapiseira Gengibre;2,36;0,24
+1;Lapiseira Gengibre ;2,36;0,24
 1;Fita adesiva Vermelho indiano;1,53;0,44
 1;Clipe Vermelho indiano;5,17;0,55
 1;Ficheiro Salmao escuro;5,44;0,30
@@ -5507,11 +5507,11 @@
 1;Papel quadriculado Violeta;3,10;0,47
 1;Cola Kiwi;3,34;0,40
 1;Post-its Caramelo;6,22;0,53
-1;Folha laminada Quartzo rosa;5,98;0,31
+1;Folha laminada Quartzo rosa ;5,98;0,31
 1;Bloco de notas Fuligem;6,73;0,27
 1;Lapis de cor Creme;2,04;0,42
 1;Cartolina Ferrugem;2,88;0,47
-1;Calculadora Linho;7,24;0,60
+1;Calculadora Linho ;7,24;0,60
 1;Organizador Rosa claro;1,99;0,26
 1;Tachinha Amarelo canario;5,91;0,45
 1;Lapis de cor Grena;2,35;0,28
@@ -5519,7 +5519,7 @@
 1;Papel para impressora Azul petroleo;7,87;0,54
 1;Peso de papel Rosa profundo;6,42;0,61
 1;Esquadro Marrom;7,07;0,43
-1;Caneta esferografica Jasmine;4,36;0,57
+1;Caneta esferografica Jasmine ;4,36;0,57
 1;Etiqueta grande Branco antigo;7,43;0,33
 1;Compasso Azul profundo;1,62;0,33
 1;Regua Caqui escuro;3,39;0,41
@@ -5547,7 +5547,7 @@
 1;Liquido de correcao Azul anil;1,65;0,29
 1;Post-its Pessego;2,43;0,31
 1;Lapiseira Bordo;5,81;0,22
-1;Envelope Bronze;3,17;0,36
+1;Envelope Bronze ;3,17;0,36
 1;Folha laminada Magenta escuro;3,67;0,32
 1;Alfinete Laranja;2,17;0,28
 1;Fita adesiva Rubro;7,27;0,36
@@ -5567,7 +5567,7 @@
 1;Papel colorido Borgonha;5,61;0,25
 1;Papel reciclado Dourado;2,39;0,44
 1;Tesoura Rubro;3,85;0,39
-1;Liquido de correcao Mostarda;3,51;0,30
+1;Liquido de correcao Mostarda ;3,51;0,30
 1;Protetor de folhas Amarelo canario;4,95;0,47
 1;Grampeador Coral claro;3,06;0,48
 1;Folha laminada Malva;4,01;0,31
@@ -5576,12 +5576,12 @@
 1;Caneta-tinteiro Cinza ardosia;2,69;0,22
 1;Etiqueta grande Coral claro;2,95;0,64
 1;Apagador Amarelo creme;1,72;0,60
-1;Pasta de papel Mostarda;3,32;0,59
+1;Pasta de papel Mostarda ;3,32;0,59
 1;Organizador Azul claro;3,49;0,45
 1;Papel cartao Acafrao;3,44;0,40
 1;Caneta esferografica Ambar;4,48;0,30
 1;Fita de correcao Acafrao;5,09;0,37
-1;Caneta esferografica Uva;2,64;0,29
+1;Caneta esferografica uva;2,64;0,29
 1;Lapiseira Kiwi;3,28;0,35
 1;Cartao de papel Caqui;3,64;0,45
 1;Furador Violeta;6,51;0,38
@@ -5592,15 +5592,15 @@
 1;Elastico Oliva parda;5,82;0,64
 1;Bloco de notas Ebano;4,02;0,24
 1;Apagador Tomate;5,49;0,27
-1;Transferidor Violeta claro;6,10;0,63
+1;Transferidor Violeta claro ;6,10;0,63
 1;Grampo Amarelo;4,90;0,52
 1;Envelope Caqui;4,53;0,59
 1;Clipe Cinza;4,55;0,45
-1;Grampo Fucsia;7,21;0,63
+1;Grampo Fucsia ;7,21;0,63
 1;Grampeador Oliva parda;2,93;0,46
 1;Lapiseira Couro;7,79;0,26
 1;Papel para impressora Azul turquesa;4,39;0,23
-1;Calculadora Verde mar;3,78;0,49
+1;Calculadora Verde mar ;3,78;0,49
 1;Cartucho de tinta Ameixa;3,40;0,22
 1;Papel quadriculado Goiaba;5,90;0,62
 1;Apagador Papaia;6,59;0,37
@@ -5610,7 +5610,7 @@
 1;Prancheta Violeta escuro;1,93;0,22
 1;Protetor de folhas Rosa bebe;6,78;0,65
 1;Pasta de papel Cinza claro;6,74;0,40
-1;Grampeador Ouro;7,53;0,63
+1;Grampeador Ouro ;7,53;0,63
 1;Elastico Naval;4,31;0,37
 1;Tesoura Azul cadete;5,46;0,39
 1;Transferidor Azul ardosia;2,52;0,29
@@ -5625,7 +5625,7 @@
 1;Cartucho de tinta Marfim;6,42;0,48
 1;Calculadora Tangerina;5,29;0,52
 1;Giz de cera Amarelo escuro;5,15;0,43
-1;Cartao de papel Bronze;5,77;0,56
+1;Cartao de papel Bronze ;5,77;0,56
 1;Cartolina Oliva escura;2,63;0,53
 1;Elastico Cereja;2,44;0,37
 1;Cola em bastao Rubro;2,67;0,44
@@ -5661,11 +5661,11 @@
 1;Grampeador Cinza escuro;6,91;0,52
 1;Papel colorido Verde fluorescente;5,29;0,42
 1;Caderno Creme;2,61;0,53
-1;Fita adesiva Quartzo rosa;2,94;0,56
+1;Fita adesiva Quartzo rosa ;2,94;0,56
 1;Cola em bastao Laranja escuro;4,55;0,53
 1;Caneta esferografica Salmao escuro;1,68;0,49
 1;Papel colorido Laranja escuro;5,13;0,55
-1;Papel cartao Jasmine;4,55;0,32
+1;Papel cartao Jasmine ;4,55;0,32
 1;Papel quadriculado Coral;7,03;0,41
 1;Pasta de plastico Azul;3,26;0,36
 1;Grampeador Branco fantasma;3,31;0,30
@@ -5688,12 +5688,12 @@
 1;Regua Amarelo canario;5,67;0,32
 1;Cola em bastao Magenta escuro;2,72;0,26
 1;Giz de cera Rosa;6,12;0,32
-1;Lapis de cor Jasmine;5,58;0,30
+1;Lapis de cor Jasmine ;5,58;0,30
 1;Transferidor Creme;6,55;0,53
 1;Papel reciclado Azul claro;5,45;0,48
-1;Lapis Uva;4,69;0,23
-1;Cartolina Uva;3,32;0,27
-1;Etiqueta pequena Bronze;5,88;0,34
+1;Lapis uva;4,69;0,23
+1;Cartolina uva;3,32;0,27
+1;Etiqueta pequena Bronze ;5,88;0,34
 1;Etiqueta pequena Amarelo canario;1,81;0,48
 1;Cartucho de tinta Oliva parda;5,61;0,51
 1;Alfinete Vermelho claro;4,00;0,58
@@ -5707,7 +5707,7 @@
 1;Prancheta Naval;5,14;0,58
 1;Grampo Castanho claro;6,45;0,43
 1;Elastico Azul ardosia;2,69;0,57
-1;Envelope Quartzo rosa;7,14;0,37
+1;Envelope Quartzo rosa ;7,14;0,37
 1;Etiqueta pequena Verde agua;6,52;0,57
 1;Papel colorido Violeta;4,21;0,50
 1;Cartucho de tinta Orquidea;7,82;0,59
@@ -5716,7 +5716,7 @@
 1;Fita adesiva Papaia;5,94;0,59
 1;Papel quadriculado Anil;7,93;0,26
 1;Pasta de plastico Pardo;5,71;0,25
-1;Furador Gengibre;4,67;0,27
+1;Furador Gengibre ;4,67;0,27
 1;Cartao de papel Marrom;6,91;0,62
 1;Envelope Dourado;7,76;0,48
 1;Giz de cera Azul piscina;4,81;0,49
@@ -5725,7 +5725,7 @@
 1;Etiqueta grande Indigo;7,63;0,52
 1;Fita de correcao Amendoa;4,62;0,57
 1;Protetor de folhas Esmeralda;7,89;0,63
-1;Esquadro Uva;4,30;0,39
+1;Esquadro uva;4,30;0,39
 1;Lapis Branco floral;1,94;0,27
 1;Peso de papel Azul anil;2,52;0,64
 1;Folha laminada Dourado escuro;6,98;0,41
@@ -5747,7 +5747,7 @@
 1;Pasta de papel Couro;4,41;0,57
 1;Cartolina Indigo;7,69;0,32
 1;Alfinete Caramelo;7,30;0,47
-1;Clipe Fucsia;1,55;0,55
+1;Clipe Fucsia ;1,55;0,55
 1;Lapis de cor Tangerina;4,69;0,62
 1;Tesoura Cinza fosco;2,91;0,30
 1;Caneta marcador Bordo;7,16;0,53
@@ -5756,7 +5756,7 @@
 1;Prancheta Ameixa;4,86;0,40
 1;Pasta de papel Marrom;7,31;0,52
 1;Papel cartao Esmeralda;7,16;0,48
-1;Etiqueta pequena Turquesa clara;7,09;0,38
+1;Etiqueta pequena Turquesa clara ;7,09;0,38
 1;Alfinete Jade;2,49;0,44
 1;Envelope Bordo;5,35;0,63
 1;Cartolina Violeta;1,67;0,37
@@ -5770,7 +5770,7 @@
 1;Clipe Verde claro;7,29;0,50
 1;Cartolina Goiaba;2,28;0,32
 1;Cartucho de tinta Amendoa;4,13;0,39
-1;Esquadro Ouro;2,05;0,63
+1;Esquadro Ouro ;2,05;0,63
 1;Peso de papel Tangerina;6,64;0,58
 1;Organizador Azul cobalto;5,35;0,25
 1;Cartolina Vermelho;7,85;0,56
@@ -5779,7 +5779,7 @@
 1;Caneta esferografica Cinza;6,13;0,22
 1;Caderno Violeta escuro;3,78;0,30
 1;Prancheta Caramelo;2,94;0,43
-1;Lapiseira Violeta claro;2,90;0,42
+1;Lapiseira Violeta claro ;2,90;0,42
 1;Papel cartao Azul cobalto;7,17;0,63
 1;Papel para impressora Verde grama;6,36;0,62
 1;Tachinha Gris;1,86;0,22
@@ -5804,7 +5804,7 @@
 1;Cola em bastao Azul claro;7,73;0,64
 1;Papel para impressora Verde claro;2,96;0,24
 1;Post-its Marrom;2,56;0,55
-1;Cartao de papel Fucsia;6,72;0,49
+1;Cartao de papel Fucsia ;6,72;0,49
 1;Lapis de cor Verde oliva;6,56;0,26
 1;Caneta marcador Rosa bebe;2,03;0,29
 1;Caneta-tinteiro Indigo;3,37;0,42
@@ -5813,13 +5813,13 @@
 1;Lapis Verde menta;3,00;0,49
 1;Alfinete Orquidea escura;4,91;0,28
 1;Caderno Coral claro;3,88;0,60
-1;Tachinha Fucsia;2,33;0,61
+1;Tachinha Fucsia ;2,33;0,61
 1;Regua Azul escuro;4,11;0,44
 1;Apagador Salmao;7,56;0,28
 1;Papel cartao Verde pastel;7,68;0,63
 1;Caderno Amarelo canario;2,19;0,34
 1;Regua Azul bebe;2,07;0,35
-1;Grampeador Turquesa clara;3,40;0,25
+1;Grampeador Turquesa clara ;3,40;0,25
 1;Clipe Goiaba;4,68;0,23
 1;Envelope Terracota;7,45;0,27
 1;Cola em bastao Prata;6,46;0,61
@@ -5838,7 +5838,7 @@
 1;Grampeador Azul;6,90;0,51
 1;Envelope Azul piscina;3,35;0,26
 1;Caderno Bege;4,30;0,42
-1;Papel quadriculado Jasmine;7,60;0,24
+1;Papel quadriculado Jasmine ;7,60;0,24
 1;Giz de cera Ametista;5,77;0,22
 1;Etiqueta pequena Coral;5,34;0,24
 1;Papel colorido Azul anil;4,53;0,30
@@ -5850,11 +5850,11 @@
 1;Papel para impressora Rosa choque;1,91;0,54
 1;Compasso Dourado escuro;2,27;0,60
 1;Giz de cera Verde lima;3,97;0,29
-1;Ficheiro Quartzo rosa;7,84;0,49
+1;Ficheiro Quartzo rosa ;7,84;0,49
 1;Caneta-tinteiro Amarelo creme;6,81;0,39
 1;Protetor de folhas Marrom escuro;2,50;0,53
 1;Peso de papel Cinza ardosia;3,40;0,31
-1;Tesoura Turquesa clara;4,05;0,37
+1;Tesoura Turquesa clara ;4,05;0,37
 1;Bloco de notas Azul;5,58;0,20
 1;Clipe Prata;5,59;0,35
 1;Giz de cera Jambo;6,31;0,54
@@ -5876,11 +5876,11 @@
 1;Regua Roxo;4,12;0,30
 1;Cola em bastao Turquesa media;2,37;0,48
 1;Ficheiro Lilas;7,55;0,26
-1;Bloco com pauta Ouro;5,99;0,47
+1;Bloco com pauta Ouro ;5,99;0,47
 1;Elastico Limao;5,32;0,28
 1;Fita de correcao Urucum;4,48;0,30
 1;Furador Roxo;5,90;0,32
-1;Compasso Violeta claro;2,14;0,24
+1;Compasso Violeta claro ;2,14;0,24
 1;Papel cartao Oliva;7,16;0,42
 1;Clipe Oliva parda;4,86;0,33
 1;Papel reciclado Cinza fosco;6,12;0,53
@@ -5894,25 +5894,25 @@
 1;Regua Carmim;7,53;0,56
 1;Elastico Verde agua;1,95;0,59
 1;Cola em bastao Azul cadete;7,09;0,53
-1;Pasta de papel Uva;3,82;0,62
+1;Pasta de papel uva;3,82;0,62
 1;Bloco com pauta Azul profundo;3,54;0,32
 1;Regua Orquidea clara;4,18;0,52
 1;Cola em bastao Marfim;6,27;0,29
 1;Prancheta Azul medio;2,56;0,61
 1;Caderno Amarelo creme;5,76;0,53
-1;Fita de correcao Quartzo rosa;3,06;0,20
+1;Fita de correcao Quartzo rosa ;3,06;0,20
 1;Giz de cera Kiwi;2,08;0,48
 1;Caneta-tinteiro Azul celeste;5,48;0,49
-1;Tesoura Jasmine;5,25;0,64
+1;Tesoura Jasmine ;5,25;0,64
 1;Cartucho de tinta Chocolate;4,47;0,20
 1;Papel cartao Vermelho;3,83;0,46
 1;Caderno Cinza fosco;6,35;0,31
 1;Cartucho de tinta Azul piscina;4,07;0,42
 1;Lapis Caramelo;2,47;0,23
 1;Lapis Cinza fosco;6,27;0,51
-1;Cartolina Ouro;5,27;0,46
-1;Apagador Ouro;6,93;0,43
-1;Bloco de notas Linho;6,40;0,39
+1;Cartolina Ouro ;5,27;0,46
+1;Apagador Ouro ;6,93;0,43
+1;Bloco de notas Linho ;6,40;0,39
 1;Etiqueta pequena Violeta;5,91;0,24
 1;Liquido de correcao Orquidea;6,72;0,57
 1;Lapiseira Amarelo;5,63;0,32
@@ -5935,11 +5935,11 @@
 1;Cartucho de tinta Gris;6,20;0,33
 1;Cartao de papel Laranja escuro;4,81;0,48
 1;Organizador Rosa choque;5,06;0,55
-1;Papel cartao Quartzo rosa;4,72;0,22
+1;Papel cartao Quartzo rosa ;4,72;0,22
 1;Cartao de papel Magenta escuro;5,74;0,40
 1;Papel para impressora Salmao claro;1,74;0,55
 1;Cola Azul claro;1,90;0,28
-1;Protetor de folhas Uva;5,94;0,32
+1;Protetor de folhas uva;5,94;0,32
 1;Cartolina Naval;7,08;0,56
 1;Caderno Verde claro;2,19;0,36
 1;Caderno Rosa brilhante;2,88;0,60
@@ -5955,12 +5955,12 @@
 1;Caneta-tinteiro Azul brasilis;4,83;0,31
 1;Etiqueta grande Salmao;2,87;0,43
 1;Pasta de plastico Castanho;5,42;0,26
-1;Organizador Gengibre;5,27;0,48
+1;Organizador Gengibre ;5,27;0,48
 1;Pasta de papel Pardo;3,52;0,61
-1;Lapiseira Linho;2,36;0,21
+1;Lapiseira Linho ;2,36;0,21
 1;Giz de cera Creme;4,47;0,26
 1;Fita de correcao Lavanda;3,06;0,42
-1;Cartolina Verde mar;3,74;0,52
+1;Cartolina Verde mar ;3,74;0,52
 1;Folha laminada Cinza;1,75;0,50
 1;Compasso Verde bandeira;5,07;0,58
 1;Cartucho de tinta Purpura;6,46;0,42
@@ -5971,10 +5971,10 @@
 1;Tachinha Azul brasilis;4,40;0,64
 1;Papel para impressora Caqui;1,87;0,38
 1;Lapis Rosa brilhante;7,94;0,20
-1;Papel reciclado Ouro;1,56;0,46
+1;Papel reciclado Ouro ;1,56;0,46
 1;Folha laminada Marrom;4,59;0,22
 1;Post-its Azul bebe;2,73;0,52
-1;Fita de correcao Mostarda;1,77;0,59
+1;Fita de correcao Mostarda ;1,77;0,59
 1;Pasta de papel Branco;1,80;0,49
 1;Ficheiro Azul topazio;4,72;0,53
 1;Bloco de notas Vermelho indiano;2,99;0,55
@@ -6001,7 +6001,7 @@
 1;Esquadro Ambar;5,04;0,45
 1;Giz de cera Lavanda;7,96;0,60
 1;Caneta esferografica Chocolate;4,52;0,25
-1;Etiqueta grande Violeta claro;2,48;0,32
+1;Etiqueta grande Violeta claro ;2,48;0,32
 1;Lapiseira Rosa escuro;6,71;0,26
 1;Bloco com pauta Verde oliva;2,20;0,32
 1;Etiqueta grande Amarelo creme;2,32;0,24
@@ -6026,13 +6026,13 @@
 1;Organizador Coral;3,46;0,58
 1;Fita de correcao Laranja escuro;7,74;0,45
 1;Folha laminada Castanho claro;1,61;0,54
-1;Elastico Bronze;2,03;0,25
+1;Elastico Bronze ;2,03;0,25
 1;Cola Verde claro;2,19;0,30
 1;Bloco com pauta Indigo;5,85;0,61
 1;Calculadora Azul brasilis;7,20;0,48
 1;Papel cartao Dourado;4,13;0,36
 1;Liquido de correcao Bordo;6,39;0,22
-1;Protetor de folhas Bronze;4,02;0,35
+1;Protetor de folhas Bronze ;4,02;0,35
 1;Envelope Azul;5,73;0,52
 1;Compasso Turquesa escura;7,45;0,51
 1;Etiqueta grande Rosa brilhante;6,13;0,65
@@ -6047,18 +6047,18 @@
 1;Fita de correcao Borgonha;6,50;0,28
 1;Furador Marfim;7,35;0,31
 1;Grampeador Verde agua;5,76;0,38
-1;Pasta de plastico Mostarda;6,91;0,58
+1;Pasta de plastico Mostarda ;6,91;0,58
 1;Prancheta Bordo;2,74;0,61
 1;Alfinete Dourado;4,08;0,46
 1;Cola em bastao Lavanda;4,47;0,44
 1;Cola em bastao Rosa bebe;2,50;0,28
-1;Fita de correcao Violeta claro;4,88;0,39
+1;Fita de correcao Violeta claro ;4,88;0,39
 1;Lapis Salmao escuro;7,95;0,21
-1;Envelope Turquesa clara;7,30;0,38
+1;Envelope Turquesa clara ;7,30;0,38
 1;Bloco com pauta Jambo;4,74;0,40
 1;Lapiseira Violeta escuro;7,53;0,56
 1;Envelope Magenta;5,85;0,43
-1;Cola em bastao Quartzo rosa;4,32;0,65
+1;Cola em bastao Quartzo rosa ;4,32;0,65
 1;Caneta marcador Amarelo canario;3,03;0,53
 1;Grampeador Gris;2,13;0,50
 1;Post-its Verde grama;1,77;0,55
@@ -6070,9 +6070,9 @@
 1;Cola Marrom rosado;4,93;0,50
 1;Apagador Grena;3,58;0,64
 1;Papel colorido Azul piscina;6,41;0,22
-1;Etiqueta grande Quartzo rosa;5,37;0,25
+1;Etiqueta grande Quartzo rosa ;5,37;0,25
 1;Cartao de papel Salmao escuro;3,55;0,50
-1;Ficheiro Uva;3,35;0,61
+1;Ficheiro uva;3,35;0,61
 1;Regua Marrom escuro;3,06;0,28
 1;Calculadora Rosa escuro;1,66;0,33
 1;Compasso Rubro;1,99;0,24
@@ -6090,10 +6090,10 @@
 1;Organizador Vermelho;7,47;0,60
 1;Cartao de papel Rosa profundo;6,12;0,38
 1;Fita adesiva Ferrugem;5,27;0,46
-1;Pasta de papel Fucsia;1,63;0,27
+1;Pasta de papel Fucsia ;1,63;0,27
 1;Prancheta Vermelho;5,36;0,28
 1;Grampo Vermelho indiano;1,51;0,23
-1;Transferidor Verde mar;4,05;0,49
+1;Transferidor Verde mar ;4,05;0,49
 1;Calculadora Caqui escuro;2,94;0,59
 1;Compasso Cinza;3,14;0,23
 1;Envelope Coral;1,60;0,56
@@ -6112,19 +6112,19 @@
 1;Peso de papel Bege;5,30;0,29
 1;Fita de correcao Indigo;1,89;0,48
 1;Grampeador Lavanda;6,96;0,27
-1;Liquido de correcao Gengibre;4,68;0,22
+1;Liquido de correcao Gengibre ;4,68;0,22
 1;Protetor de folhas Madeira;3,51;0,58
 1;Tachinha Lavanda;5,46;0,32
 1;Prancheta Lilas;2,38;0,28
 1;Folha laminada Vermelho claro;6,06;0,64
-1;Fita adesiva Bronze;6,85;0,55
+1;Fita adesiva Bronze ;6,85;0,55
 1;Lapis Verde oliva;5,83;0,57
 1;Alfinete Ametista;6,38;0,46
 1;Grampo Papaia;2,95;0,52
-1;Folha laminada Uva;3,50;0,34
+1;Folha laminada uva;3,50;0,34
 1;Cola em bastao Ciano;5,24;0,28
-1;Bloco de notas Ouro;4,59;0,40
-1;Compasso Turquesa clara;7,49;0,30
+1;Bloco de notas Ouro ;4,59;0,40
+1;Compasso Turquesa clara ;7,49;0,30
 1;Protetor de folhas Neve;2,95;0,33
 1;Organizador Coral claro;7,93;0,54
 1;Caneta esferografica Coral;1,73;0,53
@@ -6154,12 +6154,12 @@
 1;Lapis Caqui;2,65;0,46
 1;Caneta-tinteiro Rosa;2,17;0,34
 1;Envelope Branco floral;4,91;0,22
-1;Caneta marcador Jasmine;2,36;0,47
+1;Caneta marcador Jasmine ;2,36;0,47
 1;Tachinha Esmeralda;5,83;0,29
 1;Papel reciclado Verde;6,94;0,39
 1;Bloco com pauta Neve;4,79;0,64
 1;Apagador Vermelho escuro;3,68;0,27
-1;Organizador Ouro;6,37;0,52
+1;Organizador Ouro ;6,37;0,52
 1;Lapis Gris;2,03;0,60
 1;Tachinha Azul petroleo;2,07;0,32
 1;Giz de cera Goiaba;7,57;0,41
@@ -6172,11 +6172,11 @@
 1;Fita de correcao Rosa escuro;5,68;0,21
 1;Papel quadriculado Azul turquesa;7,18;0,22
 1;Pasta de papel Agua-marinha;6,62;0,56
-1;Tesoura Quartzo rosa;7,83;0,22
+1;Tesoura Quartzo rosa ;7,83;0,22
 1;Grampeador Jambo;6,65;0,28
 1;Lapis Cinza medio;3,81;0,63
 1;Ficheiro Vermelho escuro;4,46;0,24
-1;Etiqueta pequena Uva;7,17;0,57
+1;Etiqueta pequena uva;7,17;0,57
 1;Peso de papel Cinza fosco;3,08;0,22
 1;Tesoura Vermelho claro;2,14;0,59
 1;Caderno Verde;4,36;0,54
@@ -6226,7 +6226,7 @@
 1;Etiqueta grande Branco floral;1,54;0,34
 1;Etiqueta grande Borgonha;7,50;0,53
 1;Apagador Castanho;6,89;0,25
-1;Caderno Mostarda;7,69;0,58
+1;Caderno Mostarda ;7,69;0,58
 1;Grampo Fuligem;5,72;0,60
 1;Peso de papel Papaia;5,75;0,52
 1;Lapiseira Azul profundo;6,29;0,63
@@ -6244,7 +6244,7 @@
 1;Bloco com pauta Bege;6,54;0,60
 1;Fita de correcao Azul turquesa;5,07;0,64
 1;Cola Cobre;2,21;0,53
-1;Cartolina Quartzo rosa;4,41;0,55
+1;Cartolina Quartzo rosa ;4,41;0,55
 1;Papel quadriculado Fuligem;5,62;0,41
 1;Fita de correcao Azul cobalto;2,53;0,34
 1;Etiqueta pequena Laranja escuro;5,64;0,53
@@ -6269,7 +6269,7 @@
 1;Folha laminada Violeta;3,34;0,45
 1;Grampeador Azul petroleo;2,91;0,22
 1;Cartao de papel Prata;2,61;0,53
-1;Etiqueta pequena Gengibre;3,08;0,41
+1;Etiqueta pequena Gengibre ;3,08;0,41
 1;Papel para impressora Terracota;4,58;0,55
 1;Protetor de folhas Malva;4,84;0,61
 1;Compasso Ambar;2,94;0,29
@@ -6285,8 +6285,8 @@
 1;Cartao de papel Azul topazio;7,87;0,42
 1;Elastico Oliva escura;6,29;0,58
 1;Clipe Gris;2,42;0,28
-1;Protetor de folhas Linho;5,94;0,35
-1;Fita adesiva Fucsia;5,71;0,54
+1;Protetor de folhas Linho ;5,94;0,35
+1;Fita adesiva Fucsia ;5,71;0,54
 1;Grampeador Kiwi;2,83;0,47
 1;Etiqueta grande Azul medio;2,15;0,38
 1;Caderno Papaia;7,98;0,65
@@ -6331,7 +6331,7 @@
 1;Pasta de papel Marrom escuro;5,37;0,47
 1;Folha laminada Azul piscina;6,59;0,40
 1;Folha laminada Preto;2,83;0,26
-1;Fita adesiva Linho;6,43;0,39
+1;Fita adesiva Linho ;6,43;0,39
 1;Lapis de cor Amarelo canario;1,72;0,51
 1;Regua Rosa profundo;6,90;0,33
 1;Transferidor Tomate;4,88;0,59
@@ -6414,16 +6414,16 @@
 1;Clipe Carmesim;4,08;0,51
 1;Apontador Indigo;2,00;0,63
 1;Compasso Mocassim;2,77;0,30
-1;Giz de cera Ouro;4,85;0,43
+1;Giz de cera Ouro ;4,85;0,43
 1;Calculadora Laranja;5,81;0,61
-1;Pasta de plastico Fucsia;2,19;0,63
+1;Pasta de plastico Fucsia ;2,19;0,63
 1;Lapis Prata;6,79;0,39
 1;Cartolina Amarelo canario;1,90;0,52
 1;Caneta-tinteiro Purpura;2,73;0,42
 1;Caneta-tinteiro Acafrao;4,02;0,55
 1;Transferidor Rosa bebe;5,61;0,60
 1;Caneta esferografica Bege;1,76;0,32
-1;Alfinete Quartzo rosa;4,45;0,32
+1;Alfinete Quartzo rosa ;4,45;0,32
 1;Protetor de folhas Vermelho escuro;4,45;0,57
 1;Cola em bastao Azul petroleo;5,06;0,23
 1;Papel para impressora Fuligem;7,22;0,31
@@ -6443,7 +6443,7 @@
 1;Ficheiro Prata;2,13;0,48
 1;Cartolina Cinza ardosia;4,43;0,54
 1;Calculadora Salmao claro;5,61;0,51
-1;Papel colorido Gengibre;3,39;0,64
+1;Papel colorido Gengibre ;3,39;0,64
 1;Calculadora Rosa claro;5,19;0,28
 1;Compasso Couro;5,65;0,43
 1;Caneta-tinteiro Escarlate;2,63;0,30
@@ -6482,19 +6482,19 @@
 1;Caderno Neve;6,29;0,31
 1;Papel cartao Verde oliva;1,57;0,26
 1;Bloco com pauta Papaia;5,98;0,57
-1;Caneta esferografica Violeta claro;3,24;0,38
-1;Compasso Uva;7,25;0,58
+1;Caneta esferografica Violeta claro ;3,24;0,38
+1;Compasso uva;7,25;0,58
 1;Bloco de notas Bege;3,96;0,58
 1;Papel para impressora Laranja claro;5,26;0,40
 1;Esquadro Cobre;7,17;0,50
 1;Prancheta Chocolate;3,57;0,47
 1;Cola em bastao Castanho claro;7,77;0,52
 1;Prancheta Prata;4,48;0,41
-1;Tachinha Uva;5,16;0,53
-1;Cartucho de tinta Mostarda;4,43;0,37
+1;Tachinha uva;5,16;0,53
+1;Cartucho de tinta Mostarda ;4,43;0,37
 1;Papel para impressora Marrom rosado;3,99;0,46
 1;Etiqueta grande Bege;7,08;0,55
-1;Alfinete Uva;5,40;0,62
+1;Alfinete uva;5,40;0,62
 1;Apontador Turquesa;7,59;0,43
 1;Peso de papel Malva;4,40;0,24
 1;Etiqueta pequena Marrom claro;2,06;0,52
@@ -6503,7 +6503,7 @@
 1;Prancheta Kiwi;4,08;0,28
 1;Elastico Cobre;3,21;0,61
 1;Bloco com pauta Branco floral;2,32;0,50
-1;Grampo Uva;4,53;0,49
+1;Grampo uva;4,53;0,49
 1;Papel reciclado Amarelo creme;4,18;0,64
 1;Cartolina Vermelho escuro;4,09;0,64
 1;Bloco de notas Verde agua;4,40;0,48
@@ -6511,13 +6511,13 @@
 1;Organizador Oliva escura;6,95;0,55
 1;Organizador Rosa profundo;6,71;0,54
 1;Grampo Turquesa;3,05;0,60
-1;Tachinha Quartzo rosa;2,55;0,60
+1;Tachinha Quartzo rosa ;2,55;0,60
 1;Grampeador Pessego;2,81;0,46
 1;Folha laminada Branco floral;5,05;0,54
-1;Cola em bastao Gengibre;1,71;0,50
+1;Cola em bastao Gengibre ;1,71;0,50
 1;Regua Marrom claro;4,81;0,52
 1;Cartao de papel Oliva escura;3,99;0,55
-1;Grampeador Uva;7,53;0,62
+1;Grampeador uva;7,53;0,62
 1;Apontador Cereja;6,28;0,46
 1;Giz de cera Azul bebe;7,92;0,24
 1;Pasta de papel Verde agua;7,40;0,23
@@ -6529,7 +6529,7 @@
 1;Regua Castanho;7,70;0,31
 1;Tesoura Oliva escura;3,87;0,61
 1;Post-its Coral;7,06;0,31
-1;Caderno Jasmine;2,41;0,47
+1;Caderno Jasmine ;2,41;0,47
 1;Apontador Azul claro;5,04;0,34
 1;Pasta de plastico Bordo;7,17;0,56
 1;Cola em bastao Rosa brilhante;3,63;0,63
@@ -6553,8 +6553,8 @@
 1;Lapis de cor Roxo;7,22;0,28
 1;Grampo Azul cadete;5,22;0,52
 1;Papel colorido Amarelo claro;7,16;0,28
-1;Tachinha Linho;1,78;0,46
-1;Liquido de correcao Quartzo rosa;1,87;0,52
+1;Tachinha Linho ;1,78;0,46
+1;Liquido de correcao Quartzo rosa ;1,87;0,52
 1;Lapis Ocre;7,67;0,60
 1;Apontador Goiaba;6,24;0,34
 1;Cartao de papel Naval;4,68;0,21
@@ -6571,9 +6571,9 @@
 1;Cartao de papel Pessego;5,89;0,23
 1;Regua Azul anil;7,38;0,34
 1;Caneta esferografica Ocre;5,22;0,27
-1;Calculadora Gengibre;2,38;0,57
+1;Calculadora Gengibre ;2,38;0,57
 1;Papel colorido Branco floral;5,54;0,59
-1;Post-its Turquesa clara;4,18;0,29
+1;Post-its Turquesa clara ;4,18;0,29
 1;Clipe Ferrugem;7,73;0,21
 1;Lapis Orquidea clara;3,23;0,45
 1;Tesoura Marfim;3,46;0,33
@@ -6588,7 +6588,7 @@
 1;Esquadro Tangerina;7,51;0,30
 1;Alfinete Carmim;6,53;0,33
 1;Ficheiro Marrom;2,80;0,65
-1;Alfinete Verde mar;5,46;0,61
+1;Alfinete Verde mar ;5,46;0,61
 1;Cola em bastao Ebano;1,75;0,60
 1;Caderno Pessego;1,97;0,40
 1;Clipe Esmeralda;4,71;0,56
@@ -6636,8 +6636,8 @@
 1;Elastico Marrom escuro;6,11;0,46
 1;Papel cartao Branco fantasma;4,79;0,45
 1;Caneta esferografica Coral claro;2,49;0,45
-1;Elastico Gengibre;7,12;0,63
-1;Caderno Gengibre;6,20;0,53
+1;Elastico Gengibre ;7,12;0,63
+1;Caderno Gengibre ;6,20;0,53
 1;Clipe Lilas;1,52;0,38
 1;Grampo Rosa;3,78;0,61
 1;Caneta marcador Vermelho;6,90;0,35
@@ -6654,13 +6654,13 @@
 1;Prancheta Azul celeste;5,81;0,21
 1;Compasso Marfim;5,92;0,21
 1;Cola Amarelo escuro;6,41;0,31
-1;Clipe Verde mar;2,85;0,35
+1;Clipe Verde mar ;2,85;0,35
 1;Regua Oliva parda;6,20;0,53
 1;Tesoura Encarnado;4,71;0,45
 1;Pasta de papel Rosa bebe;3,87;0,61
-1;Prancheta Jasmine;6,93;0,43
+1;Prancheta Jasmine ;6,93;0,43
 1;Fita de correcao Marrom escuro;5,18;0,50
-1;Pasta de plastico Ouro;2,28;0,57
+1;Pasta de plastico Ouro ;2,28;0,57
 1;Papel para impressora Cenoura;1,57;0,36
 1;Compasso Verde menta;4,26;0,54
 1;Lapis de cor Bordo;7,88;0,60
@@ -6680,7 +6680,7 @@
 1;Apontador Salmao;5,43;0,63
 1;Papel cartao Magenta;7,82;0,28
 1;Clipe Azul petroleo;4,63;0,54
-1;Apagador Fucsia;3,32;0,63
+1;Apagador Fucsia ;3,32;0,63
 1;Calculadora Verde menta;7,73;0,29
 1;Liquido de correcao Escarlate;7,77;0,45
 1;Cartucho de tinta Rosa escuro;4,08;0,50
@@ -6689,16 +6689,16 @@
 1;Prancheta Preto;7,16;0,23
 1;Papel cartao Verde bandeira;1,64;0,28
 1;Alfinete Couro;7,36;0,58
-1;Etiqueta pequena Jasmine;7,18;0,40
+1;Etiqueta pequena Jasmine ;7,18;0,40
 1;Transferidor Azul piscina;1,57;0,56
 1;Tesoura Verde escuro;3,79;0,37
 1;Lapiseira Borgonha;3,00;0,23
 1;Etiqueta grande Magenta;2,65;0,53
 1;Folha laminada Azul celeste;5,92;0,29
 1;Calculadora Azul claro;4,63;0,24
-1;Transferidor Bronze;7,69;0,21
+1;Transferidor Bronze ;7,69;0,21
 1;Bloco com pauta Amarelo creme;4,25;0,63
-1;Calculadora Mostarda;6,61;0,34
+1;Calculadora Mostarda ;6,61;0,34
 1;Papel para impressora Carmim;5,21;0,63
 1;Transferidor Bege;3,28;0,45
 1;Fita de correcao Pessego;2,47;0,29
@@ -6722,7 +6722,7 @@
 1;Pasta de plastico Anil;6,43;0,38
 1;Liquido de correcao Cereja;4,04;0,46
 1;Fita adesiva Tomate;4,63;0,61
-1;Papel reciclado Linho;4,54;0,32
+1;Papel reciclado Linho ;4,54;0,32
 1;Caneta-tinteiro Verde menta;6,20;0,49
 1;Caneta esferografica Azul turquesa;6,28;0,41
 1;Caneta-tinteiro Amendoa;3,75;0,30
@@ -6740,7 +6740,7 @@
 1;Alfinete Amarelo escuro;6,37;0,37
 1;Caneta marcador Jambo;5,13;0,26
 1;Grampo Azul celeste;3,07;0,46
-1;Organizador Uva;2,96;0,45
+1;Organizador uva;2,96;0,45
 1;Caneta-tinteiro Salmao claro;1,84;0,63
 1;Elastico Chocolate;4,20;0,34
 1;Giz de cera Ferrugem;3,94;0,39
@@ -6750,7 +6750,7 @@
 1;Protetor de folhas Marrom claro;4,88;0,39
 1;Post-its Salmao claro;6,03;0,60
 1;Peso de papel Dourado;5,65;0,33
-1;Tesoura Ouro;3,78;0,34
+1;Tesoura Ouro ;3,78;0,34
 1;Pasta de papel Bege;5,04;0,36
 1;Etiqueta grande Oliva;6,66;0,24
 1;Pasta de papel Azul anil;7,61;0,45
@@ -6770,20 +6770,20 @@
 1;Protetor de folhas Branco antigo;2,47;0,36
 1;Esquadro Branco;2,85;0,25
 1;Etiqueta grande Turquesa media;7,32;0,44
-1;Lapis Bronze;4,64;0,24
+1;Lapis Bronze ;4,64;0,24
 1;Ficheiro Fuligem;4,44;0,53
 1;Tesoura Madeira;2,98;0,53
-1;Fita de correcao Uva;4,89;0,52
+1;Fita de correcao uva;4,89;0,52
 1;Transferidor Limao;4,00;0,54
 1;Protetor de folhas Verde escuro;7,40;0,48
 1;Envelope Violeta escuro;4,39;0,31
 1;Cola em bastao Verde oliva;4,45;0,47
-1;Envelope Ouro;3,25;0,62
+1;Envelope Ouro ;3,25;0,62
 1;Papel quadriculado Branco antigo;7,60;0,33
 1;Lapis de cor Azul turquesa;2,41;0,42
 1;Fita de correcao Turquesa media;3,21;0,28
-1;Fita de correcao Linho;5,23;0,56
-1;Lapis Verde mar;2,95;0,23
+1;Fita de correcao Linho ;5,23;0,56
+1;Lapis Verde mar ;2,95;0,23
 1;Bloco de notas Cinza medio;7,88;0,45
 1;Compasso Oliva;4,24;0,26
 1;Envelope Prata;7,94;0,22
@@ -6797,14 +6797,14 @@
 1;Calculadora Azul profundo;4,91;0,53
 1;Envelope Turquesa media;1,69;0,28
 1;Alfinete Rosa brilhante;3,19;0,43
-1;Lapis de cor Quartzo rosa;2,99;0,57
-1;Cola Ouro;6,89;0,62
+1;Lapis de cor Quartzo rosa ;2,99;0,57
+1;Cola Ouro ;6,89;0,62
 1;Calculadora Ciano;2,84;0,49
 1;Cartucho de tinta Bordo;4,21;0,29
 1;Peso de papel Marrom claro;3,79;0,63
 1;Etiqueta grande Cobre;3,53;0,21
 1;Cartucho de tinta Castanho;3,05;0,48
-1;Organizador Quartzo rosa;1,84;0,49
+1;Organizador Quartzo rosa ;1,84;0,49
 1;Prancheta Branco;4,64;0,44
 1;Bloco de notas Verde lima;7,97;0,45
 1;Calculadora Mocassim;5,75;0,24
@@ -6837,11 +6837,11 @@
 1;Cola Salmao escuro;5,64;0,45
 1;Tesoura Violeta escuro;7,58;0,48
 1;Apagador Ferrugem;3,71;0,26
-1;Post-its Violeta claro;7,22;0,32
+1;Post-its Violeta claro ;7,22;0,32
 1;Grampeador Turquesa escura;3,73;0,61
 1;Giz de cera Grena;4,32;0,28
 1;Tachinha Oliva escura;4,50;0,51
-1;Apontador Mostarda;4,23;0,34
+1;Apontador Mostarda ;4,23;0,34
 1;Folha laminada Laranja;6,72;0,42
 1;Grampo Azul;3,52;0,63
 1;Transferidor Violeta escuro;2,42;0,43
@@ -6859,7 +6859,7 @@
 1;Calculadora Bege;3,56;0,62
 1;Grampeador Carmim;7,44;0,33
 1;Caderno Malva;7,20;0,32
-1;Fita adesiva Uva;2,40;0,60
+1;Fita adesiva uva;2,40;0,60
 1;Apagador Verde agua;1,71;0,57
 1;Tachinha Jambo;7,13;0,24
 1;Grampo Ocre;4,25;0,38
@@ -6868,7 +6868,7 @@
 1;Fita de correcao Branco fantasma;2,59;0,49
 1;Tesoura Chocolate;2,93;0,36
 1;Calculadora Azul piscina;6,50;0,26
-1;Lapiseira Ouro;3,66;0,28
+1;Lapiseira Ouro ;3,66;0,28
 1;Fita de correcao Verde oliva;2,74;0,48
 1;Pasta de plastico Dourado;2,33;0,45
 1;Papel quadriculado Branco floral;2,98;0,55
@@ -6879,9 +6879,9 @@
 1;Cartucho de tinta Verde lima;1,90;0,21
 1;Compasso Encarnado;3,26;0,37
 1;Lapiseira Laranja escuro;2,53;0,48
-1;Papel reciclado Uva;1,98;0,44
+1;Papel reciclado uva;1,98;0,44
 1;Pasta de papel Castanho claro;5,72;0,41
-1;Grampeador Linho;6,15;0,35
+1;Grampeador Linho ;6,15;0,35
 1;Clipe Oliva;7,15;0,63
 1;Post-its Carmesim;1,79;0,64
 1;Lapis Bordo;6,35;0,59
@@ -6897,7 +6897,7 @@
 1;Lapis Verde escuro;6,11;0,47
 1;Apontador Ameixa;5,58;0,27
 1;Caneta-tinteiro Carmim;5,11;0,22
-1;Apagador Bronze;4,33;0,27
+1;Apagador Bronze ;4,33;0,27
 1;Grampo Lilas;3,21;0,34
 1;Cartao de papel Esmeralda;5,85;0,58
 1;Tesoura Castanho;2,02;0,34
@@ -6929,16 +6929,16 @@
 1;Papel colorido Amarelo escuro;5,37;0,20
 1;Tachinha Rosa choque;3,01;0,32
 1;Caneta esferografica Castanho claro;7,77;0,28
-1;Clipe Quartzo rosa;5,38;0,36
+1;Clipe Quartzo rosa ;5,38;0,36
 1;Compasso Creme;7,44;0,48
 1;Papel quadriculado Urucum;2,10;0,41
 1;Post-its Dourado escuro;6,68;0,34
 1;Giz de cera Neve;3,87;0,52
 1;Protetor de folhas Verde bandeira;7,26;0,35
-1;Transferidor Gengibre;3,32;0,21
+1;Transferidor Gengibre ;3,32;0,21
 1;Folha laminada Limao;1,52;0,33
 1;Elastico Oliva;2,66;0,43
-1;Cartao de papel Turquesa clara;7,86;0,56
+1;Cartao de papel Turquesa clara ;7,86;0,56
 1;Giz de cera Agua-marinha;6,13;0,44
 1;Papel colorido Coral;4,53;0,49
 1;Liquido de correcao Azul medio;5,57;0,41
@@ -6965,8 +6965,8 @@
 1;Prancheta Limao;6,91;0,31
 1;Peso de papel Coral claro;3,34;0,41
 1;Papel reciclado Cereja;7,86;0,34
-1;Etiqueta grande Bronze;7,75;0,53
-1;Folha laminada Gengibre;2,74;0,39
+1;Etiqueta grande Bronze ;7,75;0,53
+1;Folha laminada Gengibre ;2,74;0,39
 1;Organizador Goiaba;3,98;0,31
 1;Tesoura Tomate;2,24;0,43
 1;Etiqueta grande Tomate;2,54;0,35
@@ -7010,10 +7010,10 @@
 1;Lapis Marrom rosado;2,41;0,32
 1;Grampo Coral claro;2,03;0,37
 1;Post-its Acafrao;5,16;0,51
-1;Cartolina Jasmine;7,74;0,38
+1;Cartolina Jasmine ;7,74;0,38
 1;Cola Cinza;4,54;0,45
 1;Etiqueta pequena Mocassim;4,18;0,48
-1;Bloco de notas Quartzo rosa;5,44;0,48
+1;Bloco de notas Quartzo rosa ;5,44;0,48
 1;Tesoura Papaia;4,97;0,24
 1;Clipe Cenoura;7,05;0,58
 1;Alfinete Encarnado;4,67;0,36
@@ -7024,7 +7024,7 @@
 1;Bloco de notas Branco floral;6,51;0,29
 1;Apontador Rubro;6,15;0,41
 1;Alfinete Coral;5,32;0,60
-1;Fita adesiva Turquesa clara;3,84;0,39
+1;Fita adesiva Turquesa clara ;3,84;0,39
 1;Bloco com pauta Violeta;1,61;0,37
 1;Bloco de notas Azul escuro;5,36;0,57
 1;Grampeador Verde menta;6,03;0,45
@@ -7037,7 +7037,7 @@
 1;Bloco com pauta Cinza claro;2,76;0,21
 1;Bloco de notas Lilas;4,40;0,26
 1;Cola em bastao Borgonha;2,52;0,61
-1;Tesoura Uva;6,37;0,64
+1;Tesoura uva;6,37;0,64
 1;Apagador Chocolate;5,87;0,31
 1;Peso de papel Cobre;1,68;0,52
 1;Protetor de folhas Azul petroleo;2,81;0,45
@@ -7070,10 +7070,10 @@
 1;Pasta de plastico Terracota;4,43;0,63
 1;Peso de papel Rubro;5,17;0,23
 1;Fita adesiva Rosa bebe;7,12;0,60
-1;Regua Ouro;4,85;0,54
-1;Papel colorido Uva;3,78;0,34
+1;Regua Ouro ;4,85;0,54
+1;Papel colorido uva;3,78;0,34
 1;Post-its Branco fantasma;5,13;0,64
-1;Caneta-tinteiro Mostarda;3,57;0,23
+1;Caneta-tinteiro Mostarda ;3,57;0,23
 1;Protetor de folhas Borgonha;1,59;0,41
 1;Tachinha Caqui;3,59;0,44
 1;Transferidor Azul profundo;4,89;0,41
@@ -7094,8 +7094,8 @@
 1;Compasso Azul bebe;7,87;0,65
 1;Apagador Turquesa media;2,34;0,25
 1;Caneta marcador Coral claro;7,56;0,25
-1;Organizador Turquesa clara;6,24;0,25
-1;Esquadro Violeta claro;3,05;0,40
+1;Organizador Turquesa clara ;6,24;0,25
+1;Esquadro Violeta claro ;3,05;0,40
 1;Pasta de plastico Laranja;2,91;0,24
 1;Papel cartao Madeira;4,15;0,33
 1;Papel para impressora Neve;3,39;0,24
@@ -7103,7 +7103,7 @@
 1;Fita adesiva Acafrao;3,32;0,27
 1;Grampo Cobre;2,20;0,33
 1;Esquadro Castanho claro;6,29;0,52
-1;Peso de papel Mostarda;7,87;0,46
+1;Peso de papel Mostarda ;7,87;0,46
 1;Lapis de cor Sepia;7,06;0,56
 1;Pasta de plastico Turquesa escura;2,98;0,22
 1;Caneta esferografica Urucum;6,38;0,49
@@ -7132,14 +7132,14 @@
 1;Liquido de correcao Salmao escuro;2,06;0,53
 1;Elastico Azul bebe;3,77;0,43
 1;Etiqueta grande Salmao claro;2,28;0,65
-1;Furador Violeta claro;4,79;0,46
+1;Furador Violeta claro ;4,79;0,46
 1;Caneta esferografica Azul topazio;6,72;0,55
 1;Caneta-tinteiro Anil;7,12;0,50
 1;Grampeador Cenoura;5,90;0,61
 1;Papel reciclado Roxo;1,79;0,42
 1;Papel quadriculado Azul piscina;6,23;0,30
 1;Protetor de folhas Magenta escuro;5,84;0,42
-1;Caneta marcador Mostarda;4,26;0,64
+1;Caneta marcador Mostarda ;4,26;0,64
 1;Tachinha Kiwi;7,98;0,62
 1;Furador Marrom;4,11;0,63
 1;Papel para impressora Marrom claro;3,03;0,54
@@ -7151,15 +7151,15 @@
 1;Post-its Rosa;6,33;0,28
 1;Giz de cera Verde pastel;3,97;0,47
 1;Papel para impressora Anil;6,35;0,59
-1;Papel quadriculado Uva;5,35;0,50
-1;Grampo Violeta claro;3,71;0,27
+1;Papel quadriculado uva;5,35;0,50
+1;Grampo Violeta claro ;3,71;0,27
 1;Caneta esferografica Cinza medio;5,51;0,55
 1;Caderno Laranja;4,25;0,63
 1;Caderno Caramelo;5,46;0,42
 1;Cartao de papel Limao;4,72;0,57
 1;Pasta de plastico Rosa;3,49;0,31
 1;Ficheiro Rosa choque;4,76;0,45
-1;Papel cartao Fucsia;1,95;0,52
+1;Papel cartao Fucsia ;1,95;0,52
 1;Grampeador Azul cadete;6,89;0,35
 1;Apagador Purpura;5,47;0,49
 1;Lapiseira Amarelo canario;2,90;0,45
@@ -7171,8 +7171,8 @@
 1;Folha laminada Rosa escuro;1,91;0,31
 1;Regua Azul marinho;1,80;0,53
 1;Papel reciclado Rosa brilhante;1,52;0,35
-1;Protetor de folhas Verde mar;5,90;0,38
-1;Papel reciclado Verde mar;6,42;0,29
+1;Protetor de folhas Verde mar ;5,90;0,38
+1;Papel reciclado Verde mar ;6,42;0,29
 1;Grampo Vermelho escuro;4,51;0,58
 1;Bloco com pauta Salmao;5,53;0,23
 1;Apontador Naval;5,19;0,57
@@ -7180,7 +7180,7 @@
 1;Cola em bastao Caramelo;5,47;0,41
 1;Calculadora Verde;3,79;0,25
 1;Caneta marcador Tomate;3,03;0,36
-1;Cola Verde mar;6,77;0,22
+1;Cola Verde mar ;6,77;0,22
 1;Fita adesiva Cinza fosco;3,40;0,40
 1;Envelope Azul brasilis;4,95;0,49
 1;Pasta de plastico Rosa bebe;6,14;0,54
@@ -7189,7 +7189,7 @@
 1;Compasso Branco antigo;3,24;0,64
 1;Alfinete Azul topazio;7,16;0,56
 1;Cola em bastao Ferrugem;3,10;0,58
-1;Grampo Gengibre;4,15;0,59
+1;Grampo Gengibre ;4,15;0,59
 1;Cola Verde fluorescente;3,54;0,59
 1;Ficheiro Azul profundo;5,89;0,55
 1;Cartolina Verde grama;2,66;0,54
@@ -7202,11 +7202,11 @@
 1;Fita adesiva Azul brasilis;3,43;0,39
 1;Apagador Rosa;4,03;0,61
 1;Tachinha Cinza claro;2,76;0,44
-1;Alfinete Fucsia;7,10;0,51
+1;Alfinete Fucsia ;7,10;0,51
 1;Apontador Dourado;6,38;0,29
 1;Ficheiro Marrom escuro;4,96;0,40
 1;Calculadora Orquidea clara;1,57;0,21
-1;Lapiseira Uva;1,95;0,62
+1;Lapiseira uva;1,95;0,62
 1;Lapis de cor Urucum;1,70;0,49
 1;Prancheta Cinza;3,13;0,26
 1;Lapis Verde grama;6,35;0,41
@@ -7217,13 +7217,13 @@
 1;Peso de papel Grena;6,20;0,52
 1;Compasso Borgonha;2,19;0,33
 1;Giz de cera Naval;6,93;0,28
-1;Furador Linho;7,70;0,27
-1;Post-its Verde mar;5,60;0,61
+1;Furador Linho ;7,70;0,27
+1;Post-its Verde mar ;5,60;0,61
 1;Caneta esferografica Magenta escuro;3,44;0,45
-1;Etiqueta pequena Linho;3,27;0,54
+1;Etiqueta pequena Linho ;3,27;0,54
 1;Etiqueta pequena Bordo;1,82;0,48
 1;Cartao de papel Salmao;1,96;0,25
-1;Prancheta Turquesa clara;2,43;0,46
+1;Prancheta Turquesa clara ;2,43;0,46
 1;Etiqueta grande Dourado;2,75;0,37
 1;Lapis de cor Rubro;6,52;0,62
 1;Folha laminada Purpura;4,57;0,34
@@ -7231,20 +7231,20 @@
 1;Prancheta Rosa bebe;3,23;0,30
 1;Bloco de notas Madeira;2,67;0,21
 1;Caneta esferografica Creme;4,70;0,48
-1;Tachinha Violeta claro;5,36;0,27
+1;Tachinha Violeta claro ;5,36;0,27
 1;Papel cartao Goiaba;3,40;0,43
 1;Transferidor Magenta escuro;5,03;0,42
 1;Lapis Pessego;1,55;0,28
-1;Grampeador Mostarda;2,58;0,40
-1;Lapis de cor Verde mar;6,64;0,21
+1;Grampeador Mostarda ;2,58;0,40
+1;Lapis de cor Verde mar ;6,64;0,21
 1;Clipe Acafrao;4,89;0,50
 1;Envelope Amarelo claro;5,72;0,23
 1;Protetor de folhas Ametista;3,53;0,38
-1;Lapis de cor Gengibre;4,51;0,50
+1;Lapis de cor Gengibre ;4,51;0,50
 1;Protetor de folhas Turquesa escura;4,24;0,34
 1;Pasta de papel Oliva escura;6,65;0,22
 1;Folha laminada Chocolate;6,63;0,37
-1;Protetor de folhas Gengibre;1,58;0,33
+1;Protetor de folhas Gengibre ;1,58;0,33
 1;Post-its Vermelho claro;4,99;0,60
 1;Transferidor Azul cobalto;2,00;0,36
 1;Transferidor Neve;6,13;0,52
@@ -7259,12 +7259,12 @@
 1;Cartucho de tinta Verde agua;4,78;0,39
 1;Lapis Azul profundo;1,58;0,59
 1;Caneta marcador Verde escuro;5,73;0,53
-1;Caderno Turquesa clara;3,56;0,30
+1;Caderno Turquesa clara ;3,56;0,30
 1;Transferidor Cereja;6,90;0,30
 1;Caneta-tinteiro Salmao escuro;6,23;0,63
 1;Clipe Azul turquesa;7,81;0,31
 1;Caneta marcador Dourado escuro;6,90;0,41
-1;Bloco com pauta Violeta claro;3,14;0,63
+1;Bloco com pauta Violeta claro ;3,14;0,63
 1;Bloco de notas Jade;7,66;0,41
 1;Elastico Laranja claro;4,93;0,57
 1;Prancheta Jade;7,38;0,52
@@ -7276,7 +7276,7 @@
 1;Giz de cera Azul marinho;6,29;0,59
 1;Papel quadriculado Roxo;3,73;0,45
 1;Liquido de correcao Azul topazio;7,28;0,54
-1;Papel quadriculado Linho;2,55;0,39
+1;Papel quadriculado Linho ;2,55;0,39
 1;Tesoura Orquidea escura;5,00;0,23
 1;Papel para impressora Vermelho claro;4,25;0,56
 1;Caneta-tinteiro Vermelho;6,74;0,22
@@ -7306,7 +7306,7 @@
 1;Ficheiro Verde menta;4,17;0,23
 1;Furador Oliva parda;2,53;0,49
 1;Cola Verde escuro;7,94;0,30
-1;Esquadro Jasmine;6,84;0,53
+1;Esquadro Jasmine ;6,84;0,53
 1;Peso de papel Azul medio;3,12;0,65
 1;Esquadro Jambo;7,05;0,45
 1;Peso de papel Coral;6,30;0,30
@@ -7314,7 +7314,7 @@
 1;Peso de papel Azul cobalto;4,33;0,40
 1;Fita de correcao Encarnado;7,97;0,41
 1;Giz de cera Branco antigo;5,62;0,31
-1;Bloco de notas Bronze;6,24;0,60
+1;Bloco de notas Bronze ;6,24;0,60
 1;Cola em bastao Verde lima;6,77;0,55
 1;Etiqueta pequena Acafrao;2,33;0,46
 1;Clipe Naval;2,50;0,45
@@ -7333,8 +7333,8 @@
 1;Esquadro Preto;2,15;0,38
 1;Fita adesiva Bordo;7,48;0,59
 1;Transferidor Anil;5,35;0,36
-1;Caneta marcador Bronze;2,72;0,59
-1;Papel quadriculado Verde mar;4,87;0,55
+1;Caneta marcador Bronze ;2,72;0,59
+1;Papel quadriculado Verde mar ;4,87;0,55
 1;Grampo Grena;4,18;0,29
 1;Caneta esferografica Bordo;1,99;0,56
 1;Cartao de papel Bordo;3,56;0,43
@@ -7356,9 +7356,9 @@
 1;Caderno Castanho claro;4,10;0,50
 1;Giz de cera Chocolate;7,68;0,50
 1;Post-its Rosa choque;7,27;0,27
-1;Ficheiro Mostarda;5,13;0,41
+1;Ficheiro Mostarda ;5,13;0,41
 1;Prancheta Amarelo escuro;1,70;0,33
-1;Apontador Verde mar;2,80;0,22
+1;Apontador Verde mar ;2,80;0,22
 1;Tachinha Oliva parda;3,92;0,31
 1;Post-its Vermelho escuro;4,92;0,22
 1;Esquadro Azul turquesa;3,70;0,41
@@ -7371,7 +7371,7 @@
 1;Folha laminada Prata;2,36;0,30
 1;Cola em bastao Carmim;2,91;0,44
 1;Lapis Rosa profundo;6,54;0,64
-1;Apagador Violeta claro;2,24;0,25
+1;Apagador Violeta claro ;2,24;0,25
 1;Fita de correcao Cinza claro;5,78;0,39
 1;Bloco com pauta Azul real;2,38;0,27
 1;Apagador Ebano;4,71;0,54
@@ -7380,7 +7380,7 @@
 1;Ficheiro Madeira;7,62;0,62
 1;Caneta esferografica Azul profundo;2,68;0,64
 1;Esquadro Lilas;2,20;0,29
-1;Cartucho de tinta Quartzo rosa;5,67;0,56
+1;Cartucho de tinta Quartzo rosa ;5,67;0,56
 1;Pasta de papel Amarelo;3,68;0,30
 1;Apontador Verde claro;6,48;0,35
 1;Peso de papel Oliva;1,82;0,40
@@ -7389,7 +7389,7 @@
 1;Bloco com pauta Urucum;4,42;0,21
 1;Grampeador Azul profundo;4,12;0,62
 1;Protetor de folhas Orquidea escura;7,82;0,47
-1;Grampo Bronze;2,23;0,58
+1;Grampo Bronze ;2,23;0,58
 1;Organizador Lilas;3,83;0,59
 1;Folha laminada Ocre;6,66;0,25
 1;Etiqueta pequena Rosa choque;2,98;0,57
@@ -7397,7 +7397,7 @@
 1;Post-its Branco;3,32;0,50
 1;Caneta-tinteiro Azul real;5,51;0,51
 1;Papel colorido Lima;2,62;0,45
-1;Papel para impressora Jasmine;1,52;0,48
+1;Papel para impressora Jasmine ;1,52;0,48
 1;Cola em bastao Turquesa;2,81;0,42
 1;Fita de correcao Neve;5,86;0,62
 1;Papel para impressora Jambo;7,20;0,54
@@ -7430,7 +7430,7 @@
 1;Lapis de cor Ambar;7,17;0,64
 1;Envelope Grena;1,98;0,50
 1;Apontador Tomate;4,53;0,52
-1;Lapis de cor Uva;2,65;0,38
+1;Lapis de cor uva;2,65;0,38
 1;Lapis Cinza claro;2,80;0,47
 1;Papel quadriculado Rubro;1,71;0,33
 1;Post-its Castanho claro;2,20;0,30
@@ -7442,7 +7442,7 @@
 1;Envelope Rosa;5,37;0,28
 1;Fita de correcao Limao;5,73;0,39
 1;Etiqueta grande Preto;4,91;0,38
-1;Clipe Linho;6,55;0,63
+1;Clipe Linho ;6,55;0,63
 1;Cartolina Verde menta;4,92;0,59
 1;Caneta esferografica Madeira;7,65;0,23
 1;Cartao de papel Orquidea escura;4,56;0,50
@@ -7459,7 +7459,7 @@
 1;Apagador Azul real;4,37;0,29
 1;Protetor de folhas Creme;6,49;0,23
 1;Peso de papel Ferrugem;5,34;0,58
-1;Cartolina Violeta claro;5,87;0,45
+1;Cartolina Violeta claro ;5,87;0,45
 1;Compasso Orquidea escura;1,96;0,63
 1;Papel cartao Azul piscina;6,72;0,58
 1;Giz de cera Orquidea escura;7,50;0,38
@@ -7478,7 +7478,7 @@
 1;Organizador Oliva;5,05;0,27
 1;Papel colorido Amarelo canario;6,55;0,27
 1;Lapis Escarlate;7,67;0,48
-1;Grampeador Violeta claro;3,77;0,60
+1;Grampeador Violeta claro ;3,77;0,60
 1;Caderno Chocolate;3,25;0,25
 1;Lapiseira Azul claro;5,15;0,62
 1;Cartao de papel Chocolate;5,25;0,59
@@ -7504,7 +7504,7 @@
 1;Elastico Rosa;7,33;0,38
 1;Bloco de notas Azul profundo;3,47;0,44
 1;Lapiseira Vermelho claro;3,08;0,56
-1;Peso de papel Linho;5,41;0,38
+1;Peso de papel Linho ;5,41;0,38
 1;Giz de cera Cinza claro;1,59;0,55
 1;Cartao de papel Orquidea;7,37;0,40
 1;Etiqueta pequena Laranja;2,18;0,23
@@ -7532,16 +7532,16 @@
 1;Alfinete Ameixa;2,86;0,57
 1;Lapis Laranja escuro;1,69;0,45
 1;Pasta de plastico Marrom escuro;2,80;0,32
-1;Apagador Verde mar;3,75;0,41
+1;Apagador Verde mar ;3,75;0,41
 1;Organizador Tangerina;7,13;0,35
 1;Peso de papel Esmeralda;4,69;0,35
-1;Elastico Ouro;3,53;0,38
-1;Envelope Violeta claro;4,39;0,50
+1;Elastico Ouro ;3,53;0,38
+1;Envelope Violeta claro ;4,39;0,50
 1;Alfinete Roxo;3,23;0,49
 1;Envelope Caqui escuro;7,26;0,24
 1;Cola em bastao Ambar;4,87;0,52
 1;Tachinha Dourado;2,15;0,57
-1;Bloco de notas Gengibre;7,82;0,41
+1;Bloco de notas Gengibre ;7,82;0,41
 1;Etiqueta pequena Preto;2,09;0,33
 1;Fita de correcao Violeta escuro;7,62;0,27
 1;Bloco com pauta Laranja;2,83;0,60
@@ -7570,7 +7570,7 @@
 1;Folha laminada Jade;5,55;0,34
 1;Tesoura Azul brasilis;5,38;0,50
 1;Protetor de folhas Bege;7,94;0,23
-1;Regua Gengibre;3,81;0,51
+1;Regua Gengibre ;3,81;0,51
 1;Fita de correcao Chocolate;2,34;0,38
 1;Tesoura Orquidea;4,79;0,29
 1;Elastico Encarnado;4,21;0,23
@@ -7585,7 +7585,7 @@
 1;Clipe Chocolate;2,15;0,27
 1;Ficheiro Oliva;6,52;0,36
 1;Fita de correcao Verde pastel;5,08;0,24
-1;Cola Uva;5,93;0,38
+1;Cola uva;5,93;0,38
 1;Calculadora Grena;5,81;0,36
 1;Lapis Amarelo creme;6,82;0,60
 1;Bloco de notas Azul brasilis;3,32;0,47
@@ -7613,8 +7613,8 @@
 1;Cola em bastao Branco;1,61;0,32
 1;Caneta-tinteiro Vermelho indiano;3,64;0,41
 1;Caneta-tinteiro Branco fantasma;3,25;0,30
-1;Regua Linho;7,86;0,56
-1;Caneta marcador Linho;2,79;0,23
+1;Regua Linho ;7,86;0,56
+1;Caneta marcador Linho ;2,79;0,23
 1;Papel quadriculado Malva;7,17;0,22
 1;Post-its Orquidea;4,88;0,46
 1;Folha laminada Azul claro;7,09;0,25
@@ -7640,7 +7640,7 @@
 1;Tachinha Cinza medio;1,89;0,26
 1;Esquadro Neve;7,06;0,29
 1;Liquido de correcao Cinza claro;4,93;0,21
-1;Bloco com pauta Uva;2,34;0,20
+1;Bloco com pauta uva;2,34;0,20
 1;Papel colorido Gris;4,39;0,61
 1;Elastico Bege;4,21;0,37
 1;Papel reciclado Sepia;2,80;0,44
@@ -7663,7 +7663,7 @@
 1;Bloco de notas Rosa;2,71;0,42
 1;Tesoura Marrom claro;7,71;0,53
 1;Grampo Orquidea;1,68;0,59
-1;Cartucho de tinta Bronze;5,01;0,32
+1;Cartucho de tinta Bronze ;5,01;0,32
 1;Cola em bastao Verde pastel;4,31;0,61
 1;Lapis de cor Cinza claro;3,99;0,23
 1;Fita adesiva Turquesa escura;7,93;0,36
@@ -7671,7 +7671,7 @@
 1;Caneta esferografica Neve;6,17;0,25
 1;Esquadro Sepia;2,45;0,38
 1;Cartolina Azul real;3,24;0,36
-1;Envelope Jasmine;6,26;0,43
+1;Envelope Jasmine ;6,26;0,43
 1;Grampeador Amarelo claro;6,72;0,63
 1;Clipe Marrom claro;4,74;0,29
 1;Fita de correcao Azul ardosia;3,81;0,46
@@ -7681,7 +7681,7 @@
 1;Pasta de papel Azul cobalto;3,27;0,38
 1;Cola em bastao Cereja;6,58;0,51
 1;Calculadora Amarelo claro;3,53;0,57
-1;Grampo Quartzo rosa;1,83;0,55
+1;Grampo Quartzo rosa ;1,83;0,55
 1;Lapiseira Amarelo creme;5,79;0,49
 1;Papel quadriculado Caqui escuro;6,79;0,52
 1;Regua Vermelho escuro;5,65;0,45
@@ -7695,7 +7695,7 @@
 1;Cola em bastao Vermelho claro;7,27;0,23
 1;Apontador Laranja escuro;3,99;0,52
 1;Lapiseira Dourado;5,61;0,34
-1;Lapiseira Mostarda;7,80;0,60
+1;Lapiseira Mostarda ;7,80;0,60
 1;Caneta esferografica Esmeralda;2,10;0,24
 1;Cartucho de tinta Verde pastel;4,65;0,47
 1;Papel reciclado Bordo;7,71;0,35
@@ -7711,12 +7711,12 @@
 1;Pasta de plastico Verde pastel;5,29;0,54
 1;Papel reciclado Agua-marinha;3,62;0,33
 1;Peso de papel Rosa bebe;4,25;0,23
-1;Transferidor Linho;2,87;0,52
-1;Caneta esferografica Verde mar;6,01;0,53
+1;Transferidor Linho ;2,87;0,52
+1;Caneta esferografica Verde mar ;6,01;0,53
 1;Lapiseira Sepia;6,92;0,40
 1;Giz de cera Marfim;1,78;0,55
 1;Lapiseira Oliva;5,03;0,45
-1;Compasso Linho;7,22;0,21
+1;Compasso Linho ;7,22;0,21
 1;Cola Azul;7,18;0,51
 1;Peso de papel Castanho;3,25;0,23
 1;Caneta marcador Ameixa;2,98;0,27
@@ -7748,4 +7748,4 @@
 1;Apontador Amarelo;6,03;0,57
 1;Folha laminada Cereja;5,57;0,36
 1;Lapis Azul medio;3,28;0,32
-1;Envelope Verde mar;7,26;0,25
+1;Envelope Verde mar ;7,26;0,25

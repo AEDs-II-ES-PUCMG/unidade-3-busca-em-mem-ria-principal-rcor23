@@ -1,3 +1,5 @@
+import java.time.Duration;
+import java.time.LocalDateTime;
 import java.util.Comparator;
 import java.util.NoSuchElementException;
 import java.util.function.Function;
@@ -7,55 +9,62 @@ public class ABB<K, V> implements IMapeamento<K, V>{
 	private No<K, V> raiz; // referência à raiz da árvore.
 	private Comparator<K> comparador; //comparador empregado para definir "menores" e "maiores".
 	private int tamanho;
-	private long comparacoes;
-	private long inicio;
-	private long termino;
+
+    private long comparacoes;
+    private double tempo;
 	
 	/**
 	 * Método auxiliar para inicialização da árvore binária de busca.
 	 * 
 	 * Este método define a raiz da árvore como {@code null} e seu tamanho como 0.
-	 * Utiliza o comparador fornecido para definir a organização dos elementos na árvore.
+	 * Se o comparador fornecido for {@code null}, o comparador padrão de ordem natural
+	 * será utilizado.
+	 * 
 	 * @param comparador o comparador para organizar os elementos da árvore.
 	 */
+	@SuppressWarnings("unchecked")
 	private void init(Comparator<K> comparador) {
 		raiz = null;
 		tamanho = 0;
+		if (comparador == null) {
+			comparador = (Comparator<K>) Comparator.naturalOrder();
+		}
 		this.comparador = comparador;
 	}
-
+	
 	/**
-	 * Construtor da classe.
-	 * O comparador padrão de ordem natural será utilizado.
-	 */ 
-	@SuppressWarnings("unchecked")
-	public ABB() {
-	    init((Comparator<K>) Comparator.naturalOrder());
-	}
-
-	/**
-	 * Construtor da classe.
-	 * Esse construtor cria uma nova árvore binária de busca vazia.
-	 *  
-	 * @param comparador o comparador a ser utilizado para organizar os elementos da árvore.  
-	 */
-	public ABB(Comparator<K> comparador) {
-	    init(comparador);
-	}
+     * Construtor da classe.
+     * Esse construtor cria uma nova árvore binária de busca vazia. Para isso, esse método atribui null à raiz da árvore.
+     */
+    public ABB() {
+        init(null);
+    }
 
     /**
      * Construtor da classe.
-     * Esse construtor cria uma nova árvore binária de busca a partir de uma outra árvore binária de busca,
+     * Esse construtor cria uma nova árvore binária de busca vazia utilizando o
+     * comparador fornecido para definir a organização dos elementos na árvore.
+     * Para isso, esse método atribui null à raiz da árvore.
+     *  
+     * @param comparador o comparador a ser utilizado para organizar os elementos da árvore.  
+     */
+    public ABB(Comparator<K> comparador) {
+        init(comparador);
+    }
+    
+    /**
+     * Construtor da classe.
+     * Esse construtor cria uma nova árvore binária a partir de uma outra árvore binária de busca,
      * com os mesmos itens, mas usando uma nova chave.
      * @param original a árvore binária de busca original.
      * @param funcaoChave a função que irá extrair a nova chave de cada item para a nova árvore.
      */
-    @SuppressWarnings("unchecked")
-	public ABB(ABB<?, V> original, Function<V, K> funcaoChave) {
-        ABB<K, V> nova = new ABB<>();
+    public ABB(ABB<?,V> original, Function<V,K> funcaoChave, Comparator<K> comparador) {
+        ABB<K,V> nova = new ABB<>();
         nova = copiarArvore(original.raiz, funcaoChave, nova);
         this.raiz = nova.raiz;
-        this.comparador = (Comparator<K>) Comparator.naturalOrder();
+        this.comparador = comparador;
+    
     }
     
     /**
@@ -66,7 +75,7 @@ public class ABB<K, V> implements IMapeamento<K, V>{
      * @param novaArvore Nova árvore. Parâmetro usado para permitir o retorno da recursividade.
      * @return A nova árvore com os itens copiados e usando a chave indicada pela função extratora.
      */
-    private <T> ABB<T, V> copiarArvore(No<?, V> raizArvore, Function<V, T> funcaoChave, ABB<T, V> novaArvore) {
+    private <T> ABB<T,V> copiarArvore(No<?,V> raizArvore, Function<V,T> funcaoChave, ABB<T,V> novaArvore) {
     	
         if (raizArvore != null) {
     		novaArvore = copiarArvore(raizArvore.getEsquerda(), funcaoChave, novaArvore);
@@ -77,16 +86,16 @@ public class ABB<K, V> implements IMapeamento<K, V>{
     	}
         return novaArvore;
     }
-    
+
     /**
-	 * Método booleano que indica se a árvore está vazia ou não.
-	 * @return
-	 * verdadeiro: se a raiz da árvore for null, o que significa que a árvore está vazia.
-	 * falso: se a raiz da árvore não for null, o que significa que a árvore não está vazia.
-	 */
-	public Boolean vazia() {
-	    return (this.raiz == null);
-	}
+     * Método booleano que indica se a árvore está vazia ou não.
+     * @return
+     * verdadeiro: se a raiz da árvore for null, o que significa que a árvore está vazia.
+     * falso: se a raiz da árvore não for null, o que significa que a árvore não está vazia.
+     */
+    public Boolean vazia() {
+        return (this.raiz == null);
+    }
     
     @Override
     /**
@@ -94,25 +103,27 @@ public class ABB<K, V> implements IMapeamento<K, V>{
      * @param chave a chave do item que será pesquisado na árvore.
      * @return o valor associado à chave.
      */
-	public V pesquisar(K chave) {
-    	comparacoes = 0;
-    	inicio = System.nanoTime();
-    	V procurado = pesquisar(raiz, chave);
-    	termino = System.nanoTime();
-    	return procurado;
-	}
+	public V pesquisar(K chave) {	
+        comparacoes = 0;
+        LocalDateTime inicio = LocalDateTime.now();
+        V item = pesquisar(raiz, chave);
+        LocalDateTime fim = LocalDateTime.now();
+        tempo = Duration.between(inicio, fim).toNanos();
+    	return item; 
+    }
     
     private V pesquisar(No<K, V> raizArvore, K procurado) {
     	
     	int comparacao;
     	
-    	comparacoes++;
+        comparacoes++;
     	if (raizArvore == null)
     		/// Se a raiz da árvore ou sub-árvore for null, a árvore/sub-árvore está vazia e então o item não foi encontrado.
     		throw new NoSuchElementException("O item não foi localizado na árvore!");
     	
     	comparacao = comparador.compare(procurado, raizArvore.getChave());
     	
+        comparacoes++;   
     	if (comparacao == 0)
     		/// O item procurado foi encontrado.
     		return raizArvore.getItem();
@@ -134,37 +145,39 @@ public class ABB<K, V> implements IMapeamento<K, V>{
      * 
      * @return o tamanho atualizado da árvore após a execução da operação de inserção.
      */
-    public int inserir(K chave, V item) {
-    	comparacoes = 0;
-    	inicio = System.nanoTime();
-    	raiz = inserir(raiz, chave, item);
-    	tamanho++;
-    	termino = System.nanoTime();
-    	return tamanho;
-    }
-
-    private No<K, V> inserir(No<K, V> raizArvore, K chave, V item) {
-
-    	if (raizArvore == null)
-    		/// Se a raiz da árvore ou sub-árvore for null, a árvore/sub-árvore está vazia e então um novo item é inserido.
-    		return new No<>(chave, item);
-
+	public int inserir(K chave, V item) {
+        comparacoes = 0;
+        LocalDateTime inicio = LocalDateTime.now();
+        raiz = inserir(raiz, chave, item);
+        LocalDateTime fim = LocalDateTime.now();
+        tempo = Duration.between(inicio, fim).toNanos();
+        tamanho++;
+		return tamanho;
+	}
+    
+    /**
+     * Método recursivo responsável por adicionar um item à árvore.
+     * @param raizArvore a raiz da árvore ou sub-árvore em que o item será adicionado.
+     * @param chave a chave associada ao item que deverá ser inserido.
+     * @param item o item que deverá ser adicionado à árvore.
+     * @return a raiz atualizada da árvore ou sub-árvore em que o item foi adicionado.
+     * @throws RuntimeException se um item com a mesma chave já estiver presente na árvore.
+     */
+    protected No<K, V> inserir(No<K, V> raizArvore, K chave, V item) {
     	comparacoes++;
-    	int comparacao = comparador.compare(chave, raizArvore.getChave());
+        if(raizArvore==null)
+            return new No<K,V>(chave, item);
+        
+        int comparacao = comparador.compare(chave, raizArvore.getChave());
 
-    	if (comparacao < 0)
-    		/// Se a chave do item a inserir for menor do que a chave do item armazenado na raiz da árvore:
-    		/// insira esse item na sub-árvore esquerda e atualize a referência para a sub-árvore esquerda.
-    		raizArvore.setEsquerda(inserir(raizArvore.getEsquerda(), chave, item));
-    	else if (comparacao > 0)
-    		/// Se a chave do item a inserir for maior do que a chave do item armazenado na raiz da árvore:
-    		/// insira esse item na sub-árvore direita e atualize a referência para a sub-árvore direita.
-    		raizArvore.setDireita(inserir(raizArvore.getDireita(), chave, item));
-    	else
-    		/// Já existe um item com essa chave na árvore.
-    		throw new IllegalArgumentException("O item já foi inserido anteriormente na árvore.");
-
-    	return raizArvore;
+        comparacoes++;
+        if(comparacao > 0)
+           raizArvore.setDireita(inserir(raizArvore.getDireita(), chave, item));
+        else if(comparacao < 0)
+                raizArvore.setEsquerda(inserir(raizArvore.getEsquerda(), chave, item));
+    	else  //comparacao == 0, ou seja, chave existe
+            throw new IllegalArgumentException("Elemento já existe na árvore");
+        return raizArvore;
     }
 
     @Override 
@@ -173,112 +186,104 @@ public class ABB<K, V> implements IMapeamento<K, V>{
     }
 
     @Override
-    public String percorrer() {
+	public String percorrer() {
+    	if (vazia())
+    		throw new IllegalStateException("A árvore está vazia!");
+    	
     	return caminhamentoEmOrdem(raiz);
+	}
+    
+    private String caminhamentoEmOrdem(No<K,V> raizArvore) {
+    	
+        if (raizArvore != null) {
+    		String resposta = caminhamentoEmOrdem(raizArvore.getEsquerda());
+    		resposta += raizArvore.getItem()+"\n";
+    		resposta += caminhamentoEmOrdem(raizArvore.getDireita());
+            return resposta;
+    	}
+        else return "";
+    }
+    
+    public Lista<V> recortar(K chaveInicio, K chaveFinal){
+        Lista<V> listaRecorte = new Lista<>();
+        recortarRecursivo(raiz, chaveInicio, chaveFinal, listaRecorte);
+        return listaRecorte;
     }
 
-    private String caminhamentoEmOrdem(No<K, V> raizArvore) {
-    	if (raizArvore == null)
-    		return "";
-
-    	String resposta = caminhamentoEmOrdem(raizArvore.getEsquerda());
-    	resposta += raizArvore.getItem() + "\n";
-    	resposta += caminhamentoEmOrdem(raizArvore.getDireita());
-
-    	return resposta;
+    private void recortarRecursivo(No<K,V> raizSubArvore, K chaveInicio, K chaveFinal, Lista<V> listaRecorte){
+        if(raizSubArvore == null)
+            return;
+        if( comparador.compare(chaveInicio, raizSubArvore.getChave()) > 0)
+                recortarRecursivo(raizSubArvore.getDireita(), chaveInicio, chaveFinal, listaRecorte);
+        else if( comparador.compare(chaveFinal, raizSubArvore.getChave()) < 0)
+                recortarRecursivo(raizSubArvore.getEsquerda(), chaveInicio, chaveFinal, listaRecorte);
+        else {
+            recortarRecursivo(raizSubArvore.getEsquerda(), chaveInicio, chaveFinal, listaRecorte);
+            listaRecorte.inserir(raizSubArvore.getItem());
+            recortarRecursivo(raizSubArvore.getDireita(), chaveInicio, chaveFinal, listaRecorte);
+        }
     }
 
-    @Override
-    /**
+	@Override
+	/**
      * Método que encapsula a remoção recursiva de um item da árvore.
      * @param chave a chave do item que deverá ser localizado e removido da árvore.
      * @return o valor associado ao item removido.
-     */
-    public V remover(K chave) {
-    	V removido = pesquisar(chave);
+	 */
+	public V remover(K chave) {
+		V elemento = pesquisar(raiz, chave);
+        //marcar tempo e comparações
+        raiz = remover(raiz, chave);
 
-    	comparacoes = 0;
-    	inicio = System.nanoTime();
-    	raiz = remover(raiz, chave);
-    	tamanho--;
-    	termino = System.nanoTime();
-
-    	return removido;
-    }
-
-    private No<K, V> remover(No<K, V> raizArvore, K chaveRemover) {
-
-    	comparacoes++;
-    	int comparacao = comparador.compare(chaveRemover, raizArvore.getChave());
-
-    	if (comparacao == 0) {
-    		/// O item armazenado na raiz da árvore é o item que deve ser retirado.
-    		if (raizArvore.getDireita() == null)
-    			/// Não há descendente à direita: a sub-árvore esquerda assume o lugar do nó removido.
-    			return raizArvore.getEsquerda();
-    		else if (raizArvore.getEsquerda() == null)
-    			/// Não há descendente à esquerda: a sub-árvore direita assume o lugar do nó removido.
-    			return raizArvore.getDireita();
-    		else
-    			/// O nó tem os dois descendentes: localiza-se o antecessor na sub-árvore esquerda
-    			/// e ele passa a ocupar o lugar do nó removido.
-    			raizArvore.setEsquerda(removerAntecessor(raizArvore, raizArvore.getEsquerda()));
-    	} else if (comparacao < 0)
-    		/// A chave a remover é menor: procure e remova na sub-árvore esquerda.
-    		raizArvore.setEsquerda(remover(raizArvore.getEsquerda(), chaveRemover));
-    	else
-    		/// A chave a remover é maior: procure e remova na sub-árvore direita.
-    		raizArvore.setDireita(remover(raizArvore.getDireita(), chaveRemover));
-
-    	return raizArvore;
-    }
-
-    /**
-     * Localiza, na sub-árvore informada, o antecessor do nó a ser removido (a maior chave
-     * dentre as menores que a dele), transfere seus dados para o nó removido e o retira da árvore.
-     * @param itemRetirar nó cujo conteúdo será substituído pelo do antecessor.
-     * @param raizArvore raiz da sub-árvore em que o antecessor deve ser localizado.
-     * @return a raiz atualizada da sub-árvore, após a remoção do antecessor.
-     */
-    private No<K, V> removerAntecessor(No<K, V> itemRetirar, No<K, V> raizArvore) {
-    	if (raizArvore.getDireita() != null) {
-    		/// O antecessor ainda não foi encontrado: continue procurando na sub-árvore direita.
-    		raizArvore.setDireita(removerAntecessor(itemRetirar, raizArvore.getDireita()));
-    		return raizArvore;
-    	}
-
-    	/// O antecessor foi encontrado: seus dados substituem os do nó a ser removido,
-    	/// e sua sub-árvore esquerda assume o seu lugar.
-    	itemRetirar.setChave(raizArvore.getChave());
-    	itemRetirar.setItem(raizArvore.getItem());
-    	return raizArvore.getEsquerda();
-    }
-
-    
-    public Lista<V> recortar(K chaveDeOnde, K chaveAteOnde) {
-    	Lista<V> itens = new Lista<>();
-    	recortar(raiz, chaveDeOnde, chaveAteOnde, itens);
-		return itens;
+		return elemento;
 	}
+    
+    protected No<K,V> remover(No<K,V> raizSubArvore, K chave) {
+        int comparacao;
+    	
+        comparacoes++;
+    	if (raizSubArvore == null)
+    		/// Se a raiz da árvore ou sub-árvore for null, a árvore/sub-árvore está vazia e então o item não foi encontrado.
+    		throw new NoSuchElementException("O item não foi localizado na árvore!");
+    	
+    	comparacao = comparador.compare(chave, raizSubArvore.getChave());
+    	
+        comparacoes++;   
+    	if (comparacao == 0){
+    		/// O item procurado foi encontrado.
+            int grau = raizSubArvore.grau();
+            switch (grau) {
+                case 0 -> {return null;}
+                case 1 -> {return raizSubArvore.getDireita();}
+                case -1 -> {return raizSubArvore.getEsquerda();}
+                case 2 -> removerAntecessor(raizSubArvore);
+            }   
+        }	
+    	else if (comparacao < 0)
+    		/// Se o item procurado for menor do que o item armazenado na raiz da árvore:
+            /// pesquise esse item na sub-árvore esquerda.    
+    		raizSubArvore.setEsquerda(remover(raizSubArvore.getEsquerda(), chave));
+    	else
+    		/// Se o item procurado for maior do que o item armazenado na raiz da árvore:
+            /// pesquise esse item na sub-árvore direita.
+    		raizSubArvore.setDireita(remover(raizSubArvore.getDireita(), chave));
+    
+        return raizSubArvore;
+    }
 
-    private void recortar(No<K, V> raizArvore, K chaveDeOnde, K chaveAteOnde, Lista<V> itens) {
-    	if (raizArvore == null)
-    		return;
+    private void removerAntecessor(No<K,V> raizSubArvore){
+        //descobrindo o antecessor
+        No<K,V> antecessor = raizSubArvore.getEsquerda();
+        while (antecessor.getDireita()!=null) {
+            antecessor = antecessor.getDireita();            
+        }
 
-    	int comparacaoInicio = comparador.compare(raizArvore.getChave(), chaveDeOnde);
-    	int comparacaoFim = comparador.compare(raizArvore.getChave(), chaveAteOnde);
+        //copiar dados do antecessor para a raiz grau 2
+        raizSubArvore.setItem(antecessor.getItem());
+        raizSubArvore.setChave(antecessor.getChave());
 
-    	if (comparacaoInicio > 0)
-    		/// Só há chance de existir item no intervalo à esquerda se a chave atual for maior que o início do intervalo.
-    		recortar(raizArvore.getEsquerda(), chaveDeOnde, chaveAteOnde, itens);
-
-    	if (comparacaoInicio >= 0 && comparacaoFim <= 0)
-    		/// A chave do nó atual está dentro do intervalo pedido.
-    		itens.inserir(raizArvore.getItem());
-
-    	if (comparacaoFim < 0)
-    		/// Só há chance de existir item no intervalo à direita se a chave atual for menor que o fim do intervalo.
-    		recortar(raizArvore.getDireita(), chaveDeOnde, chaveAteOnde, itens);
+        //remover o antecessor duplicado do lado esquerdo
+        raizSubArvore.setEsquerda(remover(raizSubArvore.getEsquerda(), raizSubArvore.getChave()));
     }
 
 	@Override
@@ -293,6 +298,6 @@ public class ABB<K, V> implements IMapeamento<K, V>{
 
 	@Override
 	public double getTempo() {
-		return (termino - inicio) / 1_000_000;
+		return tempo;
 	}
 }
